@@ -1,0 +1,231 @@
+.fifu_lightbox_div {
+    position: relative;
+    width: 100%;
+    z-index:1000;
+}
+
+.fifu_lightbox_icon {
+    opacity:0.7;
+    color:white;
+    position:absolute;
+    margin: auto;
+    bottom:0;
+    right:0;
+    height: 30px !important;
+    background-color: black;
+    width: 30px !important;
+    padding: 5px 1px 1px 1px;
+    border: none;
+    border-radius: 3px;
+}
+
+a.fifu_lightbox_link:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.fancybox-content {
+    padding: 0px !important;
+    border-radius: 10px;
+}
+
+@media (max-width : 500px) {
+    .fancybox-content {
+        padding: 1px !important;
+    }
+}
+
+/* fix lightGallery for storefront */
+button::after {
+    display: inline !important;
+}
+
+table.fifu-lightbox-table {
+    font-family: Arial, Helvetica, sans-serif !important;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 13px;
+    margin: 0 !important;
+    table-layout: unset;
+    line-height: 1.4 !important;
+    border: 1px;
+}
+
+table.fifu-lightbox-table > tbody > tr > td, .fifu-lightbox-table th {
+    border: 1px solid #ffffff;
+    padding: 0;
+    vertical-align: middle;
+}
+
+table.fifu-lightbox-table > tbody > tr:nth-child(odd){
+    background-color: #fdfdfd !important;
+    background: unset;
+}
+
+table.fifu-lightbox-table > tbody > tr:nth-child(even){
+    background-color: #fbfbfb !important;
+}
+
+table.fifu-lightbox-table th {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: left;
+    background-color: #fbfbfb;
+    color: white;
+}
+
+table.fifu-lightbox-table > tbody > tr > td > select {
+    background-color: #fafafa;
+    border-color: #ececec;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: black;
+    font-weight: 500;
+    margin: 0 !important;
+    font-size: 13px !important;
+    border: solid 1px #ececec;
+}
+
+table.fifu-lightbox-table input {
+    border-radius: 5px;
+    border: none !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    color: black;
+    margin: 0;
+    padding-left: 10px;
+}
+
+table.fifu-lightbox-table input:focus {
+    outline: none !important;
+    border:none;
+    box-shadow: none;
+}
+
+table.fifu-lightbox-table > tbody > tr > td > label {
+    color: black;
+    font-size: 13px;
+    display: block !important;
+    text-align: left;
+    font-weight: 550;
+    margin: unset !important;
+}
+
+table.fifu-lightbox-table > tbody > tr > td.label {
+    display: table-cell !important;
+    vertical-align: middle;
+    padding-left: 5px;
+}
+
+div.fancybox-container {
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 13px;
+}
+
+div.fancybox-inner button.lg-icon {
+    background: none;
+}
+
+div.fancybox-inner ins {
+    background: none;
+    text-decoration: none;
+    color: #B12704;
+}
+
+div.fancybox-inner div#fifu-lightbox-description p {
+    font-size: 13px !important;
+    line-height: 1.4 !important;
+    font-weight: 300 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: #8c8c8c;
+    margin: 0;
+}
+
+div#fifu-lightbox-form > form.variations_form {
+    margin: unset;
+}
+
+div#fifu-lightbox-form option.enabled {
+    color: black;
+}
+
+div#fifu-price * {
+    font-size: 13px !important;
+    margin: unset;
+    text-align: left;
+}
+
+#fifu-out-of-stock {
+    float: right;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 3px;
+    background-color: #B12704;
+    color: white;
+    text-transform: lowercase;
+}
+
+#fifu-in-stock {
+    float: right;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 3px;
+    background-color: #0479b1;
+    color: white;
+    text-transform: lowercase;
+}
+
+#fifu-add-to-cart {
+    cursor: pointer;
+    background-color: #21b104;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    vertical-align: middle;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif !important;
+    position: relative;
+    float: right;
+    height: 35px;
+    line-height: 35px;
+    box-shadow: 0px 2px #888888;
+    border-radius: 0 0 3px 3px;
+    text-transform: uppercase;
+}
+
+.fifu-expand {
+    position: absolute !important;
+    top: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, .15);
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    z-index: 100 !important;
+}
+
+.fifu-disclaimer {
+    font-family: Arial, Helvetica, sans-serif !important;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 11px;
+    margin: 0 !important;
+    table-layout: unset;
+    line-height: 1.4 !important;
+    border: 1px;
+    text-align: center;
+    font-style: italic;
+    padding-top: 40px;
+    color: #666;
+    background-color: #e8e8e8;
+}
+
+.fifu-description {
+    padding:8px;
+    font-size:13px;
+    line-height:1.4 !important;
+    line-weight:300 !important;
+    color:#8c8c8c;
+}

@@ -1,0 +1,41 @@
+ul.taxopress-term-linked-terms li {
+    border: 1px solid #cccccc;
+    background-color: #fdfdfd;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    cursor: move;
+    display: inline-block;
+    margin-top: 0;
+    margin-right: 5px;
+}
+
+ul.taxopress-term-linked-terms li::before {
+    content: attr(data-position);
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 0.75em;
+    padding: 2px;
+}
+
+.taxopress-term-position-msg {
+    border-left: 4px solid #f0b849;
+    padding: 10px;
+    margin-top: 10px;
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+.taxopress-term-position-msg strong {
+    font-weight: bold;
+    font-size: 0.8em;
+    vertical-align: super;
+    color: #155724;
+}
+
+ul.taxopress-term-linked-terms li .remove-linked_term {
+    cursor: pointer;
+}

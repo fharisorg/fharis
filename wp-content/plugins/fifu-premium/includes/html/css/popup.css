@@ -1,0 +1,18 @@
+.fifu-popup-container {
+    display:inline-block !important;
+    padding-top:0px !important;
+    padding-bottom:0px !important;
+    padding-left:0px !important;
+    padding-right:0px !important;
+    overflow: hidden !important;
+    border-radius: 15px;
+}
+
+.fifu-popup-container button.fancybox-button {
+    background-color: brown;
+    color: white;
+    margin: 0px;
+    z-index: 999999;
+    opacity: 0.95;
+    border-radius: 0px 15px;
+}

@@ -1,0 +1,94 @@
+.scraper-control-button .dashicons{
+	margin-top:3px;
+}
+
+.scraper-visual-editor{
+    border: 0px;
+    width: 100%;
+    height: 900px;
+    background: #fff;
+}
+
+#output_area{
+    background: #fff;
+    width: 100%;
+    padding: 20px;
+    border: solid 1px #ccc;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    box-shadow: 0px 5px 10px #ddd;
+    border-radius: 3px;
+    display: none;
+}
+
+#loading_icon{
+    display: none;
+    height: 28px;
+}
+
+#loading_icon img{
+    float: left;
+}
+
+#loading_icon b{
+    float: left;
+    margin-top: 0px;
+    margin-left: 8px;
+}
+
+#scraper_logs{
+    display: none;
+}
+
+/**
+* View Design
+*/
+
+.scraper-Simple-View .main-tb-click > tbody > tr:first-child{
+    width: 35%;
+    float: left;
+}
+
+.scraper-Simple-View .main-tb-click > tbody > tr:first-child > td{
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;    
+    display: block;
+}
+
+.scraper-Simple-View .main-tb-click > tbody > tr:first-child > td table{
+    display: inline-block;
+}
+
+.scraper-Simple-View .main-tb-click > tbody > tr:last-child{
+    width: 65%;
+    float: left;
+}
+
+.scraper-Simple-View .simple-view-hide,
+.scraper-Expanded-View .expanded-view-hide{
+    display: none !important;
+}
+
+.main-tb-click td{
+    padding: 8px 5px;
+}
+
+.toggle-cron-url{
+	display: block;
+	color: #0073aa;
+}
+.toggle-cron-url:focus, .toggle-cron-url:hover{
+	outline: 0;
+	box-shadow: none;
+}
+.scraper-cron-url-box{
+	display: none;
+    min-height: 20px;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 11px;
+    line-height: normal;
+    background: #FFF;
+}

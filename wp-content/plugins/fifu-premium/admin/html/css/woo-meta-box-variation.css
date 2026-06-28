@@ -1,0 +1,7 @@
+.grid-square.image {
+    opacity: 0.5;
+}
+
+.grid-square.image[style*="background-image"] {
+    opacity: 1;
+}

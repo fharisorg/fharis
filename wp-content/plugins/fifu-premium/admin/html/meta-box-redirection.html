@@ -1,0 +1,13 @@
+<script>
+    <?php include 'js/redirection-meta-box.js' ?>
+</script>
+
+<!-- show redirection -->
+
+<input
+    id="fifu_input_redirection"
+    type="text"
+    name="fifu_input_redirection"
+    value="<?php echo esc_url($redirection ?? ''); ?>"
+    style="<?php echo $input_style ?>"
+    placeholder="<?php $fifu['placeholder']['forwarding']() ?>"/>

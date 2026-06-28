@@ -1,0 +1,902 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TaxoPress Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-18 10:46+0000\n"
+"PO-Revision-Date: 2025-04-22 20:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: taxopress-pro\n"
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:274
+#, php-format
+msgid "%1$s can't be added as a tag because %2$s is already used as a synonym."
+msgstr ""
+"%1$s non può essere aggiunto come tag perché %2$s è già usato come sinonimo."
+
+#: includes-pro/modules/autoterms/autoterms.php:192
+#, php-format
+msgid "%1s Click here for prompt documentation. %2s"
+msgstr "%1s Fai clic qui per la documentazione rapida. %2s"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:282
+msgid "%d posts updated successfully."
+msgstr "%d articoli aggiornati correttamente."
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:285
+msgid "0 post update."
+msgstr "0 aggiornamento di articoli."
+
+#: includes-pro/modules/autoterms/schedule.php:356
+#: includes-pro/modules/autoterms/schedule.php:391
+msgid "1 month ago"
+msgstr "1 mese fa"
+
+#: includes-pro/modules/autoterms/schedule.php:365
+#: includes-pro/modules/autoterms/schedule.php:399
+msgid "1 year ago"
+msgstr "1 anno fa"
+
+#: includes-pro/modules/autoterms/schedule.php:352
+#: includes-pro/modules/autoterms/schedule.php:387
+msgid "2 weeks ago"
+msgstr "2 settimane fa"
+
+#: includes-pro/modules/autoterms/schedule.php:344
+#: includes-pro/modules/autoterms/schedule.php:379
+msgid "24 hours ago"
+msgstr "24 ore fa"
+
+#: includes-pro/modules/autoterms/schedule.php:361
+#: includes-pro/modules/autoterms/schedule.php:395
+msgid "6 months ago"
+msgstr "6 mesi fa"
+
+#: includes-pro/modules/autoterms/schedule.php:348
+#: includes-pro/modules/autoterms/schedule.php:383
+msgid "7 days ago"
+msgstr "7 giorni fa"
+
+#: includes-pro/classes/licence.php:91
+msgid "Activate License"
+msgstr "Attiva la licenza"
+
+#: includes-pro/modules/autolinks/autolinks.php:80
+#: includes-pro/modules/autolinks/autolinks.php:166
+msgid "Add"
+msgstr "Aggiungi"
+
+#: includes-pro/modules/autolinks/autolinks.php:169
+msgid "Add Element"
+msgstr "Aggiungi elemento"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:173
+#: includes-pro/modules/linked-terms/linked-terms-table.php:453
+msgid "Add primary term to posts with secondary term"
+msgstr "Aggiungi un termine principale agli articoli con termine secondario"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:174
+#: includes-pro/modules/linked-terms/linked-terms-table.php:467
+msgid "Add secondary term to posts with primary term"
+msgstr "Aggiungi un termine secondario agli articoli con termine principale"
+
+#: includes-pro/modules/autoterms/schedule.php:115
+msgid "An error occured."
+msgstr "Si è verificato un errore."
+
+#: includes-pro/modules/autoterms/autoterms.php:384
+msgid "API Confidence Value"
+msgstr "Valore di confidenza dell'API"
+
+#: includes-pro/modules/autoterms/autoterms.php:82
+#: includes-pro/modules/autoterms/autoterms.php:274
+#: includes-pro/modules/autoterms/autoterms.php:485
+msgid "API Key"
+msgstr "Chiave API"
+
+#: includes-pro/modules/autoterms/autoterms.php:373
+msgid "API Token"
+msgstr "Token API"
+
+#: includes-pro/modules/autoterms/autoterms.php:263
+msgid "API URL"
+msgstr "URL dell'API"
+
+#: includes-pro/modules/autoterms/schedule.php:445
+msgid "Auto Terms Logs"
+msgstr "Registri dei termini automatici"
+
+#: includes-pro/modules/autoterms/schedule.php:251
+msgid "Auto Terms setting"
+msgstr "Impostazione dei termini automatici"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:14
+msgid "autotermsschedulelog"
+msgstr "autotermsschedulelog"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:15
+msgid "autotermsschedulelogs"
+msgstr "autotermsschedulelogs"
+
+#: includes-pro/modules/autoterms/schedule.php:334
+msgid "Batches wait time"
+msgstr "Tempo di attesa per l'elaborazione dei lotti"
+
+#: includes-pro/modules/autoterms/schedule.php:120
+msgid "Batches wait time is required."
+msgstr "Tempo di attesa per l'elaborazione dei lotti è obbligatorio."
+
+#: includes-pro/modules/autoterms/autoterms.php:175
+#: includes-pro/modules/autoterms/autoterms.php:325
+#: includes-pro/modules/autoterms/autoterms.php:437
+#: includes-pro/modules/autoterms/autoterms.php:536
+msgid ""
+"By caching the results locally, new API requests will not be made unless the "
+"post title or content changes. This saves API usage."
+msgstr ""
+"Memorizzando nella cache i risultati a livello locale, non verranno "
+"effettuate nuove richieste API a meno che il titolo dell'articolo o il "
+"contenuto non cambino. In questo modo si risparmia l'utilizzo dell'API."
+
+#: includes-pro/modules/autoterms/autoterms.php:174
+#: includes-pro/modules/autoterms/autoterms.php:324
+#: includes-pro/modules/autoterms/autoterms.php:436
+#: includes-pro/modules/autoterms/autoterms.php:535
+msgid "Cache Results"
+msgstr "Risultati della cache"
+
+#: includes-pro/modules/autoterms/autoterms.php:92
+msgid "chatgpt-4o-latest"
+msgstr "chatgpt-4o-latest"
+
+#: includes-pro/modules/taxopress-ai/taxopress-ai.php:43
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: includes-pro/modules/autoterms/autoterms.php:385
+msgid ""
+"Choose a value between 0 and 1. A high value such as 0.8 will provide a few, "
+"accurate suggestions. A low value such as 0.2 will produce more suggestions, "
+"but they may be less accurate."
+msgstr ""
+"Scegli un valore compreso tra 0 e 1. Un valore alto, come 0,8, fornirà pochi "
+"suggerimenti accurati. Un valore basso, come 0,2, produrrà più suggerimenti, "
+"ma potrebbero essere meno accurati."
+
+#: includes-pro/modules/autoterms/schedule.php:265
+msgid "Cron Schedule"
+msgstr "Programma Cron"
+
+#: includes-pro/modules/autoterms/schedule.php:261
+msgid "Daily"
+msgstr "Giornaliero"
+
+#: includes-pro/modules/autoterms/autoterms.php:334
+#, php-format
+msgid ""
+"Dandelion is an external service that can scan your content and suggest "
+"relevant terms. %1sClick here for details%2s."
+msgstr ""
+"Dandelion è un servizio esterno in grado di analizzare i tuoi contenuti e di "
+"suggerire termini pertinenti. %1s Fai clic qui per i dettagli%2s."
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:77
+msgid "Date"
+msgstr "Data"
+
+#: includes-pro/modules/taxopress-ai/taxopress-ai.php:41
+msgid "Default"
+msgstr "Predefinito"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:122
+msgid "Delete"
+msgstr "Elimina"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:203
+msgid "Delete Log"
+msgstr "Elimina registro"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:175
+#: includes-pro/modules/linked-terms/linked-terms-table.php:481
+msgid "Delete Relationship"
+msgstr "Elimina relazioni"
+
+#: includes-pro/modules/linked-terms/linked-terms.php:183
+msgid "Description here."
+msgstr "La descrizione qui."
+
+#: includes-pro/modules/taxopress-ai/taxopress-ai.php:42
+msgid "Dropdown"
+msgstr "Menu a discesa"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:192
+msgid "Edit Main Post"
+msgstr "Modifica articolo principale"
+
+#: includes-pro/modules/autolinks/autolinks.php:166
+msgid "Element tag"
+msgstr "Tag elemento"
+
+#: includes-pro/modules/autoterms/autoterms.php:361
+msgid "Enable Dandelion"
+msgstr "Abilita Dandelion"
+
+#: includes-pro/modules/autoterms/autoterms.php:251
+msgid "Enable IBM Watson"
+msgstr "Abilita IBM Watson"
+
+#: includes-pro/modules/autoterms/autoterms.php:473
+msgid "Enable LSEG / Refinitiv"
+msgstr "Abilita LSEG / Refinitiv"
+
+#: includes-pro/modules/autoterms/autoterms.php:71
+msgid "Enable OpenAI"
+msgstr "Abilita OpenAI"
+
+#: includes-pro/modules/autolinks/autolinks.php:81
+msgid "Enter the shortcode name without [ ] or parameters."
+msgstr "Inserisci il nome dello shortcode senza [ ] o parametri."
+
+#: includes-pro/modules/autoterms/autoterms.php:374
+msgid "Enter your Dandelion API Key."
+msgstr "Inserisci la tua chiave dell'API Dandelion."
+
+#: includes-pro/modules/autoterms/autoterms.php:275
+msgid "Enter your IBM Watson API Key."
+msgstr "Inserisci la tua chiave dell'API IBM Watson."
+
+#: includes-pro/modules/autoterms/autoterms.php:264
+msgid "Enter your IBM Watson API URL."
+msgstr "Inserisci la URL della tua chiave dell'API IBM Watson."
+
+#: includes-pro/modules/autoterms/autoterms.php:486
+msgid "Enter your LSEG / Refinitiv API Key."
+msgstr "Inserisci la tua chiave dell'API LSEG / Refinitiv."
+
+#: includes-pro/modules/autoterms/autoterms.php:83
+msgid "Enter your OpenAI API Key."
+msgstr "Inserisci la tua chiave dell'API OpenAI"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:244
+msgid "Error deleting linked term relationship."
+msgstr "Errore nell'eliminazione della relazione del termine collegato."
+
+#: includes-pro/modules/autoterms/autoterms.php:584
+msgid ""
+"Example: <code>/\\b({term})\\b/i</code> will match the whole word while "
+"<code>/({term})/i</code> will match at any location even if it's part of "
+"another word. <code>{term}</code> will be replaced with the term name before "
+"the regex action."
+msgstr ""
+"Esempio: <code>/\\b({term})\\b/i</code> coinciderà con l'intera parola, "
+"mentre <code>/({term})/i</code> coinciderà in qualsiasi punto anche se è "
+"parte di un'altra parola. <code>{term}</code> sarà sostituito con il nome "
+"del termine prima dell'azione della regex."
+
+#: includes-pro/modules/autoterms/schedule.php:311
+msgid "Exclude previously analyzed content"
+msgstr "Escludi il contenuto analizzato in precedenza"
+
+#: includes-pro/modules/autoterms/autoterms.php:53
+#: includes-pro/modules/autoterms/autoterms.php:133
+#: includes-pro/modules/autoterms/autoterms.php:159
+#: includes-pro/modules/autoterms/autoterms.php:200
+#: includes-pro/modules/autoterms/autoterms.php:233
+#: includes-pro/modules/autoterms/autoterms.php:283
+#: includes-pro/modules/autoterms/autoterms.php:309
+#: includes-pro/modules/autoterms/autoterms.php:343
+#: includes-pro/modules/autoterms/autoterms.php:395
+#: includes-pro/modules/autoterms/autoterms.php:421
+#: includes-pro/modules/autoterms/autoterms.php:455
+#: includes-pro/modules/autoterms/autoterms.php:494
+#: includes-pro/modules/autoterms/autoterms.php:520
+#: includes-pro/modules/autoterms/autoterms.php:553
+#: includes-pro/modules/autoterms/schedule.php:295
+msgid "False"
+msgstr "Falso"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:206
+msgid "Filter"
+msgstr "Filtrare"
+
+#: includes-pro/modules/autoterms/autoterms.php:89
+msgid "gpt-3.5-turbo"
+msgstr "gpt-3.5-turbo"
+
+#: includes-pro/modules/autoterms/autoterms.php:93
+msgid "gpt-4.5-preview"
+msgstr "gpt-4.5-anteprima"
+
+#: includes-pro/modules/autoterms/autoterms.php:91
+msgid "gpt-4o"
+msgstr "gpt-4o"
+
+#: includes-pro/modules/autoterms/autoterms.php:90
+msgid "gpt-4o-mini"
+msgstr "gpt-4o-mini"
+
+#: includes-pro/modules/autoterms/schedule.php:260
+msgid "Hourly"
+msgstr "Ogni ora"
+
+#. Author URI of the plugin
+msgid "https://taxopress.com"
+msgstr "https://taxopress.com"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/simple-tags/"
+msgstr "https://wordpress.org/plugins/simple-tags/"
+
+#: includes-pro/modules/autoterms/autoterms.php:224
+#, php-format
+msgid ""
+"IBM Watson is an external service that can scan your content and suggest "
+"relevant terms. %1sClick here for details%2s."
+msgstr ""
+"IBM Watson è un servizio esterno in grado di analizzare i tuoi contenuti e "
+"di suggerire termini pertinenti. %1s Fai clic qui per i dettagli%2s."
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:82
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:102
+msgid ""
+"If TaxoPress scans your content and finds a synonym, it will act as if it "
+"has found the main term."
+msgstr ""
+"Se TaxoPress analizza i contenuti e trova un sinonimo, si comporterà come se "
+"avesse trovato il termine principale."
+
+#: includes-pro/classes/licence.php:72
+msgid "License key"
+msgstr "Chiave di licenza"
+
+#: includes-pro/modules/autoterms/schedule.php:416
+msgid "Limit Auto Terms, based on published date"
+msgstr "Limite dei termini automatici, in base alla data di pubblicazione"
+
+#: includes-pro/modules/autoterms/schedule.php:320
+msgid "Limit per batches"
+msgstr "Limite per i lotti"
+
+#: includes-pro/modules/autoterms/schedule.php:118
+msgid "Limit per batches is required."
+msgstr "Limite per i lotti è obbligatorio."
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:250
+msgid "Linked term deleted successfully."
+msgstr "Termine collegato eliminato correttamente."
+
+#: includes-pro/load.php:108
+#: includes-pro/modules/linked-terms/linked-terms.php:116
+#: includes-pro/modules/linked-terms/linked-terms.php:117
+#: includes-pro/modules/linked-terms/linked-terms.php:147
+#: includes-pro/modules/linked-terms/linked-terms.php:358
+#: includes-pro/modules/linked-terms/linked-terms.php:378
+msgid "Linked Terms"
+msgstr "Termini collegati"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:247
+msgid "Linked terms deleted successfully."
+msgstr "Termini collegati eliminati correttamente."
+
+#: includes-pro/modules/autoterms/autoterms.php:446
+#, php-format
+msgid ""
+"LSEG / Refinitiv is an external service that can scan your content and "
+"suggest relevant terms. %1sClick here for details%2s."
+msgstr ""
+"LSEG / Refinitiv è un servizio esterno in grado di analizzare i tuoi "
+"contenuti e di suggerire termini pertinenti. %1s Fai clic qui per i "
+"dettagli%2s."
+
+#: includes-pro/modules/taxopress-ai/taxopress-ai.php:49
+msgid "Metabox Taxonomy Display"
+msgstr "Visualizza tassonomia metabox"
+
+#: includes-pro/modules/autolinks/autolinks.php:169
+msgid "New Element"
+msgstr "Nuovo elemento"
+
+#: includes-pro/modules/autoterms/schedule.php:369
+#: includes-pro/modules/autoterms/schedule.php:403
+msgid "No limit"
+msgstr "Illimitato"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:342
+msgid "No linked terms found."
+msgstr "Nessun termine collegato trovato."
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:282
+#: includes-pro/modules/autoterms/schedule.php:259
+msgid "None"
+msgstr "Nessuno"
+
+#: includes-pro/modules/autoterms/schedule.php:91
+#: includes-pro/modules/linked-terms/linked-terms.php:97
+msgid "Number of items per page"
+msgstr "Numero di elementi per pagina"
+
+#: includes-pro/modules/autoterms/autoterms.php:96
+msgid "o1"
+msgstr "o1"
+
+#: includes-pro/modules/autoterms/autoterms.php:95
+#| msgid "gpt-4o-mini"
+msgid "o1-mini"
+msgstr "o1-mini"
+
+#: includes-pro/modules/autoterms/autoterms.php:94
+#| msgid "gpt-4o-mini"
+msgid "o3-mini"
+msgstr "o3-mini"
+
+#: includes-pro/modules/autoterms/autoterms.php:44
+#, php-format
+msgid ""
+"OpenAI is an external service that can scan your content and suggest "
+"relevant terms. %1sClick here for details%2s."
+msgstr ""
+"OpenAI è un servizio esterno in grado di analizzare i tuoi contenuti e di "
+"suggerire termini pertinenti. %1s Fai clic qui per i dettagli%2s."
+
+#: includes-pro/modules/autoterms/autoterms.php:123
+msgid "OpenAI Models"
+msgstr "Modelli OpenAI"
+
+#: includes-pro/modules/autoterms/autoterms.php:188
+msgid "OpenAI Prompt (Beta)"
+msgstr "Prompt OpenAI (Beta)"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:73
+msgid "Post"
+msgstr "Articolo"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:74
+msgid "Post type"
+msgstr "Tipo di contenuto"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:125
+msgid "Primary Term Name"
+msgstr "Nome del termine principale"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:129
+msgid "Primary Term Post Count"
+msgstr "Conteggio articoli del termine principale"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:127
+msgid "Primary Term Taxonomy"
+msgstr "Tassonomia del termine principale"
+
+#: includes-pro/modules/autoterms/schedule.php:439
+msgid "Recent Schedule Runs"
+msgstr "Esecuzioni recenti del programma"
+
+#: includes-pro/modules/autoterms/autoterms.php:581
+msgid "Regex code"
+msgstr "Codice Regex"
+
+#: includes-pro/modules/autoterms/autoterms.php:569
+msgid "Regular Expressions"
+msgstr "Espressione regolare"
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:296
+msgid "Request status."
+msgstr "Stato della richiesta."
+
+#: includes-pro/modules/autoterms/schedule.php:430
+msgid "Save Settings"
+msgstr "Salva le impostazioni"
+
+#: includes-pro/modules/autoterms/schedule.php:69
+#: includes-pro/modules/autoterms/schedule.php:70
+#: includes-pro/modules/autoterms/schedule.php:203
+msgid "Schedule"
+msgstr "Programma"
+
+#: includes-pro/modules/autoterms/schedule.php:165
+msgid "Schedule is not enabled for selected Auto Terms."
+msgstr ""
+"La programmazione non è abilitata per i termini automatici selezionati."
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:99
+msgid "Schedule log is empty."
+msgstr "Il registro di programmazione è vuoto."
+
+#: includes-pro/modules/autolinks/autolinks.php:123
+msgid "Search and select blocks."
+msgstr "Cerca e seleziona blocchi."
+
+#: includes-pro/modules/autolinks/autolinks.php:121
+msgid "Search Block"
+msgstr "Cerca blocco"
+
+#. %s: search keywords
+#: includes-pro/modules/linked-terms/linked-terms.php:155
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Risultati della ricerca per &#8220;%s&#8221;"
+
+#: includes-pro/modules/linked-terms/linked-terms.php:171
+msgid "Search Terms"
+msgstr "Termini della ricerca"
+
+#: includes-pro/modules/autolinks/autolinks.php:122
+msgid "Search..."
+msgstr "Ricerca in corso…"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:126
+msgid "Secondary Term Name"
+msgstr "Nome del termine secondario"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:130
+msgid "Secondary Term Post Count"
+msgstr "Mostra il conteggio degli articoli del termine secondario"
+
+#: includes-pro/modules/linked-terms/linked-terms-table.php:128
+msgid "Secondary Term Taxonomy"
+msgstr "Tassonomia del termine secondario"
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:304
+msgid "Security error. Kindly reload this page and try again"
+msgstr "Errore di sicurezza. Ricarica la pagina e riprova."
+
+#: includes-pro/modules/autoterms/schedule.php:227
+msgid "Select an option..."
+msgstr "Seleziona un'opzione…"
+
+#: includes-pro/modules/autoterms/schedule.php:253
+msgid ""
+"Select Auto Terms settings to use when running the \"Schedule\" feature."
+msgstr ""
+"Seleziona le impostazioni di termini automatici da utilizzare quando si "
+"esegue la caratteristica “Programmazione”."
+
+#: includes-pro/modules/autoterms/schedule.php:215
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes-pro/modules/autoterms/schedule.php:168
+msgid "Settings updated successfully."
+msgstr "Le impostazioni sono state aggiornate correttamente."
+
+#: includes-pro/modules/autolinks/autolinks.php:79
+msgid "Shortcode Name"
+msgstr "Nome shortcode"
+
+#: includes-pro/modules/autoterms/autoterms.php:148
+#: includes-pro/modules/autoterms/autoterms.php:298
+#: includes-pro/modules/autoterms/autoterms.php:410
+#: includes-pro/modules/autoterms/autoterms.php:509
+msgid "Show Term Post Count"
+msgstr "Mostra il conteggio degli articoli del termine"
+
+#: includes-pro/modules/autoterms/autoterms.php:124
+msgid "Some models availability depends on your subscription and access."
+msgstr ""
+"La disponibilità di alcuni modelli dipende dal tuo abbonamento e accesso."
+
+#: includes-pro/modules/linked-terms/linked-terms.php:359
+#: includes-pro/modules/linked-terms/linked-terms.php:381
+msgid "Start typing to choose existing terms."
+msgstr "Inizia a scrivere per scegliere i termini esistenti."
+
+#: includes-pro/classes/licence.php:75
+msgid "Status"
+msgstr "Stato"
+
+#: includes-pro/load.php:102
+msgid "Synonyms"
+msgstr "Sinonimi"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:75
+#: includes-pro/modules/linked-terms/linked-terms-table.php:198
+msgid "Taxonomy"
+msgstr "Tassonomia"
+
+#. Author of the plugin
+msgid "TaxoPress"
+msgstr "TaxoPress"
+
+#. Description of the plugin
+msgid ""
+"TaxoPress allows you to create and manage Tags, Categories, and all your "
+"WordPress taxonomy terms."
+msgstr ""
+"TaxoPress ti consente di creare e gestire i tag, le categorie nonché tutti i "
+"termini delle tue tassonomie di WordPress."
+
+#. Name of the plugin
+msgid "TaxoPress Pro"
+msgstr "TaxoPress Pro"
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:80
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:98
+msgid "Term Synonyms"
+msgstr "Sinonimi del termine"
+
+#: includes-pro/modules/autoterms/schedule-logs-table.php:76
+msgid "Terms added"
+msgstr "Termini aggiunti"
+
+#. %1$s and %2$s are superscript numbers.
+#: includes-pro/modules/linked-terms/linked-terms.php:415
+#, php-format
+msgid ""
+"The superscript %1$s indicates the linked term being the primary term, while "
+"%2$s is shown when the linked term is the secondary term. You can delete the "
+"relationship and re-add it from your preferred term edit screen to make them "
+"the primary term."
+msgstr ""
+"L'apice %1$s indica che il temine collegato è il termine principale mentre "
+"%2$s viene mostrato quando il termine collegato è un termine secondario. "
+"Puoi eliminare la correlazione e ricrearla dalla schermata del tuo termine "
+"preferito per renderli termini principali."
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:254
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:350
+#, php-format
+msgid ""
+"These synonyms can't be added because %1$s are already added to another term."
+msgstr ""
+"Questi sinonimi non possono essere aggiunti perché %1$s sono già stati "
+"aggiunti ad un altro termine."
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:230
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:325
+#, php-format
+msgid "These synonyms can't be added because %1$s are terms on this site."
+msgstr ""
+"Questi sinonimi non possono essere aggiunti perché %1$s sono termini su "
+"questo sito."
+
+#: includes-pro/modules/linked-terms/linked-terms.php:360
+#: includes-pro/modules/linked-terms/linked-terms.php:382
+msgid ""
+"These terms are linked to the main term. When the primary or secondary term "
+"is added to a post, the other term can be added also."
+msgstr ""
+"Questi termini sono collegati al termine principale. Quando il termine "
+"principale o uno termine secondario viene aggiunto a un articolo, vengono "
+"aggiunti anche gli altri termini."
+
+#: includes-pro/modules/autoterms/schedule.php:312
+msgid ""
+"This enables you to skip posts that have already been analyzed by the "
+"Schedule feature."
+msgstr ""
+"Ciò consente di saltare gli articoli che sono già stati analizzati dalla "
+"funzionalità di programmazione."
+
+#: includes-pro/modules/autoterms/schedule.php:324
+msgid ""
+"This enables your scheduled Auto Terms to run in batches. If you have a lot "
+"of content, set this to a lower number to avoid timeouts."
+msgstr ""
+"Consente di eseguire in lotti i termini automatici programmati. Se hai molti "
+"contenuti, imposta un numero più basso per evitare i timeout."
+
+#: includes-pro/load.php:103
+msgid ""
+"This feature allows you to associate additional words with each term. For "
+"example, \"website\" can have synonyms such as \"websites\", \"web site\", "
+"and \"web pages\"."
+msgstr ""
+"Questa caratteristica consente di associare parole aggiuntive a ciascun "
+"termine. Ad esempio, \"sito web\" può avere sinonimi come \"siti web\", "
+"\"sito web\" e \"pagine web\"."
+
+#: includes-pro/load.php:109
+msgid ""
+"This feature allows you to connect terms. When the main term or any of these "
+"terms are added to the post, all the other terms will be added also."
+msgstr ""
+"Questa caratteristica consente di collegare i termini. Quando il termine "
+"principale o un termine secondario viene aggiunto a un articolo, vengono "
+"aggiunti anche tutti gli altri termini."
+
+#: includes-pro/modules/linked-terms/linked-terms.php:149
+msgid ""
+"This feature allows you to connect terms. When the primary or secondary term "
+"is added to a post, the other term can be added also."
+msgstr ""
+"Questa caratteristica consente di collegare i termini. Quando il termine "
+"principale o un termine secondario viene aggiunto a un articolo, anche anche "
+"tutti gli altri termini possono essere aggiunti."
+
+#: includes-pro/modules/autoterms/schedule.php:205
+msgid ""
+"This feature allows you to run the Auto Terms feature on a schedule. This is "
+"helpful if you regularly import content into WordPress. TaxoPress can run "
+"either daily or hourly and add terms to your imported content."
+msgstr ""
+"Questa funzione ti permette di eseguire la caratteristica dei termini "
+"automatici in base a una programmazione. Questo è utile se importi "
+"regolarmente contenuti in WordPress. TaxoPress può essere eseguito ogni "
+"giorno o ogni ora e aggiungere termini ai contenuti importati."
+
+#: includes-pro/modules/autoterms/schedule.php:335
+msgid ""
+"This is the wait time (in seconds) between processing batches of Auto Terms. "
+"If you have a lot of existing content, set this to a higher number to avoid "
+"timeouts."
+msgstr ""
+"È il tempo di attesa (in secondi) tra l'elaborazione dei lotti di termini "
+"automatici. Se hai molti contenuti esistenti, imposta un numero più alto per "
+"evitare i timeout."
+
+#: includes-pro/modules/autoterms/schedule.php:420
+msgid ""
+"This setting can limit your scheduled Auto Terms query to only recent "
+"content. We recommend using this feature to avoid timeouts on large sites."
+msgstr ""
+"Questa impostazione può limitare la query programmata di termini automatici "
+"ai soli contenuti recenti. Ti consigliamo di utilizzare questa funzione per "
+"evitare timeout su siti di grandi dimensioni."
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:225
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:320
+#, php-format
+msgid "This synonym can't be added because %1$s is a term on this site."
+msgstr ""
+"Questo sinonimo non può essere aggiunto perché %1$s è un termine su questo "
+"sito."
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:249
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:345
+#, php-format
+msgid ""
+"This synonym can't be added because %1$s is already added to another term."
+msgstr ""
+"Questo sinonimo non può essere aggiunto perché %1$s è già stato aggiunto ad "
+"un altro termine."
+
+#: includes-pro/modules/autoterms/autoterms.php:355
+msgid ""
+"This will automatically add new terms from the Dandelion service. Before "
+"use, please test carefully using the preview feature."
+msgstr ""
+"Questo aggiungerà automaticamente nuovi termini dal servizio di Dandelion. "
+"Prima di utilizzarlo, ti consigliamo di testarlo con attenzione usando la "
+"caratteristica di anteprima."
+
+#: includes-pro/modules/autoterms/autoterms.php:245
+msgid ""
+"This will automatically add new terms from the IBM Watson service. Before "
+"use, please test carefully using the preview feature."
+msgstr ""
+"Questo aggiungerà automaticamente nuovi termini dal servizio IBM Watson. "
+"Prima di utilizzarlo, ti consigliamo di testarlo con attenzione usando la "
+"caratteristica di anteprima."
+
+#: includes-pro/modules/autoterms/autoterms.php:467
+msgid ""
+"This will automatically add new terms from the LSEG / Refinitiv service. "
+"Before use, please test carefully using the preview feature."
+msgstr ""
+"Questo aggiungerà automaticamente nuovi termini dal servizio LSEG / "
+"Refinitiv. Prima di utilizzarlo, ti consigliamo di testarlo con attenzione "
+"usando la caratteristica di anteprima."
+
+#: includes-pro/modules/autoterms/autoterms.php:65
+msgid ""
+"This will automatically add new terms from the OpenAI service. Before use, "
+"please test carefully using the preview feature."
+msgstr ""
+"Questo aggiungerà automaticamente nuovi termini dal servizio OpenAI. Prima "
+"di utilizzarlo, ti consigliamo di testarlo con attenzione usando la "
+"caratteristica di anteprima."
+
+#: includes-pro/modules/autoterms/autoterms.php:216
+msgid ""
+"This will request that OpenAI only suggests existing terms. Check this box "
+"and include {post_terms} in the prompt."
+msgstr ""
+"Questo richiederà che OpenAI suggerisca solo i termini esistenti. "
+"Selezionare questa casella e includere {post_terms} nella richiesta."
+
+#: includes-pro/modules/autoterms/autoterms.php:149
+#: includes-pro/modules/autoterms/autoterms.php:299
+#: includes-pro/modules/autoterms/autoterms.php:411
+#: includes-pro/modules/autoterms/autoterms.php:510
+msgid "This will show the number of posts attached to the terms."
+msgstr "Questo mostrerà il numero di articoli allegati ai termini."
+
+#: includes-pro/modules/autoterms/autoterms.php:58
+#: includes-pro/modules/autoterms/autoterms.php:138
+#: includes-pro/modules/autoterms/autoterms.php:164
+#: includes-pro/modules/autoterms/autoterms.php:205
+#: includes-pro/modules/autoterms/autoterms.php:238
+#: includes-pro/modules/autoterms/autoterms.php:288
+#: includes-pro/modules/autoterms/autoterms.php:314
+#: includes-pro/modules/autoterms/autoterms.php:348
+#: includes-pro/modules/autoterms/autoterms.php:400
+#: includes-pro/modules/autoterms/autoterms.php:426
+#: includes-pro/modules/autoterms/autoterms.php:460
+#: includes-pro/modules/autoterms/autoterms.php:499
+#: includes-pro/modules/autoterms/autoterms.php:525
+#: includes-pro/modules/autoterms/autoterms.php:558
+#: includes-pro/modules/autoterms/schedule.php:300
+msgid "True"
+msgstr "Vero"
+
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:81
+#: includes-pro/modules/taxonomy-synonyms/taxonomy-synonyms.php:101
+msgid "Type the synonym name and then click Enter or Return."
+msgstr "Digitare il nome del sinonimo e fare clic su Enter o Invio."
+
+#: includes-pro/modules/autoterms/autoterms.php:215
+msgid "Use only existing terms (Beta)"
+msgstr "Usa solo i termini esistenti (beta)"
+
+#: includes-pro/modules/autoterms/autoterms.php:570
+msgid ""
+"Use Regular Expressions to change how Auto Terms analyzes your posts. This "
+"works for terms added when posts are saved or added via the \"Schedule\" "
+"feature."
+msgstr ""
+"Usa le espressioni regolari per modificare il modo in cui i termini "
+"automatici analizzano i tuoi articoli. Questo funziona per i termini "
+"aggiunti quando gli articoli vengono salvati o aggiunti con la "
+"caratteristica \"Programmazione\"."
+
+#: includes-pro/modules/autoterms/schedule.php:445
+#, php-format
+msgid "You can see full log details on the %1s screen"
+msgstr "Puoi vedere i dettagli completi del registro nella schermata %1s"
+
+#: includes-pro/classes/licence.php:76
+msgid "Your license key provides access to updates and support."
+msgstr ""
+"La tua chiave di licenza ti dà accesso agli aggiornamenti e al supporto "
+"tecnico."
+
+#~ msgid "This will show number of posts attached to the term."
+#~ msgstr "Questo mostrerà il numero di articoli allegati al termine."
+
+#~ msgid "Exclude Terms not in {post_terms}"
+#~ msgstr "Escludi i termini che non sono in {post_terms}"
+
+#~ msgid ""
+#~ "Exclude terms that are not in the post terms. This is useful for "
+#~ "excluding terms that are in {post_terms} when trying to limit suggested "
+#~ "terms to only {post_terms} via custom prompt."
+#~ msgstr ""
+#~ "Escludi i termini che non sono nei termini dell'articolo. Questo è utile "
+#~ "per escludere i termini che si trovano in {post_terms} quando si cerca di "
+#~ "limitare i termini suggeriti solo a {post_terms} tramite un prompt "
+#~ "personalizzato."
+
+#~ msgid "Linked Term Post Counts"
+#~ msgstr "Conteggio degli articoli dei termini collegati"
+
+#~ msgid "Schedule Auto Terms for your content"
+#~ msgstr "Programma i termini automatici per i tuoi contenuti"
+
+#, php-format
+#~ msgid "%1sYou need an API key to use LSEG / Refinitiv.%2s"
+#~ msgstr "%1sDevi avere una chiave API per usare LSEG/Refinitiv.%2s"
+
+#, php-format
+#~ msgid ""
+#~ "You need an API key to use OpenAI. %1s %2sClick here to add an API Key.%3s"
+#~ msgstr ""
+#~ "Devi avere una chiave API per usare OpenAI. %1s %2sFai clic qui per "
+#~ "aggiungere una chiave API.%3s"
+
+#~ msgid ""
+#~ "This screen allows you to see linked terms relationships on your site."
+#~ msgstr ""
+#~ "Questa schermata ti fa vedere le relazioni tra i termini collegati sul "
+#~ "tuo sito."
+
+#~ msgid ""
+#~ "When the main term is added to a post, these terms will be added also."
+#~ msgstr ""
+#~ "Quando il termine principale viene aggiunto a un articolo, vengono "
+#~ "aggiunti anche questi termini."

@@ -1,0 +1,108 @@
+<div id="fifu_meta_box">
+
+    <!-- show alt field, image and link if URL was already provided -->
+
+    <table style="<?php echo $show_screenshot ?>">
+        <tr>
+            <th style="width:5px">
+                <input type="checkbox" name="fifu_screenshot" id="fifu_screenshot">
+            </th>
+            <th>
+                <label for="fifu_screenshot" style="font-weight:normal"><?php $fifu['image']['screenshot']() ?></label>
+            </th>
+        </tr>
+    </table>
+
+    <div id="fifu_upload" class="button" onClick="fifu_upload_images_api();" style="<?php echo $show_alt, $show_image, $show_upload ?>; width:97%; text-align:center; margin:0 0 0 4px">
+        <span style="top:3px; position:relative" class="dashicons dashicons-upload"></span><?php $fifu['image']['upload']() ?>
+    </div>
+
+    <table id="fifu_table_alt" style="width:100%;position:relative;<?php echo $show_alt ?>">
+        <tr>
+            <td style="width:100%;padding:unset !important;">
+                <input id="fifu_input_alt" 
+                       type="text" 
+                       name="fifu_input_alt" 
+                       placeholder="<?php $fifu['common']['alt']() ?>"
+                       value="<?php echo esc_attr($alt); ?>" 
+                       style="<?php echo $width ?>;font-size:13px;margin:0px 0px 0px 2px" />
+            </td>
+            <td style="padding:unset !important;">
+                <span id="fifu_help_alt" 
+                      class="dashicons dashicons-editor-help" 
+                      style="font-size:20px;cursor:help;"
+                      title="<?php $fifu['alt']['help']() ?>">
+                </span>
+            </td>
+        </tr>
+    </table>
+
+    <div id="fifu_image"
+         style="<?php echo $height, $show_image ?>
+         background:url('<?php echo esc_url($url ?? ''); ?>') no-repeat center center;
+         background-size:cover;
+         cursor:zoom-in;
+         border-radius:3px;
+         margin:0px 6px -1px 4px;" >
+    </div>
+
+    <table id="fifu_table_url" style="width:100%;position:relative">
+        <tr>
+            <td style="width:100%">
+                <input id="fifu_input_url" 
+                       type="text" 
+                       name="fifu_input_url" 
+                       placeholder="<?php $fifu['image']['keywords']() ?>"
+                       value="<?php echo esc_attr($url ?? ''); ?>"
+                       style="<?php echo $width ?>;font-size:13px;" />
+            </td>
+            <td>
+                <span id="fifu_help" 
+                      class="dashicons dashicons-editor-help" 
+                      style="<?php echo $show_button . ';font-size:20px;cursor:pointer;' ?>">
+                </span>
+            </td>
+        </tr>
+    </table>
+
+    <center>
+        <a id="fifu_link" 
+           onClick="removeImage(false);" 
+           style="<?php echo $show_link ?>; cursor:pointer" ><?php $fifu['image']['remove']() ?></a>
+    </center>
+
+    <input 
+        type="hidden" 
+        id="fifu_input_image_width" 
+        name="fifu_input_image_width" 
+        value="" >
+
+    <input 
+        type="hidden" 
+        id="fifu_input_image_height" 
+        name="fifu_input_image_height" 
+        value="" >
+
+    <input 
+        type="hidden" 
+        id="fifu_keywords" 
+        name="fifu_keywords" 
+        value="" >
+
+    <!-- show preview button if URL was not provided yet -->
+
+    <a id="fifu_button" 
+       class="button" 
+       onClick="previewImage();" 
+       style="<?php echo $align, $margin, $show_button ?>" ><?php $fifu['common']['preview']() ?></a>
+
+    <div id="fifu_sirv_button" style="<?php echo 'float:left;padding-right:8px;' . $align, $margin, fifu_is_sirv_active() ? $show_button : 'display:none' ?>">
+        <div class="sirv-modal"></div>
+        <a id="sirv-add-featured-image"
+           data-input-anchor="#fifu_input_url"
+           href="#"
+           class="button sirv-add-image-modal-click"
+           title="<?php $fifu['image']['sirv']['add']() ?>"><?php $fifu['image']['sirv']['choose']() ?></a>
+    </div>
+
+</div>

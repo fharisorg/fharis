@@ -1,0 +1,13 @@
+<script>
+<?php include 'js/audio-meta-box.js' ?>
+</script>
+
+<!-- show audio -->
+
+<input
+    id="fifu_input_audio"
+    type="text"
+    name="fifu_input_audio"
+    value="<?php echo esc_url($audio ?? ''); ?>"
+    style="<?php echo $input_style ?>"
+    placeholder="<?php $fifu['placeholder']['audio']() ?>"/>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="TaxoPress Pro">
+    <domain name="taxopress-pro">
+        <project name="TaxoPress Pro" slug="taxopress-pro">
+            <source>
+                <directory>includes-pro</directory>
+                <include>
+                    <file>taxopress-pro.php</file>
+                </include>
+            </source>
+            <target>
+                <directory>languages</directory>
+            </target>
+            <template>
+                <file>languages/taxopress-pro.pot</file>
+            </template>
+        </project>
+    </domain>
+
+    <!-- Base domain for general translation files -->
+    <domain name="simple-tags">
+        <project name="Simple Tags" slug="simple-tags">
+            <target>
+                <directory>languages</directory>
+            </target>
+            <template>
+                <file>languages/simple-tags.pot</file>
+            </template>
+        </project>
+    </domain>
+
+    <exclude>
+        <directory>vendor</directory>
+        <directory>lib</directory>
+    </exclude>
+
+</bundle>

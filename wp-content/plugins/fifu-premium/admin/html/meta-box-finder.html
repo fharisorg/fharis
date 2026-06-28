@@ -1,0 +1,13 @@
+<script>
+    <?php include 'js/finder-meta-box.js' ?>
+</script>
+
+<!-- show finder -->
+
+<input
+    id="fifu_input_finder"
+    type="text"
+    name="fifu_input_finder"
+    value="<?php echo esc_url($finder ?? ''); ?>"
+    style="<?php echo $input_style?>"
+    placeholder="<?php $fifu['placeholder']['page']() ?>"/>

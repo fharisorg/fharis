@@ -1,0 +1,197 @@
+.fifu_wrapper {
+    width: 100%;
+    height: unset
+}
+
+.fifu_h_iframe {
+    position: relative
+}
+
+.fifu_h_iframe .fifu_ratio {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.fifu_h_iframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.fifu_play img {
+    width: 100%;
+    height: auto;
+}
+
+.fifu_play div.fifu_link {
+    position: unset !important;
+}
+
+.fifu_play .fifubtn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    cursor: pointer;
+    border-radius: 50px;
+    text-align: center;
+    opacity: 0;
+    line-height: 1 !important;
+    text-decoration: unset;
+    min-width: unset;
+    transition: opacity 0.6s ease;
+}
+
+.fifu_play .icon_gallery {
+    opacity: 0.7;
+    color: white;
+    background-color: transparent;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    /* bottom:0; */
+    right: 0;
+    /* left:0; */
+    pointer-events: none;
+    height: 21px !important;
+    background-color: black;
+    width: 22px !important;
+    padding: 1px 1px 1px 1px;
+    border: none;
+    /* border-radius: 3px; */
+}
+
+.fifu_play .dashicons {
+    width: auto;
+    height: auto;
+}
+
+.pswp {
+    z-index: 1000 !important;
+}
+
+/* play button not displayed */
+.dashicons,
+.dashicons-before::before {
+    font-family: dashicons !important;
+}
+
+/* for Content Views Pro plugin */
+a > div.fifu_play > div.fifu_link > span.dashicons-controls-play {
+    -webkit-animation-duration: 0s !important;
+    animation-duration: 0s !important;
+    left: 50%;
+    right: 50%;
+    width: fit-content;
+}
+
+.fifu_no_controls {
+    pointer-events: none;
+}
+
+/* Example (portrait only)
+@media screen and (orientation: portrait) {
+    .fifu_h_iframe iframe {
+        width:400% !important;
+        height:400% !important;
+        left:-150% !important;
+    }
+}
+*/
+
+/* watch later */
+.w-later-thumb {
+    opacity: 0.628 !important;
+    color: white !important;
+    font-size: 20px !important;
+    border-radius: 5px !important;
+    /* background-image: linear-gradient(grey, black); */
+    background-color: black !important;
+    z-index: 1000 !important;
+    padding: 5px;
+    border: 1px outset;
+    cursor: pointer;
+}
+
+.w-later-iframe {
+    position: absolute;
+    display: none;
+
+    opacity: 0.628;
+    color: white;
+    border-radius: 5px;
+    background-color: black;
+    z-index: 1000;
+    font-size: 20px;
+    padding: 5px;
+    border: 1px outset;
+    width: 32px !important;
+    height: 32px !important;
+    cursor: pointer;
+}
+
+.w-later-remove {
+    position: absolute;
+    opacity: 0.75;
+    color: white !important;
+    border-radius: 3px;
+    background-color: black !important;
+    z-index: 1000 !important;
+    font-size: 20px !important;
+    cursor: pointer;
+    top: -1px;
+    right: -1px;
+}
+
+/* new play button for background-image */
+
+.fifu_video_thumb_bg {
+    position: relative;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.fifu_play_bg {
+    position: absolute;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 70px;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 50%;
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+}
+
+.fifu_play_bg:hover {
+    background-color: rgba(255, 0, 0, 0.7);
+}
+
+.fifu_play_bg::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-40%, -50%);
+    width: 0;
+    height: 0;
+    border-top: 16px solid transparent;
+    border-left: 24px solid rgba(255, 255, 255, 0.9);
+    border-bottom: 16px solid transparent;
+    z-index: 1000;
+}
+
+/* --- */

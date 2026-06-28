@@ -1,0 +1,76 @@
+<script><?php include 'js/video-meta-box.js' ?></script>
+
+<?php if (strpos($url, '.m3u8') !== false) : ?>
+    <script src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<?php endif; ?>
+
+<!-- show video and link if URL was already provided -->
+
+<input id="fifu_video_input_url" 
+       type="text" 
+       name="fifu_video_input_url" 
+       placeholder="<?php $fifu['common']['video']() ?>" 
+       value="<?php echo esc_url($url ?? ''); ?>"
+       style="<?php echo $width; ?>;font-size:13px;" />
+
+<div id="fifu_video" style="<?php echo $show_video; ?>" >
+    <iframe id="fifu_video_iframe" style="width:100%; border-radius:3px; margin:2px 0px 0px 1px" src="<?php echo strpos($url, '.m3u8') === false ? esc_url(fifu_video_src($url) ?? '') : ''; ?>" allowfullscreen frameborder="0"></iframe>
+</div>
+
+<div id="fifu_video_local" style="<?php echo $show_video_local; ?>; line-height: 1.0;">
+    <video id="fifu_video_tag" style="width:100%; border-radius:3px; margin:2px 0px 0px 1px" src="<?php echo esc_url(fifu_video_src($url) ?? ''); ?>" type="video" controls crossorigin="anonymous"></video>
+</div>
+
+<div id="fifu_video_custom" style="<?php echo $show_video_custom; ?>" >
+    <video id="fifu_video_custom_tag" style="width:100%" src="<?php echo esc_url($url ?? ''); ?>" controls="controls"></video>
+</div>
+
+<center>
+    <!-- capture thumbnail -->
+    <div id="fifu_capture_thumbnail" style="<?php echo $show_video_local; ?>">
+        <button onclick="capture()" style="width:100%; box-sizing: border-box;"><?php $fifu['common']['capture']() ?></button>
+        <canvas id="canvas" style="visibility:hidden;display:block" height="0" width="0"></canvas>
+    </div>
+
+    <a id="fifu_video_link" 
+       href="#" 
+       onClick="removeVideo();" 
+       style="<?php echo $show_link ?>" ><?php $fifu['video']['remove']() ?></a>
+</center>
+
+<input 
+    type="hidden" 
+    id="fifu_video_input_image_width" 
+    name="fifu_video_input_image_width" 
+    value="" >
+
+<input 
+    type="hidden" 
+    id="fifu_video_input_image_height" 
+    name="fifu_video_input_image_height" 
+    value="" >
+
+<input 
+    type="hidden" 
+    id="fifu_video_input_image_src" 
+    name="fifu_video_input_image_src" 
+    value="" >
+
+<input 
+    type="hidden" 
+    id="fifu_video_captured_frame" 
+    name="fifu_video_captured_frame" 
+    value="" >
+
+<input 
+    type="hidden" 
+    id="fifu_video_time_frame" 
+    name="fifu_video_time_frame" 
+    value="0" >
+
+<!-- show preview button if URL was not provided yet -->
+
+<a id="fifu_video_button" 
+   class="button" 
+   onClick="previewVideo();" 
+   style="<?php echo $align, $margin, $show_button ?>" ><?php $fifu['common']['preview']() ?></a>

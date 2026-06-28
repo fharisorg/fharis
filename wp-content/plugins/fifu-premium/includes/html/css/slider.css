@@ -1,0 +1,107 @@
+/* .archive-page ul li, .entry-content ul li, .entry-content ol, .entry-content ul {
+    list-style-type: none;
+    margin: 0 0 0 0;
+} */
+
+li.lslide {
+    margin: 0 !important;
+}
+
+.lSSlideWrapper .lSFade {
+    position: unset !important;
+}
+
+/* fifu slider as woo gallery */
+
+div.fifu-woo-gallery img.fifu {
+    cursor: zoom-in;
+}
+
+div.fifu-woo-gallery ul.lSPager.lSGallery {
+    display: block;
+    padding: unset !important;
+}
+
+ul.lSPager.lSGallery {
+    /* display: none; */
+}
+
+/* fix thumbnail gallery for some themes: Twenty Twenty, Rehub, etc */
+ul.lSPager.lSGallery li {
+    list-style: none;
+    margin: 0;
+    height: auto !important;
+}
+
+/* fix lightGallery for storefront */
+button::after, button::before {
+    display: inline !important;
+}
+
+.lg-backdrop {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.lSAction > a {
+    width: 33px !important;
+    opacity: 0.8 !important;
+    border-radius:50%;
+    background-color:#7f7f7f;
+    background-repeat:no-repeat;
+}
+
+li.lslide {
+    list-style-type: none !important;
+}
+
+.lSAction > .lSNext {
+    background-position: -33px 0 !important;
+}
+
+.lSAction > .lSPrev {
+    background-position: 2px 0 !important;
+}
+
+/* Modern circular play button for LightGallery video */
+.lg-video-play-button {
+    width: 100px !important;
+    height: 100px !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 2;
+    background: rgba(0,0,0,0.7);
+    border-radius: 50%;
+    border: 6px solid #fff;
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+    transition: opacity 0.3s, transform 0.3s, background-color 0.3s, border-color 0.3s !important;
+}
+.lg-video-play-button:hover {
+    background-color: rgba(0, 0, 0, 0.9) !important;
+    border-color: grey !important;
+}
+.lg-video-play-button::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-38%, -50%);
+    width: 0;
+    height: 0;
+    border-top: 24px solid transparent;
+    border-left: 42px solid rgba(255,255,255,0.85);
+    border-bottom: 24px solid transparent;
+    z-index: 2;
+}
+.lg-video-play-icon,
+.lg-video-play-icon-bg,
+.lg-video-play-icon-circle {
+    display: none !important;
+}
+.lg-video-play-button.lg-video-play-button-fadeout {
+    opacity: 0 !important;
+    transform: translate(-50%, -50%) scale(0.1);
+    pointer-events: none;
+}

@@ -1,0 +1,29 @@
+.grid-square {
+    width: 55px;
+    height: 55px;
+    display: inline-flex;
+    background-color: #fff;
+    /* border: solid 1px rgb(0,0,0,0.2); */
+    margin: -1px 1px;
+}
+
+div.image {
+    background: url("../../images/image.png") center center / cover no-repeat;
+    background-size: 55px 55px;
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+div.image-add {
+    background: url("../../images/add.png") center center / cover no-repeat;
+    background-size: 55px 55px;
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+div.video {
+    background: url("../../images/video.png") center center / cover no-repeat;
+    background-size: 55px 55px;
+    cursor: pointer;
+    opacity: 0.3;
+}

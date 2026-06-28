@@ -1,0 +1,56 @@
+.taxopress-licence-form-wrap {
+    min-height: 850px;
+    margin-top: 20px;
+}
+#taxopress_licence_key_input {
+    width: 300px;
+}
+
+
+.taxopress_licence_key_status {
+    margin-left: 0;
+    font-weight: bold;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding: 4px;
+}
+
+.taxopress_licence_key_status.active {
+    color: green;
+}
+
+.taxopress_licence_key_status.inactive {
+    color: #f54d4d;
+}
+
+.taxopress_licence_key_label {
+    color: black;
+    font-weight: normal;
+}
+
+.taxopress_settings_field_description {
+    margin-bottom: 10px !important;
+    color: gray;
+}
+
+.taxopress_page_st_mass_terms .tagcloudui,
+.taxopress_page_st_manage .tagcloudui,
+.toplevel_page_st_options .tagcloudui,
+.taxopress_page_st_dashboard .tagcloudui {
+    width: 99%;
+}
+
+.st_wrap .taxopress-dashboard-settings-boxes {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.html-exclusions-customs-row .delete {
+    color: #f54d4d;
+    cursor: pointer;
+    margin-left: 10px;
+    overflow-wrap: normal;
+}
+
+.taxopress-split-wrap.taxopress-autoterm-schedule .fixed .column-date {
+    width: auto;
+}

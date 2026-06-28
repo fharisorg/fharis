@@ -1,0 +1,22 @@
+<div id="gridDemoSlider"></div>
+<table>
+    <tr>
+        <td>   
+            <?php $fifu['detail']['ratio']() ?>:
+        </td>
+        <td>
+            <input id="fifu_slider_input_ratio" 
+                   type="text" 
+                   name="fifu_slider_input_ratio" 
+                   value="<?php echo esc_attr($ratio); ?>"
+                   style="width:100%;font-size:13px;"/>
+        </td>
+        <td>
+            <span title="<?php $fifu['detail']['eg']() ?> 16:9" class="dashicons dashicons-editor-help" style="font-size:20px;vertical-align:middle"></span>
+        </td>
+    </tr> 
+</table>
+
+<div id="inputHiddenSliders"></div>
+<input type="hidden" id="inputHiddenSliderListIds" name="inputHiddenSliderListIds" val=""/>
+<input type="hidden" id="inputHiddenSliderLength" name="inputHiddenSliderLength" val=""/>

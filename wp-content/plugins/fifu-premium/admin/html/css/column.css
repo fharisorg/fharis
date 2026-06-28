@@ -1,0 +1,31 @@
+.fancybox-content {
+    border-radius: 10px;
+}
+
+.fifu-quick-button {
+    background-color: #2271b1; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    width: 48%;
+    cursor: pointer;
+}
+
+tr.color:nth-child(even) {
+    background-color: #efefef !important;
+}
+
+#fifu-quick-preview {
+    border-radius: 8px;
+}
+
+#fifu-left-column {
+    background-color:rgb(38, 42, 45);
+    border-radius: 8px;
+    padding: unset;
+    line-height: 0;
+}

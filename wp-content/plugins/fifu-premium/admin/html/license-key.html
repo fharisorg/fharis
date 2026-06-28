@@ -1,0 +1,81 @@
+<div class="wrap" style="opacity:0">
+
+    <div class="header-box">
+        <h1 style="color:white;padding-left:20px;width:98%;font-family:Ubuntu,sans-serif">
+            <span class="dashicons dashicons-admin-network" style="font-size:30px"></span><span style="padding-left:20px"><?php $fifu['tab']['key']() ?></span>
+        </h1>        
+    </div>
+
+    <div id="tabs-top" style="float:left; width: 100%; max-width: 1214px !important;">
+        <ul>
+            <li><a href="#tabs-a"><i class="fas fa-key"></i> <?php $fifu['tab']['key']() ?></a></li>
+            <li><a href="<?php echo fifu_get_renew_link() ?>"><i class="fa-solid fa-rotate-right"></i> <?php $fifu['tab']['renewal']() ?></a></li>
+            <div id="tabs-a">
+                <div class="fifubox">
+                    <h2><?php $fifu['title']['activation']() ?></h2>
+
+                    <div class="greybox">
+                        <?php $fifu['key']['desc']() ?>
+                        <br>
+                        <br>
+                        <div id="tabsKey">
+                            <ul>
+                                <li><a href="#tabs-1"><?php $fifu['key']['tab']['activation']() ?></a></li>
+                                <li><a href="#tabs-2"><?php $fifu['key']['tab']['documentation']() ?></a></li>
+                            </ul>
+                            <div id="tabs-1">
+                                <form
+                                    id="fifu_form_key"
+                                    action="javascript:void(0)"
+                                    method="post">
+                                        <?php wp_nonce_field(FIFU_ACTION_SETTINGS, 'nonce_fifu_form_key'); ?>
+                                    <table style="width:100%">
+                                        <tr>
+                                            <td style="width:100%">
+                                                <?php $fifu['key']['key']() ?>
+                                                <input id="fifu_input_key"
+                                                       type="text"
+                                                       name="fifu_input_key"
+                                                       style="width:100%;height:30px;"
+                                                       oncopy="return false;"
+                                                       value="<?php echo esc_attr($license_key); ?>">
+                                            </td>
+                                            <td>
+                                                <span><br></span>
+                                                <input type="submit"
+                                                       value="<?php $fifu['button']['submit']() ?>"
+                                                       onclick="jQuery('#tabs-top').block({message: '<?php $fifu['message']['wait']() ?>', css: {backgroundColor: 'none', border: 'none', color: 'white'}}); 
+                                                                fifu_check_for_updates(); 
+                                                                return false;">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </form>
+                            </div>
+                            <div id="tabs-2">
+                                <?php $fifu['key']['documentation']() ?>
+                                <br>
+                                <br>
+                                <b><?php $fifu['detail']['important']() ?></b>: <?php $fifu['key']['important']() ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ul>
+    </div>
+</div>
+
+<script>
+    jQuery(document).ready(function () {
+        jQuery("#tabs-top").tabs({
+            beforeActivate: function (event, ui) {
+                var href = ui.newTab.find("a").attr("href");
+                if (href.startsWith("http")) {
+                    window.open(href, '_blank');
+                    return false;
+                }
+            }
+        });
+    });
+</script>

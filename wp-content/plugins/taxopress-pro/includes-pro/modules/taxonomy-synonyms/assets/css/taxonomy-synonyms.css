@@ -1,0 +1,17 @@
+ul.taxopress-term-synonyms li {
+    border: 1px solid #cccccc;
+    background-color: #fdfdfd;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    cursor: move;
+    display: inline-block;
+    margin-top: 0;
+    margin-right: 5px;
+}
+
+ul.taxopress-term-synonyms li .remove-synonym {
+    cursor: pointer;
+}

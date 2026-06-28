@@ -1,0 +1,5 @@
+/* Hide arrows */
+.lSAction > a {
+    background-image: none !important;
+    opacity: 1 !important;
+}

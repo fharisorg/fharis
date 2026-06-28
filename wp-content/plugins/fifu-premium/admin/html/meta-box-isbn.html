@@ -1,0 +1,13 @@
+<script>
+    <?php include 'js/isbn-meta-box.js' ?>
+</script>
+
+<!-- show isbn -->
+
+<input
+    id="fifu_input_isbn"
+    type="text"
+    name="fifu_input_isbn"
+    value="<?php echo esc_attr($isbn); ?>"
+    style="<?php echo $input_style?>"
+    placeholder="<?php $fifu['placeholder']['isbn']() ?>"/>

@@ -1,0 +1,91 @@
+/* FIFU Auto-Share (client) — minimal styles */
+
+.fifu-share {
+    display: grid;
+    gap: 12px;
+    max-width: 520px;
+    font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.fifu-share__providers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.fifu-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid #d0d7de;
+    background: #fff;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, .04);
+    transition: transform .02s ease-in-out, box-shadow .15s ease;
+    text-decoration: none;
+    color: #0f172a;
+}
+
+.fifu-btn:hover {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .06);
+}
+
+.fifu-btn:active {
+    transform: translateY(1px);
+}
+
+.fifu-btn--facebook {
+    border-color: #e0e7ff;
+}
+
+.fifu-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    background: #f1f5f9;
+    border-radius: 999px;
+    border: 1px solid #e2e8f0;
+    color: #0f172a;
+}
+
+.fifu-status {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 10px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+}
+
+.fifu-status__row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.fifu-pill {
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: 12px;
+    border: 1px solid #cbd5e1;
+    background: #fff;
+}
+
+.fifu-hidden {
+    display: none !important;
+}
+
+/* jQuery UI dialog minimal tweaks */
+.ui-dialog-titlebar-close {
+    border: none !important;
+    background: transparent !important;
+}
+
+.ui-widget-overlay {
+    backdrop-filter: blur(1px);
+}

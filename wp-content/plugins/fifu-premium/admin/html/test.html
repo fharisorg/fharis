@@ -1,0 +1,30 @@
+<!-- FIFU Auto-Share — minimal markup only; assets are enqueued in PHP -->
+<main class="fifu-share" id="fifu-share-root">
+    <div class="fifu-status" id="fifu-status" aria-live="polite">
+        <div class="fifu-status__row">
+            <strong>Status:</strong>
+            <span id="fifu-status-text" class="fifu-pill">Not connected</span>
+        </div>
+        <div class="fifu-status__row fifu-hidden" id="fifu-account-row">
+            <span class="fifu-badge" id="fifu-account-badge">Facebook: –</span>
+        </div>
+    </div>
+
+    <section>
+        <h3>Connect a social account</h3>
+        <div class="fifu-share__providers">
+            <button class="fifu-btn fifu-btn--facebook" id="fifu-connect-facebook" data-provider="facebook"
+                    type="button" aria-label="Continue with Facebook">
+                <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                    d="M22 12.06C22 6.48 17.52 2 11.94 2 6.36 2 1.88 6.48 1.88 12.06c0 5.02 3.66 9.19 8.44 9.94v-7.03H7.87v-2.91h2.45V9.41c0-2.42 1.44-3.76 3.64-3.76 1.05 0 2.16.19 2.16.19v2.38h-1.22c-1.2 0-1.58.75-1.58 1.51v1.81h2.69l-.43 2.91h-2.26V22c4.78-.75 8.44-4.92 8.44-9.94z"
+                    fill="currentColor" />
+                </svg>
+                <span>Continue with Facebook</span>
+            </button>
+        </div>
+    </section>
+</main>
+
+<!-- Provider-neutral dialog container -->
+<div id="fifu-dialog" title="FIFU Auto-Share" class="fifu-hidden"></div>
