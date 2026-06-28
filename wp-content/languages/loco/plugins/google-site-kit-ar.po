@@ -1,0 +1,1642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Site Kit by Google\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04 15:31+0000\n"
+"PO-Revision-Date: 2025-10-04 15:38+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.3; php-8.2.28\n"
+"X-Domain: google-site-kit"
+
+#. %1$s: Sign in with Google service name, %2$s: Plugin name
+#: includes/Modules/Sign_In_With_Google.php:662
+#, php-format
+msgid "%1$s (via %2$s)"
+msgstr ""
+
+#. 1: Plugin name. 2: Message.
+#: includes/Core/Authentication/Authentication.php:1135
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#. 1: Plugin name. 2: URL change message. 3: Proxy setup URL. 4: Reconnect string. 5: Proxy support link for the url-has-changed help page. 6: Help link message.
+#: includes/Core/Authentication/Authentication.php:1078
+#, php-format
+msgid ""
+"%1$s: %2$s <a href=\"%3$s\">%4$s</a>. <a target=\"_blank\" href=\"%5$s\">"
+"%6$s</a>"
+msgstr ""
+
+#. %1$s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:493
+#, php-format
+msgid "%1$s: Number of users who have authenticated using %1$s"
+msgstr ""
+
+#. %s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:583
+#, php-format
+msgid "%s button added by Site Kit"
+msgstr ""
+
+#. %s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:463
+#, php-format
+msgid "%s: Client ID"
+msgstr ""
+
+#. %s: module name
+#: includes/Core/Site_Health/Debug_Data.php:431
+#, php-format
+msgid "%s: Management"
+msgstr ""
+
+#. %s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:487
+#, php-format
+msgid "%s: One Tap Enabled"
+msgstr ""
+
+#. %s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:469
+#, php-format
+msgid "%s: Shape"
+msgstr ""
+
+#. %s: module name
+#: includes/Core/Site_Health/Debug_Data.php:423
+#, php-format
+msgid "%s: Shared Roles"
+msgstr ""
+
+#. %s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:475
+#, php-format
+msgid "%s: Text"
+msgstr ""
+
+#. %s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:481
+#, php-format
+msgid "%s: Theme"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/Modules/Analytics_4.php:591 includes/Modules/Analytics_4.php:634
+#: includes/Modules/AdSense.php:1040 includes/Modules/AdSense.php:1084
+#: includes/Core/Site_Health/Debug_Data.php:378
+#: includes/Core/Site_Health/Debug_Data.php:399
+#: includes/Core/Site_Health/Debug_Data.php:469
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:177
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:247
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:314
+msgid ", "
+msgstr ""
+
+#. 1: Support link URL. 2: Get help string.
+#: includes/Core/Authentication/Setup.php:127
+#, php-format
+msgid "<a href=\"%1$s\" target=\"_blank\">%2$s</a>"
+msgstr ""
+
+#. 1: Admin splash URL. 2: Support link URL.
+#: includes/Core/Authentication/Authentication.php:1316
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Please try again</a>. Retry didn’t work? <a href=\"%2$s\" "
+"target=\"_blank\">Get help</a>."
+msgstr ""
+
+#. %s: provider slug
+#: includes/Core/Conversion_Tracking/Conversion_Tracking.php:183
+#, php-format
+msgid ""
+"A conversion event provider class name is required to instantiate a provider:"
+" %s"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:641
+msgid "Active conversion event providers"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:375
+msgid "Active Modules"
+msgstr ""
+
+#: includes/Core/Admin/Screens.php:478
+msgid "Ad Blocking Recovery"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:283
+msgid ""
+"Additional permissions are required to create a new Tag Manager container on "
+"your behalf."
+msgstr ""
+
+#: includes/Modules/Ads.php:407
+msgid "Ads: Conversion ID"
+msgstr ""
+
+#: includes/Modules/AdSense.php:679
+msgid "AdSense account ID not set."
+msgstr ""
+
+#: includes/Modules/AdSense.php:234
+msgid "AdSense: Account ID"
+msgstr ""
+
+#: includes/Modules/AdSense.php:244
+msgid "AdSense: Account status"
+msgstr ""
+
+#: includes/Modules/AdSense.php:278
+msgid "AdSense: Ad Blocking Recovery error protection snippet placed"
+msgstr ""
+
+#: includes/Modules/AdSense.php:286
+msgid "AdSense: Ad Blocking Recovery setup status"
+msgstr ""
+
+#: includes/Modules/AdSense.php:270
+msgid "AdSense: Ad Blocking Recovery snippet placed"
+msgstr ""
+
+#: includes/Modules/AdSense.php:239
+msgid "AdSense: Client ID"
+msgstr ""
+
+#: includes/Modules/AdSense.php:262
+msgid "AdSense: Setup completed at"
+msgstr ""
+
+#: includes/Modules/AdSense.php:248
+msgid "AdSense: Site status"
+msgstr ""
+
+#: includes/Modules/AdSense.php:252
+msgid "AdSense: Snippet placed"
+msgstr ""
+
+#: includes/Modules/AdSense.php:257
+msgid "AdSense: Web Stories Ad Unit ID"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:240
+msgid "AMP Mode"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:271
+msgid "An internal error occurred while trying to activate the module."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:285
+msgid "An internal error occurred while trying to deactivate the module."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:561
+msgid "Analytics: Account ID"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:599
+msgid "Analytics: Ads Linked"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:604
+msgid "Analytics: Ads Linked Last Synced At"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:612
+msgid "Analytics: AdSense Linked"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:618
+msgid "Analytics: AdSense Linked Last Synced At"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:586
+msgid "Analytics: Available Custom Dimensions"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:576
+msgid "Analytics: Measurement ID"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:566
+msgid "Analytics: Property ID"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:629
+msgid "Analytics: Site created audiences"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:581
+msgid "Analytics: Snippet placed"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:571
+msgid "Analytics: Web Data Stream ID"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:489
+msgid "Any admin signed in with Google"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:290
+msgid "Authenticated"
+msgstr ""
+
+#: dist/assets/blocks/reader-revenue-manager/contribute-with-google/block.json:1
+msgctxt "block description"
+msgid ""
+"Allow users to make voluntary contributions using Reader Revenue Manager."
+msgstr ""
+
+#: dist/assets/blocks/sign-in-with-google/block.json:1
+msgctxt "block description"
+msgid "Allow users to sign in to your site using their Google Account."
+msgstr ""
+
+#: dist/assets/blocks/reader-revenue-manager/subscribe-with-google/block.json:1
+msgctxt "block description"
+msgid ""
+"Allow users to subscribe using Reader Revenue Manager to access content "
+"behind a paywall."
+msgstr ""
+
+#: dist/assets/blocks/reader-revenue-manager/contribute-with-google/block.json:1
+msgctxt "block title"
+msgid "Contribute with Google"
+msgstr ""
+
+#: dist/assets/blocks/sign-in-with-google/block.json:1
+msgctxt "block title"
+msgid "Sign in with Google"
+msgstr ""
+
+#: dist/assets/blocks/reader-revenue-manager/subscribe-with-google/block.json:1
+msgctxt "block title"
+msgid "Subscribe with Google"
+msgstr ""
+
+#: includes/Core/Dashboard_Sharing/View_Only_Pointer.php:54
+msgid ""
+"Check Site Kit’s dashboard to find out how much traffic your site is getting,"
+" your most popular pages, top keywords people use to find your site on "
+"Search, and more."
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:1144
+msgid "Click here"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:600 includes/Modules/Analytics_4.php:613
+msgid "Connected"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:258
+msgid "Connected through OAuth client credentials"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:257
+msgid "Connected through site credentials"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:359
+msgid "Connected user count"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:610
+msgid "Consent Mode"
+msgstr ""
+
+#: includes/Core/Admin/Screens.php:362 includes/Core/Admin/Screens.php:408
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:588
+msgid "Data to set."
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:145
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:158
+msgid "Default"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:116
+msgid "Description of the module."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:616
+msgid "Detected"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:611
+#: includes/Core/Tags/Google_Tag_Gateway/Google_Tag_Gateway.php:192
+msgid "Disabled"
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google.php:682
+msgid "Disconnect Google Account"
+msgstr ""
+
+#: includes/Core/Notifications/Notification.php:69
+msgid "Dismiss"
+msgstr ""
+
+#: includes/Modules/AdSense.php:752
+msgid "Earn money by placing ads on your website. It’s free and easy."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:611
+#: includes/Core/Tags/Google_Tag_Gateway/Google_Tag_Gateway.php:192
+msgid "Enabled"
+msgstr ""
+
+#: includes/Modules/Ads/AMP_Tag.php:91
+msgid "End Google Ads AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:92
+msgid ""
+"End Google AdSense Ad Blocking Recovery Error Protection snippet added by "
+"Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:88
+msgid "End Google AdSense Ad Blocking Recovery snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/AMP_Tag.php:123
+#: includes/Modules/AdSense/AMP_Tag.php:143
+#: includes/Modules/AdSense/AMP_Tag.php:188
+msgid "End Google AdSense AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense.php:976
+msgid "End Google AdSense meta tags added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/Web_Tag.php:97
+msgid "End Google AdSense snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:852
+msgid "End Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4/AMP_Tag.php:132
+msgid "End Google Analytics AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:863
+msgid "End Google Analytics opt-out snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager/Web_Tag.php:140
+msgid "End Google Reader Revenue Manager snippet added by Site Kit"
+msgstr ""
+
+#: includes/Core/Consent_Mode/Consent_Mode.php:259
+msgid "End Google tag (gtag.js) Consent Mode dataLayer added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:130
+msgid "End Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:75
+msgid "End Google Tag Manager AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:104
+msgid "End Google Tag Manager snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google/Web_Tag.php:225
+msgid "End Sign in with Google button added by Site Kit"
+msgstr ""
+
+#: google-site-kit.php:51 google-site-kit.php:59
+msgid "Error Activating"
+msgstr ""
+
+#: includes/Modules/Search_Console.php:266
+msgid "Error adding the site to Search Console."
+msgstr ""
+
+#: includes/Core/Conversion_Tracking/Conversion_Event_Providers/WooCommerce.php:148
+msgid "Events tracked through Analytics integration addon"
+msgstr ""
+
+#: includes/Core/Authentication/Google_Proxy.php:314
+msgid "Failed to parse response."
+msgstr ""
+
+#: includes/Core/Authentication/Google_Proxy.php:462
+msgid "Failed to retrieve redirect URL."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:584
+msgid "Features"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:1884
+msgid ""
+"Get a deeper understanding of your customers. Google Analytics gives you the "
+"free tools you need to analyze data for your business in one place."
+msgstr ""
+
+#: includes/Core/Authentication/Setup.php:129
+#: includes/Core/Authentication/Authentication.php:1084
+msgid "Get help"
+msgstr ""
+
+#: includes/Modules/AdSense.php:403
+msgid "Go to AdSense"
+msgstr ""
+
+#. Author of the plugin
+msgid "Google"
+msgstr ""
+
+#. %s: translatable module name
+#: includes/Core/Modules/Module_With_Tag_Trait.php:38
+#, php-format
+msgid "Google %s snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Ads/AMP_Tag.php:83
+msgid "Google Ads AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Ads/Web_Tag.php:83
+msgid "Google Ads snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:90
+msgid ""
+"Google AdSense Ad Blocking Recovery Error Protection snippet added by Site "
+"Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/Ad_Blocking_Recovery_Web_Tag.php:86
+msgid "Google AdSense Ad Blocking Recovery snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/AMP_Tag.php:115
+#: includes/Modules/AdSense/AMP_Tag.php:142
+#: includes/Modules/AdSense/AMP_Tag.php:184
+msgid "Google AdSense AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense.php:972
+msgid "Google AdSense meta tags added by Site Kit"
+msgstr ""
+
+#: includes/Modules/AdSense/Web_Tag.php:95
+msgid "Google AdSense snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:850
+msgid "Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4/AMP_Tag.php:124
+msgid "Google Analytics AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:854
+msgid "Google Analytics opt-out snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4/Web_Tag.php:144
+msgid "Google Analytics snippet added by Site Kit"
+msgstr ""
+
+#: includes/Core/Modules/Module.php:488
+msgid "Google client not set up correctly."
+msgstr ""
+
+#: includes/Modules/PageSpeed_Insights.php:183
+msgid ""
+"Google PageSpeed Insights gives you metrics about performance, accessibility,"
+" SEO and PWA"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager/Web_Tag.php:139
+msgid "Google Reader Revenue Manager snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Search_Console.php:507
+msgid ""
+"Google Search Console and helps you understand how Google views your site "
+"and optimize its performance in search results."
+msgstr ""
+
+#. %s: service identifier
+#: includes/Core/Modules/Module.php:554
+#, php-format
+msgid "Google service identified by %s does not exist."
+msgstr ""
+
+#: includes/Core/Modules/Module.php:542 includes/Core/Modules/Module.php:546
+msgid "Google services not set up correctly."
+msgstr ""
+
+#: includes/Modules/Site_Verification.php:357
+msgid "Google Site Verification allows you to manage ownership of your site."
+msgstr ""
+
+#: includes/Core/Consent_Mode/Consent_Mode.php:246
+msgid "Google tag (gtag.js) Consent Mode dataLayer added by Site Kit"
+msgstr ""
+
+#: includes/Core/Tags/GTag.php:199
+msgid "Google tag (gtag.js) snippet added by Site Kit"
+msgstr ""
+
+#: includes/Core/Tags/Google_Tag_Gateway/Google_Tag_Gateway.php:191
+msgid "Google tag gateway for advertisers"
+msgstr ""
+
+#: includes/Core/Tags/GTag.php:107
+msgid "Google tag gateway for advertisers snippet added by Site Kit"
+msgstr ""
+
+#: includes/Core/Tags/Google_Tag_Gateway/Google_Tag_Gateway.php:201
+msgid "Google tag gateway for advertisers: Script accessible"
+msgstr ""
+
+#: includes/Core/Tags/Google_Tag_Gateway/Google_Tag_Gateway.php:196
+msgid "Google tag gateway for advertisers: Service healthy"
+msgstr ""
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:126
+msgid "Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:66
+msgid "Google Tag Manager AMP snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:102
+#: includes/Modules/Tag_Manager/Web_Tag.php:173
+msgid "Google Tag Manager snippet added by Site Kit"
+msgstr ""
+
+#: includes/Modules/Ads.php:305
+msgid ""
+"Grow sales, leads or awareness for your business by advertising with Google "
+"Ads"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:1885
+msgid "https://analytics.google.com/analytics/web"
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google.php:288
+msgid "https://developers.google.com/identity/gsi/web/guides/overview"
+msgstr ""
+
+#: includes/Modules/Ads.php:306
+msgid "https://google.com/ads"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://opensource.google.com"
+msgstr ""
+
+#: includes/Modules/PageSpeed_Insights.php:184
+msgid "https://pagespeed.web.dev"
+msgstr ""
+
+#: includes/Modules/Search_Console.php:509
+msgid "https://search.google.com/search-console"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://sitekit.withgoogle.com"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:513
+msgid "https://tagmanager.google.com/"
+msgstr ""
+
+#: includes/Modules/Site_Verification.php:359
+msgid "https://www.google.com/webmasters/verification/home"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:106
+#: includes/Core/Modules/REST_Modules_Controller.php:322
+#: includes/Core/Modules/REST_Modules_Controller.php:379
+#: includes/Core/Modules/REST_Modules_Controller.php:417
+#: includes/Core/Modules/REST_Modules_Controller.php:496
+#: includes/Core/Modules/REST_Modules_Controller.php:532
+#: includes/Core/Modules/REST_Modules_Controller.php:600
+msgid "Identifier for the module."
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google.php:287
+msgid ""
+"Improve user engagement, trust and data privacy, while creating a simple, "
+"secure and personalized experience for your visitors"
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:291
+msgid "Internal error that the Google login redirect failed."
+msgstr ""
+
+#. %s: Invalid custom dimension slug
+#: includes/Modules/Analytics_4.php:1565
+#, php-format
+msgid "Invalid custom dimension slug: %s."
+msgstr ""
+
+#: includes/Core/Modules/Module.php:383
+msgid "Invalid datapoint request."
+msgstr ""
+
+#: includes/Core/REST_API/Exception/Invalid_Datapoint_Exception.php:38
+msgid "Invalid datapoint."
+msgstr ""
+
+#: includes/Modules/AdSense.php:644
+msgid "Invalid date range."
+msgstr ""
+
+#. %s: module slug
+#: includes/Core/Modules/Modules.php:528 includes/Core/Modules/Modules.php:566
+#: includes/Core/Modules/Modules.php:587
+#, php-format
+msgid "Invalid module slug %s."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:344
+#: includes/Core/Modules/REST_Modules_Controller.php:395
+#: includes/Core/Modules/REST_Modules_Controller.php:433
+#: includes/Core/Modules/REST_Modules_Controller.php:466
+#: includes/Core/Modules/REST_Modules_Controller.php:512
+#: includes/Core/Modules/REST_Modules_Controller.php:548
+#: includes/Core/Modules/REST_Modules_Controller.php:570
+msgid "Invalid module slug."
+msgstr ""
+
+#. %s: List of invalid parameters.
+#: includes/Modules/Analytics_4.php:1632
+#, php-format
+msgid "Invalid parameter(s): %s"
+msgstr ""
+
+#. %s: Invalid parameter
+#: includes/Core/REST_API/Exception/Invalid_Param_Exception.php:46
+#, php-format
+msgid "Invalid parameter: %s."
+msgstr ""
+
+#. %s: Invalid property names
+#: includes/Modules/Analytics_4.php:1162
+#, php-format
+msgid "Invalid properties in audience: %s."
+msgstr ""
+
+#. %s: Invalid property names
+#: includes/Modules/Analytics_4.php:1433
+#, php-format
+msgid "Invalid properties in customDimension: %s."
+msgstr ""
+
+#. %s: Invalid property names
+#: includes/Modules/Analytics_4.php:1376
+#, php-format
+msgid "Invalid properties in enhancedMeasurementSettings: %s."
+msgstr ""
+
+#: includes/Core/Authentication/Setup.php:233
+#: includes/Core/Authentication/Setup.php:290
+msgid "Invalid request."
+msgstr ""
+
+#. %s: Invalid scope
+#: includes/Modules/Analytics_4.php:1449
+#, php-format
+msgid "Invalid scope: %s."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:682
+msgid "Key Metrics Source"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:661
+#: includes/Core/Site_Health/Debug_Data.php:678
+msgid "Key Metrics Status"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:149
+msgid "List of slugs of other modules depending on the module."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:141
+msgid "List of slugs of other modules that the module depends on."
+msgstr ""
+
+#. %s: Sign in with Google service name
+#: includes/Modules/Sign_In_With_Google.php:234
+#, php-format
+msgid "Login with %s failed."
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:1080
+msgid ""
+"Looks like the URL of your site has changed. In order to continue using Site "
+"Kit, you’ll need to reconnect, so that your plugin settings are updated with "
+"the new URL."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:305
+msgid "Looks like the verification token for your site is missing."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:303
+msgid "Looks like there is no Search Console property for your site."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:301
+msgid ""
+"Looks like your site is not allowed access to Google account data and can’t "
+"display stats in the dashboard."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:673
+msgid "Manual Selection"
+msgstr ""
+
+#. 1: the regular expression for a valid name, 2: the invalid metric.
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:182
+#, php-format
+msgid "Metric name should match the expression %1$s: %2$s"
+msgstr ""
+
+#. 1: the regular expression for a valid name, 2: a comma separated list of the invalid metrics.
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:170
+#, php-format
+msgid "Metric names should match the expression %1$s: %2$s"
+msgstr ""
+
+#: includes/Core/Authentication/Google_Proxy.php:137
+msgid "Missing code parameter for setup URL."
+msgstr ""
+
+#: includes/Core/User_Input/REST_User_Input_Controller.php:145
+msgid "Missing settings data."
+msgstr ""
+
+#: includes/Core/Authentication/Google_Proxy.php:140
+msgid "Missing site_id or site_code parameter for setup URL."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:360
+msgid "Module access cannot be checked."
+msgstr ""
+
+#. %s: module name
+#: includes/Core/Modules/REST_Modules_Controller.php:267
+#, php-format
+msgid "Module cannot be activated because of inactive dependency %s."
+msgstr ""
+
+#. %s: module name
+#: includes/Core/Modules/REST_Modules_Controller.php:280
+#, php-format
+msgid ""
+"Module cannot be deactivated because deactivation of dependant %s failed."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:605
+msgid "Module data point to address."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:520
+msgid "Module does not support setting data available state."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:437
+#: includes/Core/Modules/REST_Modules_Controller.php:470
+msgid "Module does not support settings."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:701
+msgid "Module is not accessible by current user."
+msgstr ""
+
+#: includes/Modules/AdSense.php:485
+#: includes/Core/Modules/REST_Modules_Controller.php:348
+#: includes/Core/Modules/REST_Modules_Controller.php:516
+msgid "Module is not connected."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:668
+msgid "Module is not recoverable."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:655
+msgid "Module is not shareable."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:552
+#: includes/Core/Modules/REST_Modules_Controller.php:574
+msgid "Module must be active to request data."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:111
+msgid "Name of the module."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:605 includes/Modules/Analytics_4.php:619
+msgid "Never synced"
+msgstr ""
+
+#. %s: Current URL
+#: includes/Core/Authentication/Authentication.php:1099
+#, php-format
+msgid "New URL: %s"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:236 includes/Modules/Analytics_4.php:582
+#: includes/Modules/AdSense.php:253 includes/Modules/AdSense.php:274
+#: includes/Modules/AdSense.php:282
+#: includes/Modules/Sign_In_With_Google.php:488
+#: includes/Core/Site_Health/Debug_Data.php:241
+#: includes/Core/Tags/Google_Tag_Gateway/Google_Tag_Gateway.php:152
+msgid "No"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:1135 includes/Modules/Analytics_4.php:1282
+#: includes/Modules/Analytics_4.php:1525 includes/Modules/Analytics_4.php:1541
+#: includes/Modules/Analytics_4.php:1701
+msgid "No connected Google Analytics property ID."
+msgstr ""
+
+#: includes/Core/Key_Metrics/REST_Key_Metrics_Controller.php:140
+msgid "No more than 4 key metrics can be selected."
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:244
+#: includes/Core/Site_Health/Tag_Placement.php:251
+msgid "No tag detected."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:588 includes/Modules/Analytics_4.php:631
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:118
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:141
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:159
+#: includes/Core/Site_Health/Debug_Data.php:210
+#: includes/Core/Site_Health/Debug_Data.php:452
+msgid "None"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:291
+msgid "Not authenticated"
+msgstr ""
+
+#: includes/Modules/AdSense.php:266
+msgid "Not available"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:600 includes/Modules/Analytics_4.php:613
+#: includes/Core/Site_Health/Debug_Data.php:259
+msgid "Not connected"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:616
+msgid "Not detected"
+msgstr ""
+
+#: includes/Modules/AdSense.php:1115
+msgid "Not set up"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:662
+msgid "Not setup"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:313
+msgid "Not verified"
+msgstr ""
+
+#: includes/Core/Authentication/Google_Proxy.php:269
+#: includes/Core/Authentication/Google_Proxy.php:498
+msgid "OAuth credentials haven't been found."
+msgstr ""
+
+#. %s: Previous URL
+#: includes/Core/Authentication/Authentication.php:1094
+#, php-format
+msgid "Old URL: %s"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:121
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:160
+msgid "Open access"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:494
+msgid "Owner"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:168
+msgid "Owner ID."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:173
+msgid "Owner login."
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:745
+msgid "Per post"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:175
+msgid "PHP Version"
+msgstr ""
+
+#: includes/Modules/Analytics_4/Web_Tag.php:72
+msgid "Please use the Consent Mode feature instead."
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:744
+msgid "Post types"
+msgstr ""
+
+#: includes/Core/Admin/Authorize_Application.php:126
+msgid "Powered by Site Kit"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:235
+msgid "Primary"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:384
+#: includes/Modules/Reader_Revenue_Manager.php:399
+msgid "Publication not found."
+msgstr ""
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:50
+msgid "Rate Site Kit"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:96
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:166
+msgid "Reader Revenue CTA"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:465
+msgid ""
+"Reader Revenue Manager helps publishers grow, retain, and engage their "
+"audiences, creating new revenue opportunities"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:774
+msgid "Reader Revenue Manager: Available product IDs"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:779
+msgid "Reader Revenue Manager: Payment option"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:797
+msgid "Reader Revenue Manager: Post types"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:789
+msgid "Reader Revenue Manager: Product ID"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:764
+msgid "Reader Revenue Manager: Publication ID"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:769
+msgid "Reader Revenue Manager: Publication onboarding state"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:784
+msgid "Reader Revenue Manager: Snippet placement"
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:1082
+msgid "Reconnect"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:396
+msgid "Recoverable Modules"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:183
+msgid "Reference Site URL"
+msgstr ""
+
+#. 1: Invalid parameter name, 2: list of valid values
+#: includes/Modules/Tag_Manager.php:328
+#: includes/Modules/PageSpeed_Insights.php:114
+#, php-format
+msgid "Request parameter %1$s is not one of %2$s"
+msgstr ""
+
+#. %s: Missing parameter name
+#: includes/Modules/Tag_Manager.php:308 includes/Modules/Tag_Manager.php:316
+#: includes/Modules/Tag_Manager.php:359 includes/Modules/Tag_Manager.php:367
+#: includes/Modules/PageSpeed_Insights.php:100
+#: includes/Modules/Analytics_4.php:1214 includes/Modules/Analytics_4.php:1230
+#: includes/Modules/Analytics_4.php:1245 includes/Modules/Analytics_4.php:1261
+#: includes/Modules/Analytics_4.php:1273 includes/Modules/Analytics_4.php:1303
+#: includes/Modules/Analytics_4.php:1312 includes/Modules/Analytics_4.php:1331
+#: includes/Modules/Analytics_4.php:1340 includes/Modules/Analytics_4.php:1349
+#: includes/Modules/Analytics_4.php:1403 includes/Modules/Analytics_4.php:1412
+#: includes/Modules/Analytics_4.php:1556 includes/Modules/Analytics_4.php:1606
+#: includes/Modules/Analytics_4.php:1623 includes/Modules/Analytics_4.php:1658
+#: includes/Modules/Analytics_4.php:1669 includes/Modules/Analytics_4.php:1677
+#: includes/Modules/Analytics_4.php:1690
+#: includes/Modules/Site_Verification.php:173 includes/Modules/AdSense.php:342
+#: includes/Modules/AdSense.php:347 includes/Modules/AdSense.php:355
+#: includes/Modules/AdSense.php:364 includes/Modules/AdSense.php:476
+#: includes/Modules/Search_Console.php:238
+#: includes/Core/Feature_Tours/REST_Feature_Tours_Controller.php:108
+#: includes/Core/Dismissals/REST_Dismissals_Controller.php:148
+#: includes/Core/Notifications/Notifications.php:286
+#: includes/Core/Expirables/REST_Expirable_Items_Controller.php:110
+#: includes/Core/Expirables/REST_Expirable_Items_Controller.php:120
+#: includes/Core/Prompts/REST_Prompts_Controller.php:109
+#: includes/Core/REST_API/Exception/Missing_Required_Param_Exception.php:46
+#, php-format
+msgid "Request parameter is empty: %s."
+msgstr ""
+
+#. %s: Missing parameter name
+#: includes/Core/Expirables/REST_Expirable_Items_Controller.php:134
+#, php-format
+msgid "Request parameter is invalid: %s."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:623
+msgid "Request parameter slugs is not valid."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:518
+msgid "Required scopes"
+msgstr ""
+
+#: includes/Core/Admin/Available_Tools.php:47
+#: includes/Core/Admin/Available_Tools.php:61
+msgid "Reset Site Kit"
+msgstr ""
+
+#: includes/Core/Admin/Available_Tools.php:50
+msgid ""
+"Resetting will disconnect all users and remove all Site Kit settings and "
+"data within WordPress. You and any other users who wish to use Site Kit will "
+"need to reconnect to restore access."
+msgstr ""
+
+#: includes/Modules/Search_Console.php:168
+msgid "Search Console: Property"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:236
+msgid "Secondary"
+msgstr ""
+
+#: includes/Core/Admin/Screens.php:487
+msgid "Select Key Metrics"
+msgstr ""
+
+#: includes/Core/Key_Metrics/REST_Key_Metrics_Controller.php:128
+msgid "Selected metrics cannot be empty."
+msgstr ""
+
+#: includes/Modules/Ads.php:304
+msgctxt "Service name"
+msgid "Ads"
+msgstr ""
+
+#: includes/Modules/AdSense.php:751
+msgctxt "Service name"
+msgid "AdSense"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:1883
+msgctxt "Service name"
+msgid "Analytics"
+msgstr ""
+
+#: includes/Modules/PageSpeed_Insights.php:182
+msgctxt "Service name"
+msgid "PageSpeed Insights"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:464
+msgctxt "Service name"
+msgid "Reader Revenue Manager"
+msgstr ""
+
+#: includes/Modules/Search_Console.php:506
+msgctxt "Service name"
+msgid "Search Console"
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google.php:234
+#: includes/Modules/Sign_In_With_Google.php:286
+#: includes/Modules/Sign_In_With_Google.php:463
+#: includes/Modules/Sign_In_With_Google.php:469
+#: includes/Modules/Sign_In_With_Google.php:475
+#: includes/Modules/Sign_In_With_Google.php:481
+#: includes/Modules/Sign_In_With_Google.php:487
+#: includes/Modules/Sign_In_With_Google.php:493
+#: includes/Modules/Sign_In_With_Google.php:583
+#: includes/Modules/Sign_In_With_Google.php:662
+msgctxt "Service name"
+msgid "Sign in with Google"
+msgstr ""
+
+#: includes/Modules/Site_Verification.php:356
+msgctxt "Service name"
+msgid "Site Verification"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:511
+msgctxt "Service name"
+msgid "Tag Manager"
+msgstr ""
+
+#: includes/Core/Admin/Screens.php:460
+#: includes/Core/Admin/Plugin_Action_Links.php:61
+msgid "Settings"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:484
+msgid "Settings to set."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:668
+msgid "Setup and Disabled"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:669
+msgid "Setup and Enabled"
+msgstr ""
+
+#: includes/Modules/AdSense.php:1113
+msgid "Setup complete"
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:287
+msgid ""
+"Setup was interrupted because you did not grant the necessary permissions."
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google/Web_Tag.php:222
+msgid "Sign in with Google button added by Site Kit"
+msgstr ""
+
+#: includes/Core/Admin/Screen.php:129
+#: includes/Core/Site_Health/Tag_Placement.php:106
+msgid "Site Kit"
+msgstr ""
+
+#. Name of the plugin
+#: includes/Modules/Sign_In_With_Google.php:662
+#: includes/Core/Authentication/Authentication.php:1079
+#: includes/Core/Authentication/Authentication.php:1136
+#: includes/Core/Admin/Screen.php:87
+#: includes/Core/Site_Health/Debug_Data.php:124
+msgid "Site Kit by Google"
+msgstr ""
+
+#. %s: module name
+#: includes/Core/Modules/Module.php:440
+#, php-format
+msgid ""
+"Site Kit can’t access the relevant data from %s because you haven’t granted "
+"all permissions requested during setup."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Site Kit is a one-stop solution for WordPress users to use everything Google "
+"has to offer to make them successful on the web."
+msgstr ""
+
+#: includes/Core/Authentication/Setup.php:149
+#: includes/Core/Authentication/Authentication.php:1264
+msgid "Site Kit is not configured to use the authentication proxy."
+msgstr ""
+
+#. %s: version number
+#: google-site-kit.php:50
+#, php-format
+msgid "Site Kit requires PHP version %s or higher"
+msgstr ""
+
+#. %s: version number
+#: google-site-kit.php:58
+#, php-format
+msgid "Site Kit requires WordPress version %s or higher"
+msgstr ""
+
+#: includes/Core/Admin/Dashboard.php:116
+msgid "Site Kit Summary"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:271
+msgid "Site Status"
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager.php:746
+msgid "Sitewide"
+msgstr ""
+
+#: includes/Modules/AdSense.php:1111
+msgid "Snippet is placed"
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:1320
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:51
+msgid "Support"
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:230
+msgid "Tag detected and placed by Site Kit."
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:237
+msgid "Tag detected but could not verify that Site Kit placed the tag."
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:512
+msgid ""
+"Tag Manager creates an easy to manage way to create tags on your site "
+"without updating code"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:220
+msgid "Tag Manager: Account ID"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:230
+msgid "Tag Manager: AMP Container ID"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:225
+msgid "Tag Manager: Container ID"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:235
+msgid "Tag Manager: Snippet placed"
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:73
+#: includes/Core/Site_Health/Tag_Placement.php:81
+#: includes/Core/Site_Health/Tag_Placement.php:103
+msgid "Tag Placement"
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:151
+msgid "Tag placement disabled in settings."
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:135
+msgid "Tag status not available: no modules that place tags are connected."
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:125
+msgid "Tags are not output in the current environment."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:674
+msgid "Tailored Metrics"
+msgstr ""
+
+#: includes/Core/Util/REST_Entity_Search_Controller.php:133
+msgid "Text content to search for."
+msgstr ""
+
+#. %s: The module name
+#: includes/Core/Admin/Screens.php:390
+#, php-format
+msgid "The %s module cannot be set up as it has not been activated yet."
+msgstr ""
+
+#. 1: provider classname 2: Conversion_Events_Provider classname
+#: includes/Core/Conversion_Tracking/Conversion_Tracking.php:203
+#, php-format
+msgid ""
+"The '%1$s' class must extend the base conversion event provider class: %2$s"
+msgstr ""
+
+#. %s: provider classname
+#: includes/Core/Conversion_Tracking/Conversion_Tracking.php:193
+#, php-format
+msgid "The '%s' class does not exist"
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:1312
+msgid "The link you followed has expired."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:121
+msgid "The module homepage."
+msgstr ""
+
+#. 1: Error message or error code. 2: Get help link.
+#: includes/Core/Authentication/Setup.php:170
+#, php-format
+msgid ""
+"The request to the authentication proxy has failed with an error: %1$s %2$s."
+msgstr ""
+
+#. %s: Get help link.
+#: includes/Core/Authentication/Setup.php:189
+#, php-format
+msgid ""
+"The request to the authentication proxy has failed. Please, try again later. "
+"%s."
+msgstr ""
+
+#: includes/Plugin.php:76
+msgid ""
+"The Site Kit by Google plugin does <strong>not yet offer</strong> a network "
+"mode, but we&#8217;re actively working on that."
+msgstr ""
+
+#: includes/Core/Util/Requires_Javascript_Trait.php:36
+msgid ""
+"The Site Kit by Google plugin requires JavaScript to be enabled in your "
+"browser."
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google.php:237
+msgid "The user is not registered on this site."
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:168
+msgid ""
+"There was an error while trying to get the status, please try again later."
+msgstr ""
+
+#: includes/Core/Site_Health/Tag_Placement.php:116
+msgid "This feature requires WordPress version 5.6 or higher"
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google.php:673
+msgid "This user can sign in with their Google account."
+msgstr ""
+
+#: includes/Modules/Ads.php:305
+msgid "Track conversions for your existing Google Ads campaigns"
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:307
+msgid "Unable to authenticate Site Kit, as no client credentials exist."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:295
+msgid "Unable to receive access token because of an empty authorization code."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:297
+msgid ""
+"Unable to receive access token because of an invalid authorization code or "
+"refresh token."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:293
+msgid "Unable to receive access token because of an invalid client."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:299
+msgid "Unable to receive access token because of an invalid OAuth request."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:311
+msgid "Unable to receive access token because of an unauthorized client."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:289
+msgid "Unable to receive access token because of an unknown error."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:313
+msgid "Unable to receive access token because of an unsupported grant type."
+msgstr ""
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:309
+msgid "Unable to refresh access token, as no refresh token exists."
+msgstr ""
+
+#. %s: error code from API
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:316
+#, php-format
+msgid "Unknown Error (code: %s)."
+msgstr ""
+
+#: includes/Modules/Site_Verification.php:180
+msgid "Unknown user."
+msgstr ""
+
+#. %s: is replaced with the invalid dimension.
+#: includes/Modules/AdSense.php:1089
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:319
+#, php-format
+msgid "Unsupported dimension requested: %s"
+msgstr ""
+
+#. %s: is replaced with a comma separated list of the invalid dimensions.
+#: includes/Modules/AdSense.php:1078
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:308
+#, php-format
+msgid "Unsupported dimensions requested: %s"
+msgstr ""
+
+#. %s: is replaced with the invalid metric.
+#: includes/Modules/AdSense.php:1045
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:252
+#, php-format
+msgid "Unsupported metric requested: %s"
+msgstr ""
+
+#. %s: is replaced with a comma separated list of the invalid metrics.
+#: includes/Modules/AdSense.php:1034
+#: includes/Modules/Analytics_4/Report/RequestHelpers.php:241
+#, php-format
+msgid "Unsupported metrics requested: %s"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:537
+msgid "User Capabilities"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:1486
+msgid "User does not have permission to save audience settings."
+msgstr ""
+
+#: includes/Core/Admin/Screens.php:469
+msgid "User Input"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:1516
+msgid "User must be authenticated to sync audiences."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:288
+msgid "User Status"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:304
+msgid "Verification Status"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:336
+msgid "Verified outside of Site Kit"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:321
+msgid "Verified through file"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:329
+msgid "Verified through meta tag"
+msgstr ""
+
+#: includes/Core/Authentication/Setup.php:237
+msgid "Verifying site ownership requires a token and verification method."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:171
+msgid "Version"
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:132
+msgid "Whether the module is active."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:127
+msgid "Whether the module is internal, thus without any UI."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:161
+msgid "Whether the module is recoverable."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:157
+msgid "Whether the module is shareable."
+msgstr ""
+
+#: includes/Core/Modules/REST_Modules_Controller.php:136
+msgid "Whether the module setup has been completed."
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:179
+msgid "WordPress Version"
+msgstr ""
+
+#: includes/Core/Site_Health/Debug_Data.php:615
+msgid "WP Consent API"
+msgstr ""
+
+#: includes/Modules/Tag_Manager.php:236 includes/Modules/Analytics_4.php:582
+#: includes/Modules/AdSense.php:253 includes/Modules/AdSense.php:274
+#: includes/Modules/AdSense.php:282
+#: includes/Modules/Sign_In_With_Google.php:488
+#: includes/Core/Tags/Google_Tag_Gateway/Google_Tag_Gateway.php:150
+msgid "Yes"
+msgstr ""
+
+#: includes/Modules/Sign_In_With_Google.php:668
+msgid "You can sign in with your Google account."
+msgstr ""
+
+#: includes/Core/Consent_Mode/Consent_Mode.php:136
+msgid "You do not have permission to activate plugins on this site."
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:741
+#: includes/Core/Authentication/Authentication.php:761
+#: includes/Core/Authentication/Authentication.php:795
+msgid "You don’t have permissions to authenticate with Site Kit."
+msgstr ""
+
+#: includes/Core/Util/Reset.php:306 includes/Core/Authentication/Setup.php:229
+#: includes/Core/Authentication/Setup.php:286
+msgid "You don’t have permissions to set up Site Kit."
+msgstr ""
+
+#: includes/Core/Authentication/Setup.php:145
+msgid "You have insufficient permissions to connect Site Kit."
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:1260
+msgid "You have insufficient permissions to manage Site Kit permissions."
+msgstr ""
+
+#: includes/Core/Authentication/Authentication.php:1137
+msgid "You need to reauthenticate your Google account."
+msgstr ""
+
+#: includes/Core/Dashboard_Sharing/View_Only_Pointer.php:53
+msgid "You now have access to Site Kit"
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:677
+msgid ""
+"You’ll need to grant Site Kit permission to create a new Analytics account "
+"on your behalf."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:714
+msgid ""
+"You’ll need to grant Site Kit permission to create a new Analytics custom "
+"dimension on your behalf."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:688
+msgid ""
+"You’ll need to grant Site Kit permission to create a new Analytics property "
+"on your behalf."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:693
+msgid ""
+"You’ll need to grant Site Kit permission to create a new Analytics web data "
+"stream for this site on your behalf."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:731
+msgid ""
+"You’ll need to grant Site Kit permission to create new audiences for your "
+"Analytics property on your behalf."
+msgstr ""
+
+#: includes/Core/Modules/Datapoint.php:135
+msgid "You’ll need to grant Site Kit permission to do this."
+msgstr ""
+
+#: includes/Modules/Analytics_4.php:709
+msgid ""
+"You’ll need to grant Site Kit permission to update enhanced measurement "
+"settings for this Analytics web data stream on your behalf."
+msgstr ""
+
+#: includes/Modules/Reader_Revenue_Manager/Admin_Post_List.php:157
+msgid "— No Change —"
+msgstr ""

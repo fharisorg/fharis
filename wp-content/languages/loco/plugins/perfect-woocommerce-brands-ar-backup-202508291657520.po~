@@ -1,0 +1,993 @@
+# Copyright (C) 2025 QuadLayers
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Perfect Brands WooCommerce 3.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/perfect-"
+"woocommerce-brands\n"
+"Last-Translator: admin\n"
+"Language-Team: العربية\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-03-05T13:50:35+00:00\n"
+"PO-Revision-Date: 2025-08-29 16:57+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: perfect-woocommerce-brands\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.2.28"
+
+#. Plugin Name of the plugin
+#: perfect-woocommerce-brands.php
+msgid "Perfect Brands WooCommerce"
+msgstr "مثالية العلامات التجارية WooCommerce"
+
+#. Plugin URI of the plugin
+#: perfect-woocommerce-brands.php
+msgid "https://quadlayers.com/products/perfect-woocommerce-brands/"
+msgstr ""
+
+#. Description of the plugin
+#: perfect-woocommerce-brands.php
+msgid ""
+"Perfect WooCommerce Brands allows you to show product brands in your "
+"WooCommerce based store."
+msgstr ""
+"مثالية WooCommerce الماركات يسمح لك لإظهار العلامات التجارية المنتج في "
+"WooCommerce الخاص بك على أساس المتجر."
+
+#. Author of the plugin
+#: perfect-woocommerce-brands.php
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#. Author URI of the plugin
+#: perfect-woocommerce-brands.php
+msgid "https://quadlayers.com"
+msgstr ""
+
+#: lib/admin/class-admin-tab.php:26 lib/admin/class-admin-tab.php:389
+msgid "General"
+msgstr "العامة"
+
+#: lib/admin/class-admin-tab.php:27 lib/admin/class-admin-tab.php:77
+msgid "Shop & Categories"
+msgstr "متجر & فئات"
+
+#: lib/admin/class-admin-tab.php:28 lib/admin/class-admin-tab.php:308
+#: lib/admin/class-admin-tab.php:451 lib/admin/class-edit-brands-page.php:157
+#: lib/class-woocommerce.php:761 lib/class-woocommerce.php:763
+#: lib/widgets/class-brands-dropdown.php:20
+#: lib/widgets/class-brands-list.php:20
+#: lib/widgets/class-filter-by-brand.php:22
+#: lib/widgets/class-filter-by-brand.php:89 templates/widgets/dropdown.php:14
+msgid "Brands"
+msgstr "المؤلفين"
+
+#: lib/admin/class-admin-tab.php:29 lib/admin/class-admin-tab.php:255
+#: lib/class-woocommerce.php:387
+msgid "Products"
+msgstr "المنتجات"
+
+#: lib/admin/class-admin-tab.php:30 lib/admin/class-admin-tab.php:337
+msgid "Tools"
+msgstr "أدوات"
+
+#: lib/admin/class-admin-tab.php:32
+#: vendor_packages/wp-plugin-table-links.php:23
+msgid "Documentation"
+msgstr "الوثائق"
+
+#: lib/admin/class-admin-tab.php:37
+#: vendor_packages/wp-plugin-table-links.php:13
+msgid "Premium"
+msgstr "قسط"
+
+#: lib/admin/class-admin-tab.php:42
+msgid "Suggestions"
+msgstr "اقتراحات"
+
+#: lib/admin/class-admin-tab.php:83 lib/admin/class-admin-tab.php:201
+msgid "Show brands in loop"
+msgstr "عرض المؤلفين في حلقة"
+
+#: lib/admin/class-admin-tab.php:86 lib/admin/class-admin-tab.php:204
+msgid "Show brand logo (or name) in product loop"
+msgstr "عرض شعار العلامة التجارية (أو اسم) في المنتج حلقة"
+
+#: lib/admin/class-admin-tab.php:89 lib/admin/class-admin-tab.php:207
+#: lib/admin/class-admin-tab.php:275 lib/admin/class-admin-tab.php:320
+#: lib/admin/class-admin-tab.php:432
+msgid "No"
+msgstr "لا"
+
+#: lib/admin/class-admin-tab.php:90 lib/admin/class-admin-tab.php:208
+#: lib/admin/class-admin-tab.php:276
+msgid "Show brand link"
+msgstr "تظهر الرابط للمؤلف"
+
+#: lib/admin/class-admin-tab.php:91 lib/admin/class-admin-tab.php:209
+#: lib/admin/class-admin-tab.php:277
+msgid "Show brand image (if is set)"
+msgstr "تظهر صورة العلامة التجارية (إذا تم)"
+
+#: lib/admin/class-admin-tab.php:95 lib/admin/class-admin-tab.php:214
+msgid "Brands in loop separator"
+msgstr "العلامات التجارية في حلقة فاصل"
+
+#: lib/admin/class-admin-tab.php:98 lib/admin/class-admin-tab.php:217
+#: lib/admin/class-admin-tab.php:301
+msgid "Show separator between brands"
+msgstr "عرض فاصل بين العلامات التجارية"
+
+#: lib/admin/class-admin-tab.php:102 lib/admin/class-admin-tab.php:222
+msgid "Show brands in loop hook"
+msgstr "عرض العلامات التجارية في حلقة هوك"
+
+#: lib/admin/class-admin-tab.php:105 lib/admin/class-admin-tab.php:225
+msgid "Show brand logo (or name) in product loop hook"
+msgstr "عرض شعار العلامة التجارية (أو اسم) في المنتج حلقة هوك"
+
+#: lib/admin/class-admin-tab.php:108 lib/admin/class-admin-tab.php:228
+msgid "Before shop loop item"
+msgstr "قبل متجر حلقة البند"
+
+#: lib/admin/class-admin-tab.php:109 lib/admin/class-admin-tab.php:229
+msgid "Before shop loop item title"
+msgstr "قبل متجر حلقة البند العنوان"
+
+#: lib/admin/class-admin-tab.php:110
+msgid "Shop loop item title"
+msgstr "متجر حلقة البند العنوان"
+
+#: lib/admin/class-admin-tab.php:111 lib/admin/class-admin-tab.php:231
+msgid "After shop loop item title"
+msgstr "بعد متجر حلقة البند العنوان"
+
+#: lib/admin/class-admin-tab.php:112 lib/admin/class-admin-tab.php:230
+msgid "After shop loop item"
+msgstr "بعد متجر حلقة البند"
+
+#: lib/admin/class-admin-tab.php:117 lib/admin/class-admin-tab.php:236
+msgid "Show brands in loop hook order"
+msgstr "عرض العلامات التجارية في حلقة ربط النظام"
+
+#: lib/admin/class-admin-tab.php:120 lib/admin/class-admin-tab.php:239
+msgid "Show brand logo (or name) in product loop hook order"
+msgstr "عرض شعار العلامة التجارية (أو اسم) في المنتج حلقة ربط النظام"
+
+#: lib/admin/class-admin-tab.php:136
+msgid "Archives"
+msgstr "المحفوظات"
+
+#: lib/admin/class-admin-tab.php:142
+msgid "Show brand title"
+msgstr "تظهر أسم المولف"
+
+#: lib/admin/class-admin-tab.php:146
+msgid "Show brand title (if is set) on brand archive page"
+msgstr ""
+"تظهر العلامة التجارية العنوان (إذا تم) على العلامة التجارية صفحة الأرشيف"
+
+#: lib/admin/class-admin-tab.php:149 lib/admin/class-admin-tab.php:161
+#: lib/admin/class-admin-tab.php:174 lib/admin/class-admin-tab.php:187
+msgid "Yes, before product loop"
+msgstr "نعم ، قبل المنتج حلقة"
+
+#: lib/admin/class-admin-tab.php:150
+msgid "No, hide title"
+msgstr "لا, إخفاء عنوان"
+
+#: lib/admin/class-admin-tab.php:154
+msgid "Show brand description"
+msgstr "تظهر العلامة التجارية الوصف"
+
+#: lib/admin/class-admin-tab.php:158
+msgid "Show brand description (if is set) on brand archive page"
+msgstr "تظهر العلامة التجارية وصف (إن هو) على العلامة التجارية صفحة الأرشيف"
+
+#: lib/admin/class-admin-tab.php:162 lib/admin/class-admin-tab.php:175
+#: lib/admin/class-admin-tab.php:188
+msgid "Yes, after product loop"
+msgstr "نعم ، بعد المنتج حلقة"
+
+#: lib/admin/class-admin-tab.php:163 lib/admin/class-admin-tab.php:176
+msgid "No, hide description"
+msgstr "لا تخفي الوصف"
+
+#: lib/admin/class-admin-tab.php:167
+msgid "Show long brand description"
+msgstr "تظهر العلامة التجارية طويلة الوصف"
+
+#: lib/admin/class-admin-tab.php:171
+msgid "Show long brand description (if is set) on brand archive page"
+msgstr ""
+"تظهر العلامة التجارية طويلة وصف (إن هو) على العلامة التجارية صفحة الأرشيف"
+
+#: lib/admin/class-admin-tab.php:180
+msgid "Show brand banner"
+msgstr "عرض شعار العلامة التجارية"
+
+#: lib/admin/class-admin-tab.php:184
+msgid "Show brand banner (if is set) on brand archive page"
+msgstr "تظهر العلامة التجارية راية (إن هو) على العلامة التجارية صفحة الأرشيف"
+
+#: lib/admin/class-admin-tab.php:189
+msgid "No, hide banner"
+msgstr "لا تخفي راية"
+
+#: lib/admin/class-admin-tab.php:193
+msgid "Columns"
+msgstr "الأعمدة"
+
+#: lib/admin/class-admin-tab.php:197
+msgid "Number of columns in the brand page"
+msgstr "عدد الأعمدة في الصفحة العلامة التجارية"
+
+#: lib/admin/class-admin-tab.php:261
+msgid "Products tab"
+msgstr "منتجات علامة التبويب"
+
+#: lib/admin/class-admin-tab.php:264
+msgid "Show brand tab in single product page"
+msgstr "تظهر العلامة التجارية علامة التبويب في الصفحة منتج واحد"
+
+#: lib/admin/class-admin-tab.php:268
+msgid "Show brands in single product"
+msgstr "عرض العلامات التجارية في منتج واحد"
+
+#: lib/admin/class-admin-tab.php:271
+msgid "Show brand logo (or name) in single product"
+msgstr "عرض شعار العلامة التجارية (أو اسم) في منتج واحد"
+
+#: lib/admin/class-admin-tab.php:281
+msgid "Brand position"
+msgstr "موقف العلامة التجارية"
+
+#: lib/admin/class-admin-tab.php:284
+msgid "For single product"
+msgstr "منتج واحد"
+
+#: lib/admin/class-admin-tab.php:287
+msgid "Before title"
+msgstr "قبل العنوان"
+
+#: lib/admin/class-admin-tab.php:288
+msgid "After title"
+msgstr "بعد العنوان"
+
+#: lib/admin/class-admin-tab.php:289
+msgid "After price"
+msgstr "بعد السعر"
+
+#: lib/admin/class-admin-tab.php:290
+msgid "After excerpt"
+msgstr "بعد مقتطفات"
+
+#: lib/admin/class-admin-tab.php:291
+msgid "After add to cart"
+msgstr "بعد إضافة إلى العربة"
+
+#: lib/admin/class-admin-tab.php:292
+msgid "In meta"
+msgstr "في الفوقية"
+
+#: lib/admin/class-admin-tab.php:293
+msgid "After meta"
+msgstr "بعد الفوقية"
+
+#: lib/admin/class-admin-tab.php:294
+msgid "After sharing"
+msgstr "بعد تبادل"
+
+#: lib/admin/class-admin-tab.php:298
+msgid "Brands in single product separator"
+msgstr "العلامات التجارية في منتج واحد فاصل"
+
+#: lib/admin/class-admin-tab.php:305
+msgid "Brands label"
+msgstr "العلامات التجارية التسمية"
+
+#: lib/admin/class-admin-tab.php:309
+msgid "Change or disable the brands label in the single products page."
+msgstr "تغيير أو تعطيل العلامات التجارية التسمية في واحد صفحة المنتجات."
+
+#: lib/admin/class-admin-tab.php:310
+msgid "Display label for brand links."
+msgstr "عرض تسمية العلامة التجارية الروابط."
+
+#: lib/admin/class-admin-tab.php:314
+msgid "Brands breadcrumb"
+msgstr "العلامات التجارية التفصيلي"
+
+#: lib/admin/class-admin-tab.php:317
+msgid "Include brand in product breadcrumb"
+msgstr "وتشمل العلامات التجارية في المنتج التفصيلي"
+
+#: lib/admin/class-admin-tab.php:321 lib/admin/class-admin-tab.php:433
+msgid "Yes"
+msgstr "نعم"
+
+#: lib/admin/class-admin-tab.php:322
+msgid "Replace category"
+msgstr "استبدال الفئة"
+
+#: lib/admin/class-admin-tab.php:343 templates/admin/brands-exporter.php:13
+msgid "Import brands"
+msgstr "استيراد الماركات"
+
+#: lib/admin/class-admin-tab.php:347
+msgid ""
+"Import brands from other brand plugin. <a href=\"%s\" target=\"_blank\">"
+"Click here for more details</a>"
+msgstr ""
+
+#: lib/admin/class-admin-tab.php:352 lib/admin/class-admin-tab.php:365
+msgid "-"
+msgstr "-"
+
+#: lib/admin/class-admin-tab.php:353
+msgid "YITH WooCommerce Brands Add-On"
+msgstr "YITH WooCommerce العلامات التجارية إضافة على"
+
+#: lib/admin/class-admin-tab.php:354
+msgid "Ultimate WooCommerce Brands"
+msgstr "في نهاية المطاف WooCommerce العلامات التجارية"
+
+#: lib/admin/class-admin-tab.php:355
+msgid "Offical WooCommerce Brands"
+msgstr "حلمي WooCommerce العلامات التجارية"
+
+#: lib/admin/class-admin-tab.php:359
+msgid "Dummy data"
+msgstr "بيانات وهمية"
+
+#: lib/admin/class-admin-tab.php:362
+msgid "Import generic brands and assign it to products randomly"
+msgstr "استيراد العلامات التجارية عامة وإسناد ذلك إلى المنتجات بشكل عشوائي"
+
+#: lib/admin/class-admin-tab.php:366
+msgid "Start import"
+msgstr "بدء الاستيراد"
+
+#: lib/admin/class-admin-tab.php:370
+msgid "System status"
+msgstr "حالة النظام"
+
+#: lib/admin/class-admin-tab.php:372
+msgid "Show system status"
+msgstr "عرض حالة النظام"
+
+#: lib/admin/class-admin-tab.php:383
+msgid "brands"
+msgstr "العلامات التجارية"
+
+#: lib/admin/class-admin-tab.php:383
+msgid "brand-name"
+msgstr "اسم العلامة التجارية"
+
+#: lib/admin/class-admin-tab.php:395
+msgid "Slug"
+msgstr "سبيكة"
+
+#: lib/admin/class-admin-tab.php:398
+msgid "Brands taxonomy slug"
+msgstr "العلامات التجارية التصنيف سبيكة"
+
+#: lib/admin/class-admin-tab.php:400
+msgid "Your brands URLs will look like \"%s\""
+msgstr "العلامات التجارية الخاصة بك عناوين تبدو مثل \"%s\""
+
+#: lib/admin/class-admin-tab.php:407 lib/class-woocommerce.php:475
+#: lib/class-woocommerce.php:503 lib/class-woocommerce.php:596
+msgid "Brand logo size"
+msgstr "شعار العلامة التجارية حجم"
+
+#: lib/admin/class-admin-tab.php:410
+msgid "Select the size for the brand logo image around the site"
+msgstr "حدد حجم شعار العلامة التجارية صورة حول الموقع"
+
+#: lib/admin/class-admin-tab.php:411
+msgid ""
+"The default image sizes can be configured under \"Settings > Media\". You "
+"can also define your own image sizes"
+msgstr ""
+
+#: lib/admin/class-admin-tab.php:416
+msgid "Brands page"
+msgstr "الماركات الصفحة"
+
+#: lib/admin/class-admin-tab.php:419
+msgid "For linking breadcrumbs"
+msgstr "ربط فتات الخبز"
+
+#: lib/admin/class-admin-tab.php:420
+msgid ""
+"Select your \"Brands\" page (if you have one), it will be linked in the "
+"breadcrumbs."
+msgstr ""
+"حدد \"العلامات التجارية\" الصفحة (إذا كان لديك واحدة) ، وسوف يتم ربطها في "
+"فتات الخبز."
+
+#: lib/admin/class-admin-tab.php:425
+msgid "Brands search"
+msgstr "الماركات البحث"
+
+#: lib/admin/class-admin-tab.php:428
+msgid "Better search experience"
+msgstr "أفضل تجربة البحث"
+
+#: lib/admin/class-admin-tab.php:429
+msgid "Redirect if the search matchs with a brands name."
+msgstr "إعادة توجيه إذا كان البحث المباريات مع اسم العلامات التجارية."
+
+#: lib/admin/class-admin-tab.php:493
+msgid "Edit brands"
+msgstr "تحرير العلامات التجارية"
+
+#: lib/admin/class-brands-custom-fields.php:21
+msgid "Description"
+msgstr "الوصف"
+
+#: lib/admin/class-brands-custom-fields.php:23
+#: lib/admin/class-brands-custom-fields.php:74
+msgid ""
+"Brand description for the archive pages. You can include some html markup "
+"and shortcodes."
+msgstr ""
+"وصف العلامة التجارية على صفحات الأرشيف. يمكنك تضمين بعض علامات html و "
+"الهاتفية القصيرة."
+
+#: lib/admin/class-brands-custom-fields.php:27
+msgid "Second description"
+msgstr "الثاني الوصف"
+
+#: lib/admin/class-brands-custom-fields.php:29
+#: lib/admin/class-brands-custom-fields.php:83
+msgid ""
+"Second brand description for the archive pages. You can include some html "
+"markup and shortcodes."
+msgstr ""
+"العلامة التجارية الثانية وصف صفحات الأرشيف. يمكنك تضمين بعض علامات html و "
+"الهاتفية القصيرة."
+
+#: lib/admin/class-brands-custom-fields.php:33
+#: lib/admin/class-brands-custom-fields.php:88
+#: lib/widgets/class-brands-list.php:54
+msgid "Brand logo"
+msgstr "شعار العلامة التجارية"
+
+#: lib/admin/class-brands-custom-fields.php:35
+#: lib/admin/class-brands-custom-fields.php:41
+#: lib/admin/class-brands-custom-fields.php:92
+#: lib/admin/class-brands-custom-fields.php:112
+msgid "Select image"
+msgstr "حدد الصورة"
+
+#: lib/admin/class-brands-custom-fields.php:39
+#: lib/admin/class-brands-custom-fields.php:108
+msgid "Brand banner"
+msgstr "شعار العلامة التجارية"
+
+#: lib/admin/class-brands-custom-fields.php:42
+msgid "This image will be shown on brand page"
+msgstr "هذه الصورة سيتم عرضها على صفحة العلامة التجارية"
+
+#: lib/admin/class-brands-custom-fields.php:46
+#: lib/admin/class-brands-custom-fields.php:128
+msgid "Brand banner link"
+msgstr "العلامة التجارية راية الرابط"
+
+#: lib/admin/class-brands-custom-fields.php:48
+#: lib/admin/class-brands-custom-fields.php:132
+msgid ""
+"This link should be relative to site url. Example: \"/product/product-name\""
+msgstr ""
+"هذا الرابط يجب أن يكون نسبة إلى الموقع url. على سبيل المثال: "
+"\"/المنتج/product اسم\""
+
+#: lib/admin/class-coupon.php:29
+msgid "Product brands"
+msgstr "العلامات التجارية المنتج"
+
+#: lib/admin/class-coupon.php:30 lib/admin/class-coupon.php:44
+msgid "Any brand"
+msgstr "أي العلامة التجارية"
+
+#: lib/admin/class-coupon.php:40
+msgid ""
+"Product brands that the coupon will be applied to, or that need to be in the "
+"cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+"المنتج العلامات التجارية التي القسيمة سيتم تطبيقها ، أو التي تحتاج إلى أن "
+"تكون في العربة من أجل \"إصلاح سلة الخصم\" ليتم تطبيقها."
+
+#: lib/admin/class-coupon.php:43
+msgid "Exclude brands"
+msgstr "استبعاد العلامات التجارية"
+
+#: lib/admin/class-coupon.php:54
+msgid ""
+"Product brands that the coupon will not be applied to, or that cannot be in "
+"the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+"المنتج العلامات التجارية التي القسيمة لن يتم تطبيقها ، أو التي لا يمكن أن "
+"تكون في العربة من أجل \"إصلاح سلة الخصم\" ليتم تطبيقها."
+
+#: lib/admin/class-edit-brands-page.php:48
+msgid "featured"
+msgstr "المميز"
+
+#: lib/admin/class-edit-brands-page.php:87
+msgid "Logo"
+msgstr "شعار"
+
+#: lib/admin/class-edit-brands-page.php:88
+msgid "Featured"
+msgstr "المميز"
+
+#: lib/admin/class-edit-brands-page.php:104
+msgid "Set as featured"
+msgstr "مجموعة مميزة"
+
+#: lib/admin/class-edit-brands-page.php:138
+msgid "Error!"
+msgstr "الخطأ!"
+
+#: lib/admin/class-edit-brands-page.php:160
+msgid "Show featured brands first"
+msgstr "تظهر العلامات التجارية المميزة الأولى"
+
+#: lib/admin/class-exporter-support.php:22
+#: lib/admin/class-importer-support.php:22
+#: lib/admin/class-importer-support.php:33 lib/class-product.php:23
+#: lib/class-product.php:46 lib/class-woocommerce.php:379
+#: lib/class-woocommerce.php:622 lib/class-woocommerce.php:762
+msgid "Brand"
+msgid_plural "Brands"
+msgstr[0] "المؤلف"
+msgstr[1] "المؤلف"
+msgstr[2] "المؤلفان"
+msgstr[3] "المؤلفين"
+msgstr[4] "المؤلين"
+msgstr[5] "المؤلفين "
+
+#: lib/class-rest-api.php:46
+msgid "Brand name."
+msgstr "اسم العلامة التجارية."
+
+#: lib/class-rest-api.php:63
+msgid "Unique identifier for the resource."
+msgstr "المعرف الفريد الموارد."
+
+#: lib/class-rest-api.php:89
+msgid "Whether to bypass trash and force deletion."
+msgstr "سواء لتجاوز القمامة القوة الحذف."
+
+#: lib/class-rest-api.php:216
+msgid "Product brands."
+msgstr "العلامات التجارية المنتج."
+
+#: lib/class-term.php:28
+msgid "Only WP_Term objects are allowed"
+msgstr "فقط WP_Term الكائنات مسموح"
+
+#: lib/class-woocommerce.php:370
+msgid "PWB Product carousel"
+msgstr "PWB دائري المنتج"
+
+#: lib/class-woocommerce.php:371
+msgid "Product carousel by brand or by category"
+msgstr "دائري المنتج من قبل العلامة التجارية أو حسب الفئة"
+
+#: lib/class-woocommerce.php:390
+msgid "Number of products to load"
+msgstr "عدد من المنتجات لتحميل"
+
+#: lib/class-woocommerce.php:395
+msgid "Products to show"
+msgstr "منتجات تظهر"
+
+#: lib/class-woocommerce.php:398
+msgid "Number of products to show"
+msgstr "عدد من المنتجات لإظهار"
+
+#: lib/class-woocommerce.php:403
+msgid "Products to scroll"
+msgstr "منتجات انتقل"
+
+#: lib/class-woocommerce.php:406
+msgid "Number of products to scroll"
+msgstr "عدد من المنتجات انتقل"
+
+#: lib/class-woocommerce.php:411 lib/class-woocommerce.php:462
+msgid "Autoplay"
+msgstr "التشغيل التلقائي"
+
+#: lib/class-woocommerce.php:413 lib/class-woocommerce.php:464
+msgid "Autoplay carousel"
+msgstr "التشغيل التلقائي دائري"
+
+#: lib/class-woocommerce.php:418 lib/class-woocommerce.php:469
+msgid "Arrows"
+msgstr "السهام"
+
+#: lib/class-woocommerce.php:420 lib/class-woocommerce.php:471
+msgid "Display prev and next arrows"
+msgstr "العرض السابق و التالي السهام"
+
+#: lib/class-woocommerce.php:428
+msgid "PWB Brands carousel"
+msgstr "PWB العلامات التجارية دائري"
+
+#: lib/class-woocommerce.php:429
+msgid "Brands carousel"
+msgstr "العلامات التجارية دائري"
+
+#: lib/class-woocommerce.php:438
+msgid "Items"
+msgstr "البنود"
+
+#: lib/class-woocommerce.php:441
+msgid "Number of items to load (or 'featured')"
+msgstr "عدد من البنود الحمل (أو 'مميزة')"
+
+#: lib/class-woocommerce.php:446
+msgid "Items to show"
+msgstr "عناصر لإظهارها"
+
+#: lib/class-woocommerce.php:449
+msgid "Number of items to show"
+msgstr "عدد من البنود التي تظهر"
+
+#: lib/class-woocommerce.php:454
+msgid "Items to scroll"
+msgstr "البنود انتقل"
+
+#: lib/class-woocommerce.php:457
+msgid "Number of items to scroll"
+msgstr "عدد من البنود التي انتقل"
+
+#: lib/class-woocommerce.php:486
+msgid "PWB All brands"
+msgstr "PWB جميع الماركات"
+
+#: lib/class-woocommerce.php:487
+msgid "Show all brands"
+msgstr "عرض جميع العلامات التجارية"
+
+#: lib/class-woocommerce.php:496
+msgid "Brands per page"
+msgstr "العلامات التجارية في كل صفحة"
+
+#: lib/class-woocommerce.php:499
+msgid "Show x brands per page"
+msgstr "عرض x العلامات التجارية في كل صفحة"
+
+#: lib/class-woocommerce.php:510
+msgid "Order by"
+msgstr "النظام"
+
+#: lib/class-woocommerce.php:524
+msgid "Order"
+msgstr "النظام"
+
+#: lib/class-woocommerce.php:534
+msgid "Title position"
+msgstr "العنوان الموقف"
+
+#: lib/class-woocommerce.php:538
+msgid "Before image"
+msgstr "قبل الصورة"
+
+#: lib/class-woocommerce.php:539
+msgid "After image"
+msgstr "بعد الصورة"
+
+#: lib/class-woocommerce.php:540
+msgid "Hide"
+msgstr "إخفاء"
+
+#: lib/class-woocommerce.php:546 lib/widgets/class-brands-dropdown.php:49
+#: lib/widgets/class-brands-list.php:78
+msgid "Hide empty"
+msgstr "إخفاء فارغة"
+
+#: lib/class-woocommerce.php:548
+msgid "Hide brands that have not been assigned to any product"
+msgstr "إخفاء العلامات التجارية التي لم يتم تعيينها إلى أي منتج"
+
+#: lib/class-woocommerce.php:556
+msgid "PWB AZ Listing"
+msgstr "PWB قائمة من الالف إلى الياء"
+
+#: lib/class-woocommerce.php:557
+msgid "AZ Listing for brands"
+msgstr "أريزونا قائمة العلامات التجارية"
+
+#: lib/class-woocommerce.php:565
+msgid "Only parent brands"
+msgstr "فقط الأم العلامات التجارية"
+
+#: lib/class-woocommerce.php:579
+msgid "PWB brand"
+msgstr "PWB العلامة التجارية"
+
+#: lib/class-woocommerce.php:580
+msgid "Show brand for a specific product"
+msgstr "تظهر العلامة التجارية لمنتج معين"
+
+#: lib/class-woocommerce.php:589
+msgid "Product id"
+msgstr "معرف المنتج"
+
+#: lib/class-woocommerce.php:592
+msgid "Product id (post id)"
+msgstr "المنتج id (معرف الوظيفة)"
+
+#: lib/class-woocommerce.php:649 templates/shortcodes/brand.php:18
+msgid "View brand"
+msgstr "عرض العلامة التجارية"
+
+#: lib/class-woocommerce.php:740
+msgid "¿Start migration?"
+msgstr "¿بدء الهجرة ؟"
+
+#: lib/class-woocommerce.php:741
+msgid ""
+"We are migrating the product brands. ¡Don´t close this window until the "
+"process is finished!"
+msgstr ""
+"نحن ترحيل العلامات التجارية المنتج. ¡لا تغلق هذه النافذة حتى يتم الانتهاء من "
+"عملية!"
+
+#: lib/class-woocommerce.php:742
+msgid "¿Start loading dummy data?"
+msgstr "هل يبدأ تحميل بيانات وهمية?"
+
+#: lib/class-woocommerce.php:743
+msgid ""
+"We are importing the dummy data. ¡Don´t close this window until the process "
+"is finished!"
+msgstr ""
+"نحن استيراد بيانات وهمية. ¡لا تغلق هذه النافذة حتى يتم الانتهاء من عملية!"
+
+#: lib/class-woocommerce.php:764
+msgid "All Brands"
+msgstr "جميع العلامات التجارية"
+
+#: lib/class-woocommerce.php:765
+msgid "Edit Brand"
+msgstr "تحرير العلامة التجارية"
+
+#: lib/class-woocommerce.php:766
+msgid "View Brand"
+msgstr "عرض العلامة التجارية"
+
+#: lib/class-woocommerce.php:767
+msgid "Update Brand"
+msgstr "تحديث العلامة التجارية"
+
+#: lib/class-woocommerce.php:768
+msgid "Add New Brand"
+msgstr "إضافة مؤلف جديد"
+
+#: lib/class-woocommerce.php:769
+msgid "New Brand Name"
+msgstr "اسم العلامة التجارية الجديدة"
+
+#: lib/class-woocommerce.php:770
+msgid "Parent Brand"
+msgstr "العلامة التجارية الأم"
+
+#: lib/class-woocommerce.php:771
+msgid "Parent Brand:"
+msgstr "العلامة التجارية الأم:"
+
+#: lib/class-woocommerce.php:772
+msgid "Search Brands"
+msgstr "البحث العلامات التجارية"
+
+#: lib/class-woocommerce.php:773
+msgid "Popular Brands"
+msgstr "العلامات التجارية شعبية"
+
+#: lib/class-woocommerce.php:774
+msgid "Separate brands with commas"
+msgstr "العلامات التجارية منفصلة بفواصل"
+
+#: lib/class-woocommerce.php:775
+msgid "Add or remove brands"
+msgstr "إضافة أو إزالة العلامات التجارية"
+
+#: lib/class-woocommerce.php:776
+msgid "Choose from the most used brands"
+msgstr "الاختيار من بين أكثر العلامات التجارية المستخدمة"
+
+#: lib/class-woocommerce.php:777
+msgid "No brands found"
+msgstr "لا العلامات التجارية"
+
+#: lib/class-woocommerce.php:866
+msgid "All"
+msgstr "كل"
+
+#: lib/shortcodes/class-all-brands.php:174
+msgid "First page"
+msgstr "الصفحة الأولى"
+
+#: lib/shortcodes/class-all-brands.php:177
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: lib/shortcodes/class-all-brands.php:181
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+#: lib/shortcodes/class-all-brands.php:184
+msgid "Last page"
+msgstr "الصفحة الأخيرة"
+
+#: lib/shortcodes/class-all-brands.php:188
+msgid "No results"
+msgstr "لا توجد نتائج"
+
+#: lib/widgets/class-brands-dropdown.php:11
+msgid "Adds a brands dropdown to your site"
+msgstr "يضيف العلامات التجارية القائمة المنسدلة إلى موقع الويب الخاص بك"
+
+#: lib/widgets/class-brands-dropdown.php:12
+msgid "Brands dropdown"
+msgstr "العلامات التجارية القائمة المنسدلة"
+
+#: lib/widgets/class-brands-dropdown.php:27
+msgid "Title"
+msgstr "العنوان"
+
+#: lib/widgets/class-brands-dropdown.php:60
+#: lib/widgets/class-brands-list.php:88
+msgid "Only favorite brands"
+msgstr "فقط العلامات التجارية المفضلة لديك"
+
+#: lib/widgets/class-brands-list.php:11
+msgid "Adds a brands list to your site"
+msgstr "يضيف قائمة العلامات التجارية لموقع الويب الخاص بك"
+
+#: lib/widgets/class-brands-list.php:12
+msgid "Brands list"
+msgstr "قائمة العلامات التجارية"
+
+#: lib/widgets/class-brands-list.php:33
+#: lib/widgets/class-filter-by-brand.php:29
+msgid "Title:"
+msgstr "العنوان:"
+
+#: lib/widgets/class-brands-list.php:48
+msgid "Display as:"
+msgstr "عرض:"
+
+#: lib/widgets/class-brands-list.php:53
+msgid "Brand name"
+msgstr "اسم العلامة التجارية"
+
+#: lib/widgets/class-brands-list.php:58
+msgid "Columns:"
+msgstr "الأعمدة:"
+
+#: lib/widgets/class-brands-list.php:98
+msgid "Randomize"
+msgstr "بطريقة عشوائية"
+
+#: lib/widgets/class-brands-list.php:145
+msgid "Go to"
+msgstr "انتقل إلى"
+
+#: lib/widgets/class-filter-by-brand.php:13
+msgid "Recommended for product categories or shop page"
+msgstr "ينصح فئات المنتجات أو متجر الصفحة"
+
+#: lib/widgets/class-filter-by-brand.php:14
+msgid "Filter products by brand"
+msgstr "منتجات تصفية حسب العلامة التجارية"
+
+#: lib/widgets/class-filter-by-brand.php:35
+msgid "Max number of brands"
+msgstr "أقصى عدد من العلامات التجارية"
+
+#: lib/widgets/class-filter-by-brand.php:43
+msgid "Hide filter button"
+msgstr "إخفاء زر الفلتر"
+
+#: lib/widgets/class-filter-by-brand.php:50
+msgid "Show only first level brands"
+msgstr "تظهر فقط المستوى الأول الماركات"
+
+#: templates/admin/brands-exporter.php:12
+msgid "Export brands"
+msgstr "تصدير ماركات"
+
+#: templates/admin/brands-exporter.php:15
+msgid ""
+"This tool allows you to export and import the brands between different sites "
+"using PWB."
+msgstr ""
+"هذه الأداة يسمح لك تصدير و استيراد الماركات بين مواقع مختلفة باستخدام PWB."
+
+#: templates/shortcodes/carousel.php:20
+#: templates/shortcodes/product-carousel.php:23
+msgid "Loading"
+msgstr "تحميل"
+
+#: templates/widgets/filter-by-brand.php:29
+msgid "Apply filter"
+msgstr "تطبيق عامل تصفية"
+
+#: templates/widgets/filter-by-brand.php:32
+msgid "Remove filter"
+msgstr "إزالة مرشح"
+
+#: vendor_packages/wp-notice-plugin-promote.php:24
+msgid ""
+"This plugin allows you to add custom fields to the checkout page, related to "
+"billing, shipping or additional fields sections."
+msgstr ""
+"هذا البرنامج المساعد يسمح لك بإضافة الحقول المخصصة إلى صفحة الخروج ، تتعلق "
+"الفواتير والشحن أو حقول إضافية أقسام."
+
+#: vendor_packages/wp-notice-plugin-promote.php:32
+msgid ""
+"It allows you to reduce the steps in the checkout process by skipping the "
+"shopping cart page. This can encourage buyers to shop more and quickly. You "
+"will increase your sales reducing cart abandonment."
+msgstr ""
+"فإنه يسمح لك للحد من الخطوات في عملية الخروج من تخطي صفحة عربة التسوق. هذا "
+"يمكن أن يشجع المشترين على المحل أكثر وبسرعة. سوف زيادة المبيعات الخاص بك "
+"الحد من للتخلي عن عربة."
+
+#: vendor_packages/wp-notice-plugin-promote.php:44
+msgid ""
+"Hello! %2$s We've spent countless hours developing this free plugin for you "
+"and would really appreciate it if you could drop us a quick rating. Your "
+"feedback is extremely valuable to us. %3$s It helps us to get better. Thanks "
+"for using %1$s."
+msgstr ""
+"مرحبا! %2$s لقد أمضى ساعات لا تحصى في تطوير هذا البرنامج المساعد الحرة "
+"بالنسبة لك و نقدر حقا إذا كنت قد ترك لنا تصنيف سريع. ردود الفعل الخاص بك هو "
+"قيمة للغاية بالنسبة لنا. %3$s لأنها تساعدنا على الحصول على أفضل. شكرا "
+"لاستخدام %1$s."
+
+#: vendor_packages/wp-notice-plugin-promote.php:51
+msgid "Report a bug"
+msgstr "تقرير الشوائب"
+
+#: vendor_packages/wp-notice-plugin-promote.php:59
+msgid "Purchase Now"
+msgstr "شراء الآن"
+
+#: vendor_packages/wp-notice-plugin-promote.php:65
+msgid "Hello! We have a special gift!"
+msgstr "مرحبا! لدينا هدية خاصة!"
+
+#: vendor_packages/wp-notice-plugin-promote.php:70
+msgid ""
+"Today we have a special gift for you. Use the coupon code %1$s within the "
+"next 48 hours to receive a %2$s discount on the premium version of the %3$s "
+"plugin."
+msgstr ""
+"اليوم لدينا هدية خاصة لك. استخدام رمز القسيمة %1$s في غضون 48 ساعة لتلقي "
+"%2$s خصم على قسط الإصدار %3$s المساعد."
+
+#: vendor_packages/wp-notice-plugin-promote.php:85
+#: vendor_packages/wp-notice-plugin-promote.php:99
+msgid "Hello! We want to invite you to try our %s plugin!"
+msgstr "مرحبا! نحن نريد أن أدعوكم لدينا لمحاولة %s المساعد!"
+
+#: vendor_packages/wp-plugin-table-links.php:8
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: vendor_packages/wp-plugin-table-links.php:18
+msgid "Support"
+msgstr "الدعم"

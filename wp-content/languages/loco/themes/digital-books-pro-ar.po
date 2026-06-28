@@ -1,0 +1,1398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Digital Books Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-01 08:33+0000\n"
+"PO-Revision-Date: 2025-04-01 08:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2\n"
+"X-Domain: digital-books-pro"
+
+#: inc/customizer-part-slide.php:56
+msgid " (1600x562)"
+msgstr ""
+
+#: template-parts/post/post-content.php:23
+msgid "% comments"
+msgstr "% التعليقات"
+
+#: content.php:14
+msgid ", "
+msgstr ""
+
+#: single.php:52
+msgid "0 % Comments"
+msgstr "0 % التعليقات"
+
+#: single.php:52
+msgid "0 Comments"
+msgstr "0 التعليقات"
+
+#: 404.php:16
+msgid "404 Not Found"
+msgstr "404 لم يتم العثور على"
+
+#: image.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Abril Fatface"
+msgstr "April Fatface"
+
+#: inc/customizer.php:107
+msgid "Acme"
+msgstr "Acme"
+
+#: inc/customizer-part-header.php:370
+msgid "Active Menu Item Background Color"
+msgstr "نشط عنصر القائمة لون الخلفية"
+
+#: inc/customizer-part-header.php:360
+msgid "Active Menu Item Color"
+msgstr "نشط عنصر القائمة اللون"
+
+#: inc/customize-repeater/customize-repeater.php:34
+msgid "Add"
+msgstr "إضافة"
+
+#: inc/customizer-part-footer.php:305
+msgid "Add Contact Form Shortcode Here"
+msgstr "إضافة نموذج الاتصال رمز قصير هنا"
+
+#: inc/customizer-part-footer.php:150
+msgid "Add contact page settings here)."
+msgstr "إضافة إعدادات صفحة الاتصال هنا)."
+
+#: inc/customizer-part-social-icons.php:34
+msgid "Add facebook link"
+msgstr "إضافة facebook الرابط"
+
+#: inc/customizer-part-social-icons.php:88
+msgid "Add Flicker link"
+msgstr "إضافة وميض الرابط"
+
+#: inc/customizer-part-header.php:39
+msgid "Add Font Awesome Class Here"
+msgstr "إضافة الخط رهيبة الدرجة هنا"
+
+#: inc/customizer-part-social-icons.php:55
+msgid "Add Instagram link"
+msgstr "إضافة Instagram الرابط"
+
+#: inc/customizer-part-social-icons.php:66
+msgid "Add Linkedin link"
+msgstr "إضافة Linkedin الرابط"
+
+#: inc/customizer-part-social-icons.php:24
+msgid "Add pinterest link"
+msgstr "إضافة بينتيريست الرابط"
+
+#: inc/customizer-custom-variables.php:22
+msgid "Add Row"
+msgstr "إضافة صف"
+
+#: inc/customizer-part-slide.php:4
+msgid "Add slider images here."
+msgstr "إضافة الصور المنزلق هنا."
+
+#: inc/customizer-part-social-icons.php:5
+msgid "Add social Icons Here"
+msgstr "إضافة الرموز الاجتماعية هنا"
+
+#: inc/customizer-part-footer.php:66
+msgid "Add some text for footer like copyright etc."
+msgstr "إضافة بعض النص تذييل مثل حقوق الطبع والنشر وما إلى ذلك."
+
+#: inc/customizer-part-social-icons.php:77
+msgid "Add Tumblric link"
+msgstr "إضافة Tumblric الرابط"
+
+#: inc/customizer-part-social-icons.php:13
+msgid "Add twitter link"
+msgstr "إضافة رابط تويتر"
+
+#: inc/customizer-part-social-icons.php:99
+msgid "Add Vk link"
+msgstr "إضافة Vk الرابط"
+
+#: inc/customizer-part-social-icons.php:44
+msgid "Add Youtube link"
+msgstr "إضافة رابط يوتيوب"
+
+#: inc/customizer-part-footer.php:240
+msgid "Address"
+msgstr "عنوان"
+
+#: inc/customizer-part-footer.php:250
+msgid "Address "
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: inc/customizer.php:114
+msgid "Alfa Slab One"
+msgstr "ألفا لوح واحد"
+
+#: inc/customizer.php:108
+msgid "Anton"
+msgstr "انطون"
+
+#: functions.php:117
+msgid "Appears on blog page sidebar"
+msgstr "يظهر على صفحة بلوق الشريط الجانبي"
+
+#: functions.php:135 functions.php:144 functions.php:153 functions.php:162
+#: functions.php:171 functions.php:180
+msgid "Appears on footer"
+msgstr "يظهر على تذييل الصفحة"
+
+#: functions.php:126
+msgid "Appears on page sidebar"
+msgstr "يظهر على صفحة الشريط الجانبي"
+
+#: inc/customizer.php:109
+msgid "Architects Daughter"
+msgstr "المهندسين المعماريين ابنة"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "المحفوظات"
+
+#: inc/customizer.php:110
+msgid "Arimo"
+msgstr "Arimo"
+
+#: inc/customizer.php:111
+msgid "Arsenal"
+msgstr "ارسنال"
+
+#: inc/customizer.php:112
+msgid "Arvo"
+msgstr "Arvo"
+
+#: inc/customizer.php:115
+msgid "Averia Serif Libre"
+msgstr "Averia الرقيق Libre"
+
+#: no-results.php:22 404.php:20
+msgid "Back to Home Page"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+#: inc/customizer-part-footer.php:43 inc/customizer-part-footer.php:102
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/customizer-part-footer.php:56 inc/customizer-part-footer.php:116
+msgid "Background image"
+msgstr "صورة الخلفية"
+
+#: inc/customizer.php:118
+msgid "Bad Script"
+msgstr "سيئة السيناريو"
+
+#: inc/customizer.php:116
+msgid "Bangers"
+msgstr "السجق"
+
+#: inc/customizer-part-header.php:185
+msgid "Bar Icon"
+msgstr "رمز شريط"
+
+#: inc/customizer-part-header.php:195
+msgid "Bar Icon Url"
+msgstr "رمز شريط Url"
+
+#: inc/getstarted/getstart.php:40
+msgid ""
+"Before demo importer first install given plugins, Contact Form 7 and "
+"Woocommerce plugin then click on demo importer button to import all the demo "
+"contents."
+msgstr ""
+"قبل المستورد تجريبي أولا تثبيت نظرا الإضافات, نموذج الاتصال 7 المساعد "
+"Woocommerce ثم انقر على المستورد تجريبي زر لاستيراد جميع محتويات التجريبي."
+
+#: inc/customizer.php:121
+msgid "BenchNine"
+msgstr "BenchNine"
+
+#: inc/customizer.php:119
+msgid "Bitter"
+msgstr "المر"
+
+#. Name of the template
+#: page-template/blog-fullwidth-extend.php:2
+msgid "Blog Full Width Extend"
+msgstr "بلوق العرض الكامل تمديد"
+
+#: functions.php:116
+msgid "Blog Sidebar"
+msgstr "بلوق الشريط الجانبي"
+
+#. Name of the template
+#: page-template/blog-with-left-sidebar.php:2
+msgid "Blog with Left Sidebar"
+msgstr "بلوق مع الشريط الجانبي الأيسر"
+
+#. Name of the template
+#: page-template/blog-with-right-sidebar.php:2
+msgid "Blog with Right Sidebar"
+msgstr "بلوق مع الشريط الجانبي الأيمن"
+
+#: inc/customizer.php:117
+msgid "Boogaloo"
+msgstr "Boogaloo"
+
+#. Description of the theme
+msgid ""
+"Bookstore WordPress Theme is specially designed for book store, education, "
+"author, selling ebooks, PDFs online, journalists, editors, publishers, "
+"course providers, literature, copywriter, journal, publisher, story, caters "
+"education, selling ebooks, coffee book store, journalists, e-magazines, "
+"online and onsite book stores, poets, bloggers, online store, or a book "
+"portfolio site PDFs online, course providers, online courses and journalism "
+"websites. Also, it is suitable for teachers, institutes, training academy, "
+"coaching centre, LMS, guidance, counselling centre, e-learning, "
+"kindergartens, playschools, day care centres, and primary schools websites. "
+"The theme is mobile-friendly with a responsive design. Also, it is SEO-"
+"friendly. Make your website more colourful and attractive using advanced "
+"color options, Color pallets, font awesome icons, 100+ font family options "
+"and adding custom CSS/JS if you know to code. For customizing the pages you "
+"have full-width template, custom page"
+msgstr ""
+"مكتبة موضوع وورد مصممة خصيصا مخزن الكتب, تعليم, الكاتب, بيع الكتب "
+"الإلكترونية وملفات Pdf على الانترنت الصحفيين والمحررين والناشرين مقدمي "
+"بالطبع, الأدب, مؤلف, مجلة, الناشر, قصة, يلبي التعليم بيع الكتب, قهوة متجر "
+"الكتب, الصحفيين, المجلات الإلكترونية عبر الإنترنت وفي الموقع مخازن الكتاب "
+"والشعراء والمدونين, متجر على الانترنت, أو كتاب الموقع محفظة ملفات Pdf على "
+"الانترنت الحال مقدمي الدورات على الانترنت والصحافة المواقع. كما انها مناسبة "
+"للمعلمين ومعاهد أكاديمية تدريب مركز التدريب, LMS, التوجيه والمشورة مركز "
+"التعلم الإلكتروني ، ورياض الأطفال ، playschools, مراكز الرعاية النهارية "
+"والمدارس الابتدائية المواقع. الموضوع هو المحمول ودية مع تصميم استجابة. أيضا, "
+"فمن ودية كبار المسئولين الاقتصاديين. جعل موقع الويب الخاص بك أكثر سخونة "
+"وجاذبية باستخدام متقدمة خيارات الألوان اللون المنصات, الخط رهيبة الرموز ، "
+"100+ الخط الأسرة خيارات إضافة CSS مخصص/JS إذا كنت تعرف رمز. عن تخصيص صفحات "
+"لديك العرض الكامل قالب صفحة مخصص"
+
+#: inc/customizer.php:120
+msgid "Bree Serif"
+msgstr "بري الرقيق"
+
+#: inc/customizer.php:17
+msgid "Buy Now"
+msgstr "شراء الآن"
+
+#: inc/customizer.php:122
+msgid "Cabin"
+msgstr "المقصورة"
+
+#: inc/customizer.php:123
+msgid "Cardo"
+msgstr "كاردو"
+
+#: single.php:88
+msgid "Categories: "
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Cherry Swash"
+msgstr "الكرز اختال"
+
+#: inc/customizer.php:130
+msgid "Chewy"
+msgstr "مطاطية"
+
+#: inc/getstarted/demo-importer.php:608
+msgid "Click on the below content to get demo content installed."
+msgstr "انقر على أقل من المحتوى للحصول على المحتوى التجريبي تثبيت."
+
+#: comments.php:41 comments.php:60
+msgid "Comment navigation"
+msgstr "تعليق الملاحة"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#. 1: number of comments, 2: post title
+#: comments.php:26
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s يعتقد على \"%2$s\""
+msgstr[1] "%1$s الأفكار حول \"%2$s\""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "يعتقد واحد على \"%s\""
+
+#. Name of the template
+#: page-template/contact.php:2 inc/customizer-part-footer.php:149
+msgid "Contact"
+msgstr "الاتصال"
+
+#: inc/customizer-part-footer.php:409
+msgid "Contact Content Color"
+msgstr "الاتصال المحتوى اللون"
+
+#: inc/customizer-part-footer.php:422
+msgid "Contact Content Font Family"
+msgstr "الاتصال المحتوى عائلة الخط"
+
+#: inc/customizer-part-footer.php:433
+msgid "Contact Content Icon Color"
+msgstr "الاتصال المحتوى رمز اللون"
+
+#: inc/tgm.php:10
+msgid "Contact Form 7"
+msgstr "نموذج الاتصال 7"
+
+#: inc/customizer-part-footer.php:385
+msgid "Contact Heading Color"
+msgstr "عنوان الاتصال اللون"
+
+#: inc/customizer-part-footer.php:398
+msgid "Contact Heading Font Family"
+msgstr "عنوان الاتصال عائلة الخط"
+
+#: inc/customizer-part-footer.php:304
+msgid "Contact Shortcode"
+msgstr "الاتصال رمز قصير"
+
+#: inc/customizer-part-footer.php:128
+msgid "Content Color"
+msgstr "محتوى اللون"
+
+#: inc/customizer-part-footer.php:141
+msgid "Content Font Family"
+msgstr "المحتوى عائلة الخط"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. %s: Name of current post
+#: functions.php:414
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Cookie"
+msgstr "كوكي"
+
+#: inc/customizer-part-footer.php:76
+msgid "Copyright Text"
+msgstr "حقوق الطبع والنشر النص"
+
+#: inc/customizer.php:126
+msgid "Cormorant Garamond"
+msgstr "الغاق Garamond"
+
+#: inc/customizer.php:124
+msgid "Courgette"
+msgstr "الكوسا"
+
+#: inc/customizer.php:127
+msgid "Crimson Text"
+msgstr "قرمزي النص"
+
+#: inc/customizer.php:128
+msgid "Cuprum"
+msgstr "كبروم"
+
+#: inc/customizer.php:131
+msgid "Days One"
+msgstr "يوم واحد"
+
+#: inc/customizer.php:102
+msgid "Description of what this panel does."
+msgstr "وصف ما هذا الفريق."
+
+#. Name of the theme
+msgid "Digital Books Pro"
+msgstr "الكتب الرقمية برو"
+
+#: inc/getstarted/getstart.php:14
+msgid ""
+"Digital Books Pro now supports colors, typography custom links for custom "
+"post types. Take benefit of a variety of features, functionalities, elements,"
+" and an exclusive set of customization options to build your own "
+"professional website"
+msgstr ""
+"الكتب الرقمية برو الآن يدعم الألوان الطباعة وصلات مخصصة لأنواع آخر مخصص. "
+"الاستفادة من مجموعة متنوعة من الميزات, وظائف, عناصر, حصري مجموعة من خيارات "
+"التخصيص لبناء الخاصة بك على شبكة الانترنت المهنية"
+
+#: inc/customizer-part-footer.php:117
+msgid "Dimention 1600 * 500"
+msgstr "القاس 1600 * 500"
+
+#: inc/customizer-part-footer.php:57
+msgid "Dimention 1600 * 600"
+msgstr "القاس 1600 * 600"
+
+#: no-results.php:19
+msgid "Don't worry &hellip; it happens to the best of us."
+msgstr "لا تقلق ... يحدث أن أفضل منا."
+
+#: inc/customizer.php:132
+msgid "Dosis"
+msgstr "Dosis"
+
+#: inc/customizer.php:133
+msgid "Economica"
+msgstr "الوضع الاقتصادي"
+
+#: image.php:28 image.php:55
+msgid "Edit"
+msgstr "تحرير"
+
+#: inc/customizer-part-footer.php:5
+msgid "Edit footer Widgets sections"
+msgstr "تحرير تذييل الحاجيات أقسام"
+
+#: inc/customizer-part-footer.php:44 inc/customizer-part-footer.php:103
+msgid ""
+"Either add background color or background image, if you add both background "
+"color will be top most priority"
+msgstr ""
+"إما إضافة لون الخلفية أو صورة الخلفية ، إذا قمت بإضافة كل لون الخلفية ستكون "
+"كبار معظم الأولوية"
+
+#: inc/customizer-part-footer.php:196
+msgid "Email Title"
+msgstr "عنوان البريد الإلكتروني"
+
+#: inc/customizer-part-footer.php:206
+msgid "First Email"
+msgstr "البريد الإلكتروني الأول"
+
+#: inc/customizer-part-footer.php:283
+msgid "First Phone"
+msgstr "أول هاتف"
+
+#: inc/template-tags.php:88
+msgid "Fitness logo"
+msgstr "اللياقة البدنية شعار"
+
+#: inc/customizer.php:135
+msgid "Fjalla One"
+msgstr "Fjalla واحد"
+
+#: inc/customizer-part-footer.php:91
+msgid "Footer Card Image "
+msgstr ""
+
+#: functions.php:134
+msgid "Footer Column 1"
+msgstr "تذييل العمود 1"
+
+#: functions.php:143
+msgid "Footer Column 2"
+msgstr "تذييل العمود 2"
+
+#: functions.php:152
+msgid "Footer Column 3"
+msgstr "تذييل العمود 3"
+
+#: functions.php:161
+msgid "Footer Column 4"
+msgstr "تذييل العمود 4"
+
+#: functions.php:170
+msgid "Footer Column 5"
+msgstr "تذييل العمود 5"
+
+#: functions.php:179
+msgid "Footer Column 6"
+msgstr "تذييل العمود 6"
+
+#: functions.php:43
+msgid "Footer Menu"
+msgstr "القائمة تذييل الصفحة"
+
+#: inc/customizer-part-footer.php:65
+msgid "Footer Text"
+msgstr "تذييل النص"
+
+#: inc/customizer-part-footer.php:4
+msgid "Footer Widgets"
+msgstr "الحاجيات تذييل الصفحة"
+
+#: inc/customizer-part-footer.php:173
+msgid "Form Title Title"
+msgstr "شكل العنوان العنوان"
+
+#: inc/customizer.php:136
+msgid "Francois One"
+msgstr "فرانسوا واحد"
+
+#: inc/customizer.php:137
+msgid "Frank Ruhl Libre"
+msgstr "فرانك رول Libre"
+
+#: inc/customizer.php:134
+msgid "Fredoka One"
+msgstr "Fredoka واحد"
+
+#: inc/getstarted/getstart.php:5
+msgid "Get Started"
+msgstr "نبدأ"
+
+#: inc/getstarted/getstart.php:16
+msgid "Getting Started With Digital Books Pro"
+msgstr "الشروع في العمل مع الكتب الرقمية برو"
+
+#: inc/customizer.php:138
+msgid "Gloria Hallelujah"
+msgstr "غلوريا سبحان الله"
+
+#: inc/customizer.php:139
+msgid "Great Vibes"
+msgstr "عظيم المشاعر"
+
+#: inc/customizer-custom-variables.php:43
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer-custom-variables.php:64
+msgid "H1 color"
+msgstr "H1 اللون"
+
+#: inc/customizer-custom-variables.php:53
+msgid "H1 font size in px"
+msgstr "H1 حجم الخط في px"
+
+#: inc/customizer-custom-variables.php:76
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer-custom-variables.php:97
+msgid "H2 color"
+msgstr "H2 اللون"
+
+#: inc/customizer-custom-variables.php:86
+msgid "H2 font size in px"
+msgstr "H2 حجم الخط في px"
+
+#: inc/customizer-custom-variables.php:110
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer-custom-variables.php:131
+msgid "H3 color"
+msgstr "H3 اللون"
+
+#: inc/customizer-custom-variables.php:120
+msgid "H3 font size in px"
+msgstr "H3 حجم الخط في px"
+
+#: inc/customizer-custom-variables.php:143
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer-custom-variables.php:164
+msgid "H4 color"
+msgstr "H4 اللون"
+
+#: inc/customizer-custom-variables.php:153
+msgid "H4 font size in px"
+msgstr "H4 حجم الخط في px"
+
+#: inc/customizer-custom-variables.php:176
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer-custom-variables.php:197
+msgid "H5 color"
+msgstr "H5 اللون"
+
+#: inc/customizer-custom-variables.php:186
+msgid "H5 font size in px"
+msgstr "H5 حجم الخط في px"
+
+#: inc/customizer-custom-variables.php:209
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer-custom-variables.php:230
+msgid "H6 Color"
+msgstr "H6 اللون"
+
+#: inc/customizer-custom-variables.php:219
+msgid "H6 font size in px"
+msgstr "H6 حجم الخط في px"
+
+#: inc/customizer.php:141
+msgid "Hammersmith One"
+msgstr "لندن واحدة"
+
+#: inc/customizer.php:140
+msgid "Handlee"
+msgstr "Handlee"
+
+#: inc/customizer-part-header.php:142
+msgid "Header"
+msgstr "رأس"
+
+#: inc/customizer-part-header.php:242
+msgid "Header Background Color"
+msgstr "رأس لون الخلفية"
+
+#: inc/customizer-part-header.php:175
+msgid "Header Cart Icon"
+msgstr "رأس عربة رمز"
+
+#: inc/customizer-part-header.php:224
+msgid "Header Cart Icon Color"
+msgstr "رأس عربة رمز اللون"
+
+#: inc/customizer-part-header.php:207
+msgid "Header Color Settings "
+msgstr ""
+
+#: inc/customizer-part-header.php:143
+msgid "Header Settings"
+msgstr "إعدادات رأس"
+
+#: inc/customizer-part-header.php:164
+msgid "Header User Icon"
+msgstr "رأس رمز المستخدم"
+
+#: inc/customizer-part-header.php:215
+msgid "Header User Icon Color"
+msgstr "رأس المستخدم رمز اللون"
+
+#. Name of the template
+#: page-template/home-page.php:2
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+#. Author URI of the theme
+msgid "https://www.themagnifico.net/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.themagnifico.net/demo/digital-books/"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "IM Fell English SC"
+msgstr "IM سقط الإنجليزية SC"
+
+#: inc/customizer.php:142
+msgid "Inconsolata"
+msgstr "Inconsolata"
+
+#: inc/customizer.php:143
+msgid "Indie Flower"
+msgstr "إيندي زهرة"
+
+#: template-parts/home/section-book_store.php:69
+#: template-parts/home/section-latest_book.php:61
+#: template-parts/home/section-book_tab.php:81
+#: template-parts/header/content-header.php:93
+msgid "Install WooCommerce plugin to display this section"
+msgstr "تثبيت WooCommerce المساعد لعرض هذا القسم"
+
+#: inc/customizer-part-slide.php:121
+msgid ""
+"interval is in milliseconds. 1000 = 1 second -> so 1000 * 10 = 10 seconds"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Josefin Sans"
+msgstr "جوزفين بلا"
+
+#: inc/customizer.php:146
+msgid "Josefin Slab"
+msgstr "جوزفين بلاطة"
+
+#: inc/customizer.php:145
+msgid "Julius Sans One"
+msgstr "يوليوس بلا واحد"
+
+#: inc/customizer.php:148
+msgid "Kanit"
+msgstr "Kanit"
+
+#: inc/customizer-part-footer.php:338
+msgid "Latitude"
+msgstr "العرض"
+
+#: inc/customizer.php:150
+msgid "Lato"
+msgstr "Lato"
+
+#: inc/customizer.php:152
+msgid "Libre Baskerville"
+msgstr "ليبر باسكرفيل"
+
+#: inc/customizer.php:149
+msgid "Lobster"
+msgstr "جراد البحر"
+
+#: inc/customizer.php:153
+msgid "Lobster Two"
+msgstr "جراد البحر اثنين"
+
+#: inc/customizer-part-header.php:38
+msgid "Login Button Icon"
+msgstr "تسجيل الدخول زر رمز"
+
+#: inc/customizer-part-header.php:49
+msgid "Login Button Text"
+msgstr "زر الدخول النص"
+
+#: inc/customizer-part-header.php:253 inc/customizer-part-header.php:274
+msgid "Logo Title Color"
+msgstr "شعار لون العنوان"
+
+#: inc/customizer-part-header.php:265 inc/customizer-part-header.php:286
+msgid "Logo Title Font family"
+msgstr "شعار لقب عائلة الخط"
+
+#: inc/customizer-part-footer.php:328
+msgid "Longitude"
+msgstr "الطول"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn &hellip; Don't worry &hellip; it "
+"happens to the best of us."
+msgstr "يبدو أنك قد اتخذت منعطفا خاطئا ... لا تقلق ... يحدث أن أفضل منا."
+
+#: inc/customizer.php:151
+msgid "Lora"
+msgstr "لورا"
+
+#: inc/customizer.php:158
+msgid "Marck Script"
+msgstr "Marck النصي"
+
+#: inc/customizer-part-header.php:330
+msgid "Menu DropDown Background Color"
+msgstr "القائمة المنسدلة لون الخلفية"
+
+#: inc/customizer-part-header.php:340
+msgid "Menu DropDown Item Color"
+msgstr "القائمة المنسدلة لون البند"
+
+#: inc/customizer-part-header.php:350
+msgid "Menu DropDown Item Hover Color"
+msgstr "القائمة المنسدلة البند تحوم اللون"
+
+#: inc/customizer-part-header.php:297
+msgid "Menu Item Color"
+msgstr "عنصر القائمة اللون"
+
+#: inc/customizer-part-header.php:310
+msgid "Menu Item Fonts"
+msgstr "عنصر قائمة الخطوط"
+
+#: inc/customizer-part-header.php:319
+msgid "Menu Item Hover Color"
+msgstr "عنصر القائمة تحوم اللون"
+
+#: inc/customizer.php:154
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "ميتا"
+
+#: inc/customizer.php:155
+msgid "Monda"
+msgstr "موندا"
+
+#: inc/customizer.php:156
+msgid "Montserrat"
+msgstr "مونتسيرات"
+
+#: inc/customizer.php:157
+msgid "Muli"
+msgstr "مولي"
+
+#: inc/customizer-part-header.php:60
+msgid "My Account Button Text"
+msgstr "حسابي نص الزر"
+
+#: comments.php:44 comments.php:63
+msgid "Newer Comments"
+msgstr "أحدث التعليقات"
+
+#: single.php:98
+msgid "Next"
+msgstr "القادم"
+
+#: image.php:33
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: archive.php:28 search.php:24 category.php:40 tag.php:27 index.php:28
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+#: single.php:99
+msgid "Next post:"
+msgstr "مرحلة ما بعد القادم:"
+
+#: template-parts/post/post-content.php:23
+msgid "no comments"
+msgstr "لا توجد تعليقات"
+
+#: inc/customizer.php:105
+msgid "No Fonts"
+msgstr "لا الخطوط"
+
+#: page-template/blog-with-left-sidebar.php:34
+#: page-template/blog-with-right-sidebar.php:31
+msgid "Not Found"
+msgstr "لم يتم العثور على"
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "العثور على أي شيء"
+
+#: inc/customizer.php:159
+msgid "Noto Serif"
+msgstr "نوتو الرقيق"
+
+#: inc/customizer-part-slide.php:29
+msgid "Number of slides to show"
+msgstr "عدد الشرائح إلى العرض"
+
+#: comments.php:43 comments.php:62
+msgid "Older Comments"
+msgstr "التعليقات القديمة"
+
+#: inc/customizer.php:160
+msgid "Open Sans"
+msgstr "بلا المفتوحة"
+
+#: inc/customizer.php:164
+msgid "Orbitron"
+msgstr "Orbitron"
+
+#: inc/customizer.php:161
+msgid "Overpass"
+msgstr "علوي"
+
+#: inc/customizer.php:162
+msgid "Overpass Mono"
+msgstr "جسر أحادية"
+
+#: inc/customizer.php:163
+msgid "Oxygen"
+msgstr "الأكسجين"
+
+#: inc/customizer.php:166
+msgid "Pacifico"
+msgstr "باسيفيكو"
+
+#: inc/customizer.php:167
+msgid "Padauk"
+msgstr "Padauk"
+
+#: archive.php:29 search.php:25 category.php:41 tag.php:28 index.php:29
+msgid "Page"
+msgstr "الصفحة"
+
+#: functions.php:125
+msgid "Page Sidebar"
+msgstr "صفحة الشريط الجانبي"
+
+#. Name of the template
+#: page-template/page-with-left-sidebar.php:2
+msgid "Page with Left Sidebar"
+msgstr "صفحة مع الشريط الجانبي الأيسر"
+
+#. Name of the template
+#: page-template/page-with-right-sidebar.php:2
+msgid "Page with Right Sidebar"
+msgstr "صفحة مع الشريط الجانبي الأيمن"
+
+#: image.php:50 content.php:35
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: inc/customizer-custom-variables.php:264
+msgid "Paragraph Color"
+msgstr "الفقرة اللون"
+
+#: inc/customizer-custom-variables.php:243
+msgid "Paragraph Font Family"
+msgstr "الفقرة عائلة الخط"
+
+#: inc/customizer-custom-variables.php:253
+msgid "Paragraph Font Size in px"
+msgstr "الفقرة حجم الخط في px"
+
+#: inc/customizer.php:165
+msgid "Patua One"
+msgstr "Patua واحد"
+
+#: inc/customizer.php:172
+msgid "Permanent Marker"
+msgstr "علامة دائمة"
+
+#: inc/customizer.php:171
+msgid "Philosopher"
+msgstr "الفيلسوف"
+
+#: inc/customizer-part-footer.php:273
+msgid "Phone Title"
+msgstr "الهاتف العنوان"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "البحث عن ..."
+
+#: template-parts/header/content-header.php:79
+msgctxt "placeholder"
+msgid "Type search keywords here &hellip;"
+msgstr "اكتب كلمات البحث هنا ..."
+
+#: inc/customizer.php:168
+msgid "Playball"
+msgstr "Playball"
+
+#: inc/customizer.php:169
+msgid "Playfair Display"
+msgstr "Playfair عرض"
+
+#: inc/getstarted/getstart.php:15
+msgid "Please Click on the link below to know the theme setup information"
+msgstr "يرجى النقر على الرابط أدناه لمعرفة موضوع إعداد المعلومات"
+
+#: inc/getstarted/demo-importer.php:609
+msgid ""
+"Please take backup if your website is already live with data.This importer "
+"will fill the Digital Books Pro new customizer values."
+msgstr ""
+"يرجى أخذ نسخة احتياطية إذا كان موقع الويب الخاص بك هو بالفعل يعيش مع "
+"البيانات.هذا المستورد سوف تملأ الكتب الرقمية برو الجديد مخصص القيم."
+
+#: inc/customizer.php:173
+msgid "Poiret One"
+msgstr "Poiret واحد"
+
+#: single.php:101
+msgid "Previous"
+msgstr "السابقة"
+
+#: archive.php:27 search.php:23 category.php:39 tag.php:26 index.php:27
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: single.php:102
+msgid "Previous post:"
+msgstr "الوظيفة السابقة:"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "القائمة الأولية"
+
+#: inc/customizer.php:170
+msgid "PT Sans"
+msgstr "PT بلا"
+
+#: inc/customizer.php:175
+msgid "Quattrocento Sans"
+msgstr "Quattrocento بلا"
+
+#: inc/customizer.php:174
+msgid "Quicksand"
+msgstr "الرمال المتحركة"
+
+#: inc/customizer.php:176
+msgid "Raleway"
+msgstr "Raleway"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "اقرأ المزيد \""
+
+#: no-results.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer-part-header.php:17
+msgid "Register Button"
+msgstr "زر تسجيل"
+
+#: inc/customizer-part-header.php:27
+msgid "Register Button Url"
+msgstr "تسجيل زر Url"
+
+#: inc/customizer-part-slide.php:135
+msgid "Remove Fade Effect"
+msgstr "إزالة تأثير تتلاشى"
+
+#: comments.php:54
+msgid "Reply"
+msgstr "رد"
+
+#: inc/customizer-part-header.php:381
+msgid "Responsive Menu Background Color"
+msgstr "استجابة القائمة لون الخلفية"
+
+#: inc/customizer-part-header.php:399
+msgid "Responsive Menu item Active Color"
+msgstr "استجابة عنصر القائمة النشطة اللون"
+
+#: inc/customizer-part-header.php:390
+msgid "Responsive Menu item Color"
+msgstr "استجابة القائمة البند اللون"
+
+#: search.php:9
+#, php-format
+msgid "Results For: %s"
+msgstr "نتائج ل: %s"
+
+#: inc/customizer.php:180
+msgid "Righteous"
+msgstr "الصالحين"
+
+#: inc/customizer.php:178
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/customizer.php:177
+msgid "Rubik"
+msgstr "روبيك"
+
+#: inc/getstarted/demo-importer.php:612
+msgid "Run Importer"
+msgstr "تشغيل المستورد"
+
+#: inc/customizer.php:179
+msgid "Russo One"
+msgstr "روسو واحد"
+
+#: inc/customizer.php:185
+msgid "Sacramento"
+msgstr "سكرامنتو"
+
+#: inc/customizer-part-header.php:233
+msgid "Search Icon Color"
+msgstr "البحث رمز اللون"
+
+#: inc/customizer-part-footer.php:216
+msgid "Second Email"
+msgstr "البريد الإلكتروني الثاني"
+
+#: inc/customizer-part-footer.php:294
+msgid "Second Phone"
+msgstr "الهاتف الثاني"
+
+#: inc/customizer-part-footer.php:230
+msgid "Section Address Setting"
+msgstr "قسم إعداد عنوان"
+
+#: inc/customizer-part-footer.php:32
+msgid "Section Background Setting"
+msgstr "القسم وضع خلفية"
+
+#: inc/customizer-part-footer.php:186
+msgid "Section Email Setting"
+msgstr "قسم إعداد البريد الإلكتروني"
+
+#: inc/customizer-part-footer.php:163
+msgid "Section Heading Setting"
+msgstr "عنوان المقطع الإعداد"
+
+#: inc/customizer-part-footer.php:318
+msgid "Section Map Setting"
+msgstr "قسم إعداد خريطة"
+
+#: inc/customizer-custom-variables.php:5
+msgid "Section Ordering"
+msgstr "قسم الطلب"
+
+#: inc/customizer-custom-variables.php:6
+msgid "Section Ordering."
+msgstr "قسم الطلب."
+
+#: inc/customizer-part-footer.php:264
+msgid "Section Phone Setting"
+msgstr "القسم وضع الهاتف"
+
+#: inc/customizer-custom-variables.php:19
+msgid "Section Reordering"
+msgstr "قسم إعادة ترتيب"
+
+#: inc/customizer-part-footer.php:351
+msgid "Section Text Color and Font Setting"
+msgstr "قسم النص الإعداد"
+
+#: inc/customizer-part-footer.php:361
+msgid "Section Title Color"
+msgstr "قسم لون العنوان"
+
+#: inc/customizer-part-footer.php:374
+msgid "Section Title Font Family"
+msgstr "عنوان القسم عائلة الخط"
+
+#: inc/customizer.php:184
+msgid "Shadows Into Light"
+msgstr "الظلال إلى النور"
+
+#: inc/customizer.php:183
+msgid "Shadows Into Light Two"
+msgstr "الظلال إلى النور اثنين"
+
+#: single.php:63
+msgid "Share: "
+msgstr ""
+
+#: inc/customizer-part-footer.php:16
+msgid "Show or Hide Footer"
+msgstr "إظهار أو إخفاء تذييل الصفحة"
+
+#: inc/customizer-part-header.php:156
+msgid "Show or Hide Search"
+msgstr "إظهار أو إخفاء البحث"
+
+#: inc/customizer-part-slide.php:16
+msgid "Show or Hide Slider Section"
+msgstr "إظهار أو إخفاء شريط التمرير القسم"
+
+#: inc/customizer.php:92
+msgid "Show Tagline"
+msgstr "عرض الشعار"
+
+#: inc/customizer.php:83
+msgid "Show Title"
+msgstr "عرض العنوان"
+
+#: inc/customizer.php:186
+msgid "Shrikhand"
+msgstr "Shrikhand"
+
+#: inc/customizer.php:181
+msgid "Slabo"
+msgstr "Slabo"
+
+#: inc/customizer-part-slide.php:96
+msgid "Slide Button "
+msgstr ""
+
+#: inc/customizer-part-slide.php:106
+msgid "Slide Button Url "
+msgstr ""
+
+#: inc/customizer-part-slide.php:119
+msgid "Slide Delay"
+msgstr "الشريحة تأخير"
+
+#: inc/customizer-part-slide.php:66
+msgid "Slide Main Heading "
+msgstr ""
+
+#: inc/customizer-part-slide.php:86
+msgid "Slide Text "
+msgstr ""
+
+#: inc/customizer-part-slide.php:76
+msgid "Slide Title "
+msgstr ""
+
+#: inc/customizer-part-slide.php:246
+msgid "Slider Button Background Color"
+msgstr "زر التمرير لون الخلفية"
+
+#: inc/customizer-part-slide.php:225
+msgid "Slider Button Color"
+msgstr "زر التمرير اللون"
+
+#: inc/customizer-part-slide.php:237
+msgid "Slider Button Fonts"
+msgstr "زر التمرير الخطوط"
+
+#: inc/customizer-part-slide.php:148
+msgid "Slider Color Settings "
+msgstr ""
+
+#: inc/customizer-part-slide.php:56
+msgid "Slider Image "
+msgstr ""
+
+#: inc/customizer-part-slide.php:157
+msgid "Slider Main Heading Color"
+msgstr "المنزلق الرئيسي يتجه اللون"
+
+#: inc/customizer-part-slide.php:170
+msgid "Slider Main Heading Fonts"
+msgstr "المنزلق الرئيسي البند الخطوط"
+
+#: inc/customizer-part-slide.php:3
+msgid "Slider Settings"
+msgstr "إعدادات التمرير"
+
+#: inc/customizer-part-slide.php:46
+msgid "Slider Settings "
+msgstr ""
+
+#: inc/customizer-part-slide.php:203
+msgid "Slider Text Color"
+msgstr "المنزلق لون النص"
+
+#: inc/customizer-part-slide.php:216
+msgid "Slider Text Fonts"
+msgstr "المنزلق الخطوط النص"
+
+#: inc/customizer-part-slide.php:180
+msgid "Slider Title Color"
+msgstr "المنزلق لون العنوان"
+
+#: inc/customizer-part-slide.php:193
+msgid "Slider Title Fonts"
+msgstr "عنوان المنزلق الخطوط"
+
+#: inc/customizer-part-social-icons.php:4
+msgid "Social Icons"
+msgstr "الرموز الاجتماعية"
+
+#: no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف, ولكن لا شيء يقابل شروط البحث الخاصة بك. يرجى المحاولة مرة أخرى مع بعض "
+"كلمات مختلفة."
+
+#: inc/customizer.php:182
+msgid "Source Sans Pro"
+msgstr "المصدر بلا برو"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "البحث"
+
+#: inc/customizer.php:187
+msgid "Tangerine"
+msgstr "اليوسفي"
+
+#: inc/getstarted/getstart.php:13
+msgid "Thanks for installing Digital Books Pro, you rock!"
+msgstr "شكرا على تثبيت الكتب الرقمية برو, أنت رائعة!"
+
+#. Author of the theme
+msgid "Themagnifico"
+msgstr "Themagnifico"
+
+#: inc/customizer.php:15
+msgid "Theme Bundle"
+msgstr "موضوع حزمة"
+
+#: inc/customizer.php:101
+msgid "Theme Settings"
+msgstr "إعدادات موضوع"
+
+#: inc/customizer-part-header.php:6
+msgid "Topbar"
+msgstr "Topbar"
+
+#: inc/customizer-part-header.php:134
+msgid "Topbar Background Color"
+msgstr "Topbar لون الخلفية"
+
+#: inc/customizer-part-header.php:92
+msgid "Topbar Button Color"
+msgstr "Topbar زر اللون"
+
+#: inc/customizer-part-header.php:105
+msgid "Topbar Button Fonts"
+msgstr "Topbar زر الخطوط"
+
+#: inc/customizer-part-header.php:82
+msgid "Topbar Icon Color"
+msgstr "Topbar رمز اللون"
+
+#: inc/customizer-part-header.php:125
+msgid "Topbar Login Button Background"
+msgstr "Topbar زر الدخول الخلفية"
+
+#: inc/customizer-part-header.php:115
+msgid "Topbar Register Button Background"
+msgstr "Topbar زر التسجيل الخلفية"
+
+#: inc/customizer-part-header.php:7
+msgid "Topbar Settings"
+msgstr "Topbar الإعدادات"
+
+#: inc/customizer-part-header.php:73
+msgid "Topbars Color Settings "
+msgstr ""
+
+#: inc/customizer-custom-variables.php:30
+msgid "Typography / General settings"
+msgstr "الطباعة / الإعدادات العامة"
+
+#: inc/customizer-custom-variables.php:31
+msgid "Typography settings"
+msgstr "إعدادات الطباعة"
+
+#: inc/customizer.php:188
+msgid "Ubuntu"
+msgstr "أوبونتو"
+
+#: inc/customizer.php:191
+msgid "Vampiro One"
+msgstr "Vampiro واحد"
+
+#: inc/customizer.php:190
+msgid "Varela Round"
+msgstr "فاريلا جولة"
+
+#: inc/getstarted/getstart.php:39
+msgid "Version"
+msgstr "الإصدار"
+
+#: inc/customizer.php:193
+msgid "Volkhov"
+msgstr "فولخوف"
+
+#: inc/customizer.php:192
+msgid "Vollkorn"
+msgstr "Vollkorn"
+
+#: inc/customizer.php:189
+msgid "VT323"
+msgstr "VT323"
+
+#: inc/getstarted/getstart.php:39
+msgid "Welcome to Digital Books Pro"
+msgstr "مرحبا بكم في الكتب الرقمية برو"
+
+#: inc/tgm.php:17
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer.php:194
+msgid "Yanone Kaffeesatz"
+msgstr "Yanone Kaffeesatz"

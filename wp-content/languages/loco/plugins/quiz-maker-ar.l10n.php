@@ -1,0 +1,3 @@
+<?php
+return ['project-id-version'=>'Quiz Maker','report-msgid-bugs-to'=>'','po-revision-date'=>'2025-10-18 23:28+0000','language-team'=>'العربية','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','plural-forms'=>'nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 && n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;','x-generator'=>'Loco https://localise.biz/','x-poedit-sourcecharset'=>'UTF-8','x-poedit-keywordslist'=>'__;_e;_n_noop:1,2;_x','x-poedit-basepath'=>'.','last-translator'=>'admin','pot-creation-date'=>'2025-10-18 23:28+0000','x-poedit-searchpath-0'=>'..
+','language'=>'ar','x-loco-version'=>'2.8.0; wp-6.8.3; php-8.2.28','messages'=>[]];

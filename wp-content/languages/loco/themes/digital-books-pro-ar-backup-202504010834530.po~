@@ -1,0 +1,1370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Digital Books Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-01 08:33+0000\n"
+"PO-Revision-Date: 2025-04-01 08:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2\n"
+"X-Domain: digital-books-pro"
+
+#: inc/customizer-part-slide.php:56
+msgid " (1600x562)"
+msgstr ""
+
+#: template-parts/post/post-content.php:23
+msgid "% comments"
+msgstr ""
+
+#: content.php:14
+msgid ", "
+msgstr ""
+
+#: single.php:52
+msgid "0 % Comments"
+msgstr ""
+
+#: single.php:52
+msgid "0 Comments"
+msgstr ""
+
+#: 404.php:16
+msgid "404 Not Found"
+msgstr ""
+
+#: image.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Abril Fatface"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Acme"
+msgstr ""
+
+#: inc/customizer-part-header.php:370
+msgid "Active Menu Item Background Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:360
+msgid "Active Menu Item Color"
+msgstr ""
+
+#: inc/customize-repeater/customize-repeater.php:34
+msgid "Add"
+msgstr ""
+
+#: inc/customizer-part-footer.php:305
+msgid "Add Contact Form Shortcode Here"
+msgstr ""
+
+#: inc/customizer-part-footer.php:150
+msgid "Add contact page settings here)."
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:34
+msgid "Add facebook link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:88
+msgid "Add Flicker link"
+msgstr ""
+
+#: inc/customizer-part-header.php:39
+msgid "Add Font Awesome Class Here"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:55
+msgid "Add Instagram link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:66
+msgid "Add Linkedin link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:24
+msgid "Add pinterest link"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:22
+msgid "Add Row"
+msgstr ""
+
+#: inc/customizer-part-slide.php:4
+msgid "Add slider images here."
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:5
+msgid "Add social Icons Here"
+msgstr ""
+
+#: inc/customizer-part-footer.php:66
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:77
+msgid "Add Tumblric link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:13
+msgid "Add twitter link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:99
+msgid "Add Vk link"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:44
+msgid "Add Youtube link"
+msgstr ""
+
+#: inc/customizer-part-footer.php:240
+msgid "Address"
+msgstr ""
+
+#: inc/customizer-part-footer.php:250
+msgid "Address "
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Alegreya"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Alfa Slab One"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Anton"
+msgstr ""
+
+#: functions.php:117
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:135 functions.php:144 functions.php:153 functions.php:162
+#: functions.php:171 functions.php:180
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:126
+msgid "Appears on page sidebar"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Architects Daughter"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Arimo"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Arsenal"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Arvo"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Averia Serif Libre"
+msgstr ""
+
+#: no-results.php:22 404.php:20
+msgid "Back to Home Page"
+msgstr ""
+
+#: inc/customizer-part-footer.php:43 inc/customizer-part-footer.php:102
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:56 inc/customizer-part-footer.php:116
+msgid "Background image"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Bad Script"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Bangers"
+msgstr ""
+
+#: inc/customizer-part-header.php:185
+msgid "Bar Icon"
+msgstr ""
+
+#: inc/customizer-part-header.php:195
+msgid "Bar Icon Url"
+msgstr ""
+
+#: inc/getstarted/getstart.php:40
+msgid ""
+"Before demo importer first install given plugins, Contact Form 7 and "
+"Woocommerce plugin then click on demo importer button to import all the demo "
+"contents."
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "BenchNine"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Bitter"
+msgstr ""
+
+#. Name of the template
+#: page-template/blog-fullwidth-extend.php:2
+msgid "Blog Full Width Extend"
+msgstr ""
+
+#: functions.php:116
+msgid "Blog Sidebar"
+msgstr ""
+
+#. Name of the template
+#: page-template/blog-with-left-sidebar.php:2
+msgid "Blog with Left Sidebar"
+msgstr ""
+
+#. Name of the template
+#: page-template/blog-with-right-sidebar.php:2
+msgid "Blog with Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Boogaloo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Bookstore WordPress Theme is specially designed for book store, education, "
+"author, selling ebooks, PDFs online, journalists, editors, publishers, "
+"course providers, literature, copywriter, journal, publisher, story, caters "
+"education, selling ebooks, coffee book store, journalists, e-magazines, "
+"online and onsite book stores, poets, bloggers, online store, or a book "
+"portfolio site PDFs online, course providers, online courses and journalism "
+"websites. Also, it is suitable for teachers, institutes, training academy, "
+"coaching centre, LMS, guidance, counselling centre, e-learning, "
+"kindergartens, playschools, day care centres, and primary schools websites. "
+"The theme is mobile-friendly with a responsive design. Also, it is SEO-"
+"friendly. Make your website more colourful and attractive using advanced "
+"color options, Color pallets, font awesome icons, 100+ font family options "
+"and adding custom CSS/JS if you know to code. For customizing the pages you "
+"have full-width template, custom page"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Bree Serif"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Buy Now"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Cabin"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Cardo"
+msgstr ""
+
+#: single.php:88
+msgid "Categories: "
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Cherry Swash"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Chewy"
+msgstr ""
+
+#: inc/getstarted/demo-importer.php:608
+msgid "Click on the below content to get demo content installed."
+msgstr ""
+
+#: comments.php:41 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:26
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. Name of the template
+#: page-template/contact.php:2 inc/customizer-part-footer.php:149
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer-part-footer.php:409
+msgid "Contact Content Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:422
+msgid "Contact Content Font Family"
+msgstr ""
+
+#: inc/customizer-part-footer.php:433
+msgid "Contact Content Icon Color"
+msgstr ""
+
+#: inc/tgm.php:10
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/customizer-part-footer.php:385
+msgid "Contact Heading Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:398
+msgid "Contact Heading Font Family"
+msgstr ""
+
+#: inc/customizer-part-footer.php:304
+msgid "Contact Shortcode"
+msgstr ""
+
+#: inc/customizer-part-footer.php:128
+msgid "Content Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:141
+msgid "Content Font Family"
+msgstr ""
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. %s: Name of current post
+#: functions.php:414
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Cookie"
+msgstr ""
+
+#: inc/customizer-part-footer.php:76
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Cormorant Garamond"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Courgette"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Crimson Text"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Cuprum"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Days One"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Description of what this panel does."
+msgstr ""
+
+#. Name of the theme
+msgid "Digital Books Pro"
+msgstr ""
+
+#: inc/getstarted/getstart.php:14
+msgid ""
+"Digital Books Pro now supports colors, typography custom links for custom "
+"post types. Take benefit of a variety of features, functionalities, elements,"
+" and an exclusive set of customization options to build your own "
+"professional website"
+msgstr ""
+
+#: inc/customizer-part-footer.php:117
+msgid "Dimention 1600 * 500"
+msgstr ""
+
+#: inc/customizer-part-footer.php:57
+msgid "Dimention 1600 * 600"
+msgstr ""
+
+#: no-results.php:19
+msgid "Don't worry &hellip; it happens to the best of us."
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Dosis"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Economica"
+msgstr ""
+
+#: image.php:28 image.php:55
+msgid "Edit"
+msgstr ""
+
+#: inc/customizer-part-footer.php:5
+msgid "Edit footer Widgets sections"
+msgstr ""
+
+#: inc/customizer-part-footer.php:44 inc/customizer-part-footer.php:103
+msgid ""
+"Either add background color or background image, if you add both background "
+"color will be top most priority"
+msgstr ""
+
+#: inc/customizer-part-footer.php:196
+msgid "Email Title"
+msgstr ""
+
+#: inc/customizer-part-footer.php:206
+msgid "First Email"
+msgstr ""
+
+#: inc/customizer-part-footer.php:283
+msgid "First Phone"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid "Fitness logo"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Fjalla One"
+msgstr ""
+
+#: inc/customizer-part-footer.php:91
+msgid "Footer Card Image "
+msgstr ""
+
+#: functions.php:134
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:152
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:161
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer Column 5"
+msgstr ""
+
+#: functions.php:179
+msgid "Footer Column 6"
+msgstr ""
+
+#: functions.php:43
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer-part-footer.php:65
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer-part-footer.php:4
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer-part-footer.php:173
+msgid "Form Title Title"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Francois One"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Frank Ruhl Libre"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Fredoka One"
+msgstr ""
+
+#: inc/getstarted/getstart.php:5
+msgid "Get Started"
+msgstr ""
+
+#: inc/getstarted/getstart.php:16
+msgid "Getting Started With Digital Books Pro"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Gloria Hallelujah"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Great Vibes"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:43
+msgid "H1"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:64
+msgid "H1 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:53
+msgid "H1 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:76
+msgid "H2"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:97
+msgid "H2 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:86
+msgid "H2 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:110
+msgid "H3"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:131
+msgid "H3 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:120
+msgid "H3 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:143
+msgid "H4"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:164
+msgid "H4 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:153
+msgid "H4 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:176
+msgid "H5"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:197
+msgid "H5 color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:186
+msgid "H5 font size in px"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:209
+msgid "H6"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:230
+msgid "H6 Color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:219
+msgid "H6 font size in px"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Hammersmith One"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Handlee"
+msgstr ""
+
+#: inc/customizer-part-header.php:142
+msgid "Header"
+msgstr ""
+
+#: inc/customizer-part-header.php:242
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:175
+msgid "Header Cart Icon"
+msgstr ""
+
+#: inc/customizer-part-header.php:224
+msgid "Header Cart Icon Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:207
+msgid "Header Color Settings "
+msgstr ""
+
+#: inc/customizer-part-header.php:143
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer-part-header.php:164
+msgid "Header User Icon"
+msgstr ""
+
+#: inc/customizer-part-header.php:215
+msgid "Header User Icon Color"
+msgstr ""
+
+#. Name of the template
+#: page-template/home-page.php:2
+msgid "Home Page"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themagnifico.net/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.themagnifico.net/demo/digital-books/"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "IM Fell English SC"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Inconsolata"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Indie Flower"
+msgstr ""
+
+#: template-parts/home/section-book_store.php:69
+#: template-parts/home/section-latest_book.php:61
+#: template-parts/home/section-book_tab.php:81
+#: template-parts/header/content-header.php:93
+msgid "Install WooCommerce plugin to display this section"
+msgstr ""
+
+#: inc/customizer-part-slide.php:121
+msgid ""
+"interval is in milliseconds. 1000 = 1 second -> so 1000 * 10 = 10 seconds"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Josefin Sans"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Josefin Slab"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Julius Sans One"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Kanit"
+msgstr ""
+
+#: inc/customizer-part-footer.php:338
+msgid "Latitude"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Lato"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Libre Baskerville"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Lobster"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Lobster Two"
+msgstr ""
+
+#: inc/customizer-part-header.php:38
+msgid "Login Button Icon"
+msgstr ""
+
+#: inc/customizer-part-header.php:49
+msgid "Login Button Text"
+msgstr ""
+
+#: inc/customizer-part-header.php:253 inc/customizer-part-header.php:274
+msgid "Logo Title Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:265 inc/customizer-part-header.php:286
+msgid "Logo Title Font family"
+msgstr ""
+
+#: inc/customizer-part-footer.php:328
+msgid "Longitude"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn &hellip; Don't worry &hellip; it "
+"happens to the best of us."
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Lora"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Marck Script"
+msgstr ""
+
+#: inc/customizer-part-header.php:330
+msgid "Menu DropDown Background Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:340
+msgid "Menu DropDown Item Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:350
+msgid "Menu DropDown Item Hover Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:297
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:310
+msgid "Menu Item Fonts"
+msgstr ""
+
+#: inc/customizer-part-header.php:319
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Merriweather"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Monda"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Montserrat"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Muli"
+msgstr ""
+
+#: inc/customizer-part-header.php:60
+msgid "My Account Button Text"
+msgstr ""
+
+#: comments.php:44 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: single.php:98
+msgid "Next"
+msgstr ""
+
+#: image.php:33
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: archive.php:28 search.php:24 category.php:40 tag.php:27 index.php:28
+msgid "Next page"
+msgstr ""
+
+#: single.php:99
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/post/post-content.php:23
+msgid "no comments"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "No Fonts"
+msgstr ""
+
+#: page-template/blog-with-left-sidebar.php:34
+#: page-template/blog-with-right-sidebar.php:31
+msgid "Not Found"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Noto Serif"
+msgstr ""
+
+#: inc/customizer-part-slide.php:29
+msgid "Number of slides to show"
+msgstr ""
+
+#: comments.php:43 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Open Sans"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Orbitron"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Overpass"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Overpass Mono"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Oxygen"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Pacifico"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Padauk"
+msgstr ""
+
+#: archive.php:29 search.php:25 category.php:41 tag.php:28 index.php:29
+msgid "Page"
+msgstr ""
+
+#: functions.php:125
+msgid "Page Sidebar"
+msgstr ""
+
+#. Name of the template
+#: page-template/page-with-left-sidebar.php:2
+msgid "Page with Left Sidebar"
+msgstr ""
+
+#. Name of the template
+#: page-template/page-with-right-sidebar.php:2
+msgid "Page with Right Sidebar"
+msgstr ""
+
+#: image.php:50 content.php:35
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:264
+msgid "Paragraph Color"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:243
+msgid "Paragraph Font Family"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:253
+msgid "Paragraph Font Size in px"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Patua One"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Permanent Marker"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Philosopher"
+msgstr ""
+
+#: inc/customizer-part-footer.php:273
+msgid "Phone Title"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: template-parts/header/content-header.php:79
+msgctxt "placeholder"
+msgid "Type search keywords here &hellip;"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Playball"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Playfair Display"
+msgstr ""
+
+#: inc/getstarted/getstart.php:15
+msgid "Please Click on the link below to know the theme setup information"
+msgstr ""
+
+#: inc/getstarted/demo-importer.php:609
+msgid ""
+"Please take backup if your website is already live with data.This importer "
+"will fill the Digital Books Pro new customizer values."
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Poiret One"
+msgstr ""
+
+#: single.php:101
+msgid "Previous"
+msgstr ""
+
+#: archive.php:27 search.php:23 category.php:39 tag.php:26 index.php:27
+msgid "Previous page"
+msgstr ""
+
+#: single.php:102
+msgid "Previous post:"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "PT Sans"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Quattrocento Sans"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Quicksand"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Raleway"
+msgstr ""
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr ""
+
+#: no-results.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer-part-header.php:17
+msgid "Register Button"
+msgstr ""
+
+#: inc/customizer-part-header.php:27
+msgid "Register Button Url"
+msgstr ""
+
+#: inc/customizer-part-slide.php:135
+msgid "Remove Fade Effect"
+msgstr ""
+
+#: comments.php:54
+msgid "Reply"
+msgstr ""
+
+#: inc/customizer-part-header.php:381
+msgid "Responsive Menu Background Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:399
+msgid "Responsive Menu item Active Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:390
+msgid "Responsive Menu item Color"
+msgstr ""
+
+#: search.php:9
+#, php-format
+msgid "Results For: %s"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Righteous"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Rokkitt"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Rubik"
+msgstr ""
+
+#: inc/getstarted/demo-importer.php:612
+msgid "Run Importer"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Russo One"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Sacramento"
+msgstr ""
+
+#: inc/customizer-part-header.php:233
+msgid "Search Icon Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:216
+msgid "Second Email"
+msgstr ""
+
+#: inc/customizer-part-footer.php:294
+msgid "Second Phone"
+msgstr ""
+
+#: inc/customizer-part-footer.php:230
+msgid "Section Address Setting"
+msgstr ""
+
+#: inc/customizer-part-footer.php:32
+msgid "Section Background Setting"
+msgstr ""
+
+#: inc/customizer-part-footer.php:186
+msgid "Section Email Setting"
+msgstr ""
+
+#: inc/customizer-part-footer.php:163
+msgid "Section Heading Setting"
+msgstr ""
+
+#: inc/customizer-part-footer.php:318
+msgid "Section Map Setting"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:5
+msgid "Section Ordering"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:6
+msgid "Section Ordering."
+msgstr ""
+
+#: inc/customizer-part-footer.php:264
+msgid "Section Phone Setting"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:19
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/customizer-part-footer.php:351
+msgid "Section Text Color and Font Setting"
+msgstr ""
+
+#: inc/customizer-part-footer.php:361
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/customizer-part-footer.php:374
+msgid "Section Title Font Family"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Shadows Into Light"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Shadows Into Light Two"
+msgstr ""
+
+#: single.php:63
+msgid "Share: "
+msgstr ""
+
+#: inc/customizer-part-footer.php:16
+msgid "Show or Hide Footer"
+msgstr ""
+
+#: inc/customizer-part-header.php:156
+msgid "Show or Hide Search"
+msgstr ""
+
+#: inc/customizer-part-slide.php:16
+msgid "Show or Hide Slider Section"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Show Tagline"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Show Title"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Shrikhand"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Slabo"
+msgstr ""
+
+#: inc/customizer-part-slide.php:96
+msgid "Slide Button "
+msgstr ""
+
+#: inc/customizer-part-slide.php:106
+msgid "Slide Button Url "
+msgstr ""
+
+#: inc/customizer-part-slide.php:119
+msgid "Slide Delay"
+msgstr ""
+
+#: inc/customizer-part-slide.php:66
+msgid "Slide Main Heading "
+msgstr ""
+
+#: inc/customizer-part-slide.php:86
+msgid "Slide Text "
+msgstr ""
+
+#: inc/customizer-part-slide.php:76
+msgid "Slide Title "
+msgstr ""
+
+#: inc/customizer-part-slide.php:246
+msgid "Slider Button Background Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:225
+msgid "Slider Button Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:237
+msgid "Slider Button Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:148
+msgid "Slider Color Settings "
+msgstr ""
+
+#: inc/customizer-part-slide.php:56
+msgid "Slider Image "
+msgstr ""
+
+#: inc/customizer-part-slide.php:157
+msgid "Slider Main Heading Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:170
+msgid "Slider Main Heading Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:3
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer-part-slide.php:46
+msgid "Slider Settings "
+msgstr ""
+
+#: inc/customizer-part-slide.php:203
+msgid "Slider Text Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:216
+msgid "Slider Text Fonts"
+msgstr ""
+
+#: inc/customizer-part-slide.php:180
+msgid "Slider Title Color"
+msgstr ""
+
+#: inc/customizer-part-slide.php:193
+msgid "Slider Title Fonts"
+msgstr ""
+
+#: inc/customizer-part-social-icons.php:4
+msgid "Social Icons"
+msgstr ""
+
+#: no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Source Sans Pro"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Tangerine"
+msgstr ""
+
+#: inc/getstarted/getstart.php:13
+msgid "Thanks for installing Digital Books Pro, you rock!"
+msgstr ""
+
+#. Author of the theme
+msgid "Themagnifico"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Theme Bundle"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer-part-header.php:6
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer-part-header.php:134
+msgid "Topbar Background Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:92
+msgid "Topbar Button Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:105
+msgid "Topbar Button Fonts"
+msgstr ""
+
+#: inc/customizer-part-header.php:82
+msgid "Topbar Icon Color"
+msgstr ""
+
+#: inc/customizer-part-header.php:125
+msgid "Topbar Login Button Background"
+msgstr ""
+
+#: inc/customizer-part-header.php:115
+msgid "Topbar Register Button Background"
+msgstr ""
+
+#: inc/customizer-part-header.php:7
+msgid "Topbar Settings"
+msgstr ""
+
+#: inc/customizer-part-header.php:73
+msgid "Topbars Color Settings "
+msgstr ""
+
+#: inc/customizer-custom-variables.php:30
+msgid "Typography / General settings"
+msgstr ""
+
+#: inc/customizer-custom-variables.php:31
+msgid "Typography settings"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Ubuntu"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Vampiro One"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Varela Round"
+msgstr ""
+
+#: inc/getstarted/getstart.php:39
+msgid "Version"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Volkhov"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Vollkorn"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "VT323"
+msgstr ""
+
+#: inc/getstarted/getstart.php:39
+msgid "Welcome to Digital Books Pro"
+msgstr ""
+
+#: inc/tgm.php:17
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Yanone Kaffeesatz"
+msgstr ""

@@ -1,0 +1,3 @@
+<?php
+return ['project-id-version'=>'Google for WooCommerce 2.9.10','report-msgid-bugs-to'=>'https://wordpress.org/support/plugin/google-listings-and-ads','last-translator'=>'','language-team'=>'العربية','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','pot-creation-date'=>'2025-03-18T04:54:47+00:00','po-revision-date'=>'2025-04-13 08:26+0000','x-generator'=>'Loco https://localise.biz/','x-domain'=>'google-listings-and-ads
+','language'=>'ar','plural-forms'=>'nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 && n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;','x-loco-version'=>'2.7.2; wp-6.7.2','messages'=>[]];

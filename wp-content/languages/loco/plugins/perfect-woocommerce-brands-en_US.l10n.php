@@ -1,0 +1,3 @@
+<?php
+return ['project-id-version'=>'Perfect Brands WooCommerce 3.5.0','report-msgid-bugs-to'=>'https://wordpress.org/support/plugin/perfect-woocommerce-brands','last-translator'=>'','language-team'=>'English (United States)','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','pot-creation-date'=>'2025-03-05T13:50:35+00:00','po-revision-date'=>'2025-04-01 05:19+0000','x-generator'=>'Loco https://localise.biz/','x-domain'=>'perfect-woocommerce-brands
+','language'=>'en_US','plural-forms'=>'nplurals=2; plural=n != 1;','x-loco-version'=>'2.7.1; wp-6.7.2','messages'=>[]];
